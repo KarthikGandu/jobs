@@ -1,0 +1,249 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-9a34850ba95dda3c,indeed,https://www.indeed.com/viewjob?jk=9a34850ba95dda3c,https://www.amazon.jobs/jobs/3120218/firmware-engineer-annapurna-labs-ml-acceleration--performance-instrumentation--developer-tools?cmpid=DA_INAD200785B,"Firmware Engineer, Annapurna Labs, ML Acceleration - Performance Instrumentation & Developer Tools",Amazon Web Services,"Cupertino, CA, US",2025-11-03,[],,,,,,False,,,,[],"**DESCRIPTION**
+---------------
+
+AWS Utility Computing (UC) provides product Annapurna Labs (our organization within AWS UC) designs silicon and software that accelerates innovation. Customers choose us to create cloud solutions that solve challenges that were unimaginable a short time ago—even yesterday. Our custom chips, accelerators, and software stacks enable us to take on technical challenges that have never been seen before, and deliver results that help our customers change the world.  
+  
+We are seeking a Senior Firmware Engineer to join our Power Architecture team, developing firmware algorithms for power and performance management on ML Acceleration Chips. In this role, you will design and implement intelligent control algorithms, optimization strategies, and real-time decision-making systems that maximize performance while managing power and thermal constraints.  
+  
+You will develop sophisticated firmware that monitors system state, makes dynamic trade-offs between power and performance, and implements adaptive control policies. To enable this work, you will also build instrumentation and tracing capabilities that provide the telemetry needed to develop, tune, and validate your algorithms, with collected data optionally post-processed using cloud-based analytics.  
+  
+Key job responsibilities  
+
+* Design and implement firmware algorithms for power management, thermal control, and performance optimization on ML acceleration hardware
+* Develop real-time control policies and state machines that dynamically balance power, thermal, and performance constraints
+* Create optimization algorithms for resource allocation, frequency/voltage scaling, and workload scheduling
+* Implement efficient data structures and algorithms suitable for embedded, resource-constrained environments
+* Design and implement on-device tracing and telemetry collection systems to support algorithm development and validation
+* Build developer tools and data pipelines for metric collection, analysis, and visualization of algorithm behavior
+* Implement low-overhead instrumentation that minimizes impact on workload performance
+* Collaborate with hardware architects to understand hardware capabilities and identify optimal instrumentation points
+* Develop automated testing and validation workflows; integrate with optional cloud-based analytics pipelines
+* Own firmware code quality through rigorous testing, debugging, and validation on hardware
+
+  
+A day in the life  
+You will work closely with power architects and hardware teams to understand silicon capabilities, implement low-level control mechanisms, and create the algorithms and tooling that deliver optimal system behavior.  
+  
+This position is ideal for firmware engineers who enjoy solving algorithmic challenges in resource-constrained environments, working close to hardware, and building systems that intelligently manage complex trade-offs in real-time.  
+  
+About the team  
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge-sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future.  
+  
+Diverse Experiences  
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+  
+About AWS  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+  
+Inclusive Team Culture  
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+  
+Work/Life Balance  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.  
+  
+Mentorship & Career Growth  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3+ years of software development, or 3+ years of software development experience
+* Bachelor's degree in computer science, electrical engineering, or related field
+* Strong firmware or embedded systems development experience
+* Proficiency in C/C++ for systems programming with strong foundation in algorithms and data structures
+* Experience implementing efficient algorithms in resource-constrained, real-time environments
+* Experience with hardware interfaces, instrumentation, or performance monitoring
+* Strong debugging skills with hardware-software systems
+* Experience building developer tools or instrumentation frameworks
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience developing control algorithms, optimization algorithms, or state machines in firmware
+* Experience with power management algorithms, thermal control policies, or dynamic performance optimization
+* Background in tracing frameworks, telemetry systems, or performance analysis
+* Understanding of algorithmic complexity and optimization techniques for embedded systems
+* Familiarity with hardware performance counters, on-chip monitoring, or hardware debug interfaces
+* Experience with data collection pipelines and scripting (Python, shell) for algorithm validation
+* Understanding of ML training/inference workloads and their performance characteristics
+* Takes strong ownership, works effectively in ambiguous situations, demonstrates a bias for action while consistently delivering impactful results
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",,https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6,https://aws.amazon.com/careers/why-aws/,"Seattle, WA",Decline to state,more than $10B (USD),"Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. "
+in-072b28ec0efb8ca6,indeed,https://www.indeed.com/viewjob?jk=072b28ec0efb8ca6,https://www.amazon.jobs/jobs/3120217/sr-firmware-engineer-annapurna-labs-machine-learning-acceleration--power-and-performance?cmpid=DA_INAD200785B,"Sr. Firmware Engineer, Annapurna Labs, Machine Learning Acceleration - Power and Performance",Amazon Web Services,"Cupertino, CA, US",2025-11-03,[],,,,,,False,,,,[],"**DESCRIPTION**
+---------------
+
+AWS Utility Computing (UC) provides product Annapurna Labs (our organization within AWS UC) designs silicon and software that accelerates innovation. Customers choose us to create cloud solutions that solve challenges that were unimaginable a short time ago—even yesterday. Our custom chips, accelerators, and software stacks enable us to take on technical challenges that have never been seen before, and deliver results that help our customers change the world.  
+  
+We are seeking a Senior Firmware Engineer to join our Power Architecture team, developing firmware algorithms for power and performance management on ML Acceleration Chips. In this role, you will design and implement intelligent control algorithms, optimization strategies, and real-time decision-making systems that maximize performance while managing power and thermal constraints.  
+  
+You will develop sophisticated firmware that monitors system state, makes dynamic trade-offs between power and performance, and implements adaptive control policies. To enable this work, you will also build instrumentation and tracing capabilities that provide the telemetry needed to develop, tune, and validate your algorithms, with collected data optionally post-processed using cloud-based analytics.  
+  
+Key job responsibilities  
+
+* Design and implement firmware algorithms for power management, thermal control, and performance optimization on ML acceleration hardware
+* Develop real-time control policies and state machines that dynamically balance power, thermal, and performance constraints
+* Create optimization algorithms for resource allocation, frequency/voltage scaling, and workload scheduling
+* Implement efficient data structures and algorithms suitable for embedded, resource-constrained environments
+* Design and implement on-device tracing and telemetry collection systems to support algorithm development and validation
+* Build developer tools and data pipelines for metric collection, analysis, and visualization of algorithm behavior
+* Implement low-overhead instrumentation that minimizes impact on workload performance
+* Collaborate with hardware architects to understand hardware capabilities and identify optimal instrumentation points
+* Develop automated testing and validation workflows; integrate with optional cloud-based analytics pipelines
+* Own firmware code quality through rigorous testing, debugging, and validation on hardware
+
+  
+A day in the life  
+You will work closely with power architects and hardware teams to understand silicon capabilities, implement low-level control mechanisms, and create the algorithms and tooling that deliver optimal system behavior.  
+  
+This position is ideal for firmware engineers who enjoy solving algorithmic challenges in resource-constrained environments, working close to hardware, and building systems that intelligently manage complex trade-offs in real-time.  
+  
+About the team  
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge-sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future.  
+  
+Diverse Experiences  
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+  
+About AWS  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+  
+Inclusive Team Culture  
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+  
+Work/Life Balance  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.  
+  
+Mentorship & Career Growth  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 5+ years of non-internship professional software development experience
+* Experience as a mentor, tech lead or leading an engineering team
+* Bachelor's degree in computer science, electrical engineering, or related field
+* Strong firmware or embedded systems development experience
+* Proficiency in C/C++ for systems programming with strong foundation in algorithms and data structures
+* Experience implementing efficient algorithms in resource-constrained, real-time environments
+* Experience with hardware interfaces, instrumentation, or performance monitoring
+* Strong debugging skills with hardware-software systems
+* Experience building developer tools or instrumentation frameworks
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Experience developing control algorithms, optimization algorithms, or state machines in firmware
+* Experience with power management algorithms, thermal control policies, or dynamic performance optimization
+* Background in tracing frameworks, telemetry systems, or performance analysis
+* Understanding of algorithmic complexity and optimization techniques for embedded systems
+* Familiarity with hardware performance counters, on-chip monitoring, or hardware debug interfaces
+* Experience with data collection pipelines and scripting (Python, shell) for algorithm validation
+* Understanding of ML training/inference workloads and their performance characteristics
+* Takes strong ownership, works effectively in ambiguous situations, demonstrates a bias for action while consistently delivering impactful results
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",,https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6,https://aws.amazon.com/careers/why-aws/,"Seattle, WA",Decline to state,more than $10B (USD),"Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. "
+in-f108b622665a35aa,indeed,https://www.indeed.com/viewjob?jk=f108b622665a35aa,https://www.amazon.jobs/jobs/3055172/senior-software-development-engineer-aiml-aws-neuron-model-inference?cmpid=DA_INAD200785B,"Senior Software Development Engineer, AI/ML, AWS Neuron, Model Inference",Amazon Web Services,"Cupertino, CA, US",2025-08-06,[],,,,,,False,,,,[],"**DESCRIPTION**
+---------------
+
+The Annapurna Labs team at Amazon Web Services (AWS) builds AWS Neuron, the software development kit used to accelerate deep learning and GenAI workloads on Amazon’s custom machine learning accelerators, Inferentia and Trainium.  
+  
+The AWS Neuron SDK, developed by the Annapurna Labs team at AWS, is the backbone for accelerating deep learning and GenAI workloads on Amazon's Inferentia and Trainium ML accelerators. This comprehensive toolkit includes an ML compiler, runtime, and application framework that seamlessly integrates with popular ML frameworks like PyTorch and JAX enabling unparalleled ML inference and training performance.  
+  
+The Inference Enablement and Acceleration team is at the forefront of running a wide range of models and supporting novel architecture alongside maximizing their performance for AWS's custom ML accelerators. Working across the stack from PyTorch till the hardware-software boundary, our engineers build systematic infrastructure, innovate new methods and create high-performance kernels for ML functions, ensuring every compute unit is fine tuned for optimal performance for our customers' demanding workloads. We combine deep hardware knowledge with ML expertise to push the boundaries of what's possible in AI acceleration.  
+  
+As part of the broader Neuron organization, our team works across multiple technology layers - from frameworks and kernels and collaborate with compiler to runtime and collectives. We not only optimize current performance but also contribute to future architecture designs, working closely with customers to enable their models and ensure optimal performance. This role offers a unique opportunity to work at the intersection of machine learning, high-performance computing, and distributed architectures, where you'll help shape the future of AI acceleration technology  
+  
+You will architect and implement business critical features, and mentor a brilliant team of experienced engineers. We operate in spaces that are very large, yet our teams remain small and agile. There is no blueprint. We're inventing. We're experimenting. It is a very unique learning culture. The team works closely with customers on their model enablement, providing direct support and optimization expertise to ensure their machine learning workloads achieve optimal performance on AWS ML accelerators. The team collaborates with open source ecosystems to provide seamless integration and bring peak performance at scale for customers and developers.  
+  
+This role is responsible for development, enablement and performance tuning of a wide variety of LLM model families, including massive scale large language models like the Llama family, DeepSeek and beyond. The Inference Enablement and Acceleration team works side by side with compiler engineers and runtime engineers to create, build and tune distributed inference solutions with Trainium and Inferentia. Experience optimizing inference performance for both latency and throughput on such large models across the stack from system level optimizations through to Pytorch or JAX is a must have.  
+  
+You can learn more about Neuron
+  
+https://awsdocs-neuron.readthedocs-hosted.com  
+https://aws.amazon.com/machine-learning/neuron/ https://github.com/aws/aws-neuron-sdk https://www.amazon.science/how-silicon-innovation-became-the-secret-sauce-behind-awss-success  
+  
+Key job responsibilities  
+This role will help lead the efforts in building distributed inference support for Pytorch in the Neuron SDK. This role will tune these models to ensure highest performance and maximize the efficiency of them running on the customer AWS Trainium and Inferentia silicon and servers. Strong software development using Python, System level programming and ML knowledge are both critical to this role. Our engineers collaborate across compiler, runtime, framework, and hardware teams to optimize machine learning workloads for our global customer base. Working at the intersection of software, hardware, and machine learning systems, you'll bring expertise in low-level optimization, system architecture, and ML model acceleration.
+  
+  
+In this role, you will:  
+
+* would with state of the art LLMs, Open source and internal LLM families, large scale performance and benchmark evaluations etc.,
+
+  
+
+* develop and performance tune a wide variety of LLM model families, including 500B+ large language models like the Llama family, DeepSeek and beyond.
+
+  
+
+* work side by side with performance, compiler and runtime engineers to create, build and tune distributed inference solutions with Trainium and Inferentia.
+
+  
+
+* build infrastructure to systematically analyze and onboard multiple models with diverse architecture.
+
+  
+
+* collaborate with performance team to enable and evaluate optimizations such as fusion, sharding, tiling, and scheduling etc.,
+
+  
+
+* conduct comprehensive testing, including unit and end-to-end model testing with continuous deployment and releases through pipelines.
+
+  
+
+* work directly with customers to enable and optimize their ML models on AWS accelerators
+
+  
+
+* collaborate across teams to develop innovative optimization techniques
+
+  
+
+* Build online/offline inference serving with vLLM, SGLang, TensorRT or similar platforms in production environments.
+
+  
+A day in the life  
+You will collaborate with a cross-functional team of applied scientists, system engineers, and product managers to deliver state-of-the-art inference capabilities for Generative AI applications. Your work will involve debugging performance issues, optimizing memory usage, and shaping the future of Neuron's inference stack across Amazon and the Open Source Community. As you design and code solutions to help our team drive efficiencies in software architecture, you’ll create metrics, implement automation and other improvements, and resolve the root cause of software defects.  
+  
+You will also build high-impact solutions to deliver to our large customer base and participate in design discussions, code review, and communicate with internal and external stakeholders. You will work cross-functionally to help drive business decisions with your technical input. You will work in a startup-like development environment, where you’re always working on the most important initiative.  
+  
+About the team  
+The Inference Enablement and Acceleration team fosters a builder’s culture where experimentation is encouraged, and impact is measurable. We emphasize collaboration, technical ownership, and continuous learning. Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge-sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects that help our team members develop your engineering expertise so you feel empowered to take on more complex tasks in the future. Join us to solve some of the most interesting and impactful infrastructure challenges in AI/ML today.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 5+ years of non-internship professional software development experience
+* 5+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Fundamentals of Machine learning and LLMs, their architecture, training and inference lifecycles along with work experience on some optimizations for improving the model execution.
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Masters degree in computer science or equivalent
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $151,300/year in our lowest geographic market up to $261,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",,https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6,https://aws.amazon.com/careers/why-aws/,"Seattle, WA",Decline to state,more than $10B (USD),"Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. "

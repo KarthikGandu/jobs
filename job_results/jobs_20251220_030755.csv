@@ -1,0 +1,237 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-2cdb65c4bc369ffc,indeed,https://www.indeed.com/viewjob?jk=2cdb65c4bc369ffc,https://recruiting.adp.com/srccsh/public/RTI.home?r=5001169826106&c=2173007&d=CPIEDB&rb=INDEED&idUnique=5001169826106,Program Applications Analyst IV,Schneller,"Beverly, MA, US",2025-12-19,[],description,CompensationInterval.YEARLY,104540.0,162040.0,USD,False,,,,[],"***What we do matters*****!**
+
+CPI Electron Device Business, with a history spanning more than seven decades, is a global leader in design, development, and manufacturing of electronic components and subsystems. We have locations in the United States and Europe. With a heritage of technological excellence, our team serves customers in the radar, defense, industrial, and scientific markets.
+
+CPI EDB produces thousands of products that have impacted people's lives in numerous unseen ways every day. Our highly engineered products serve as the backbone of modern-day commercial and military communications systems, support and protect soldiers, sailors, and pilots, empower scientific discoveries and space exploration, help ensure the safety of imported foods and materials, and much more.
+
+We are looking for energetic, agile, highly motivated, and customer focused individuals to join our team and help us to continue to be a market leader, shaping the future in communications and power.
+
+**YOUR DAY TO DAY**:  
+  
+The Program Applications Analyst IV position demands an advanced and comprehensive understanding of JDE EnterpriseOne. The role is responsible for gathering and validating data from diverse sources, ensuring both accuracy and integrity throughout all processes. Key responsibilities include the development and analysis of business Key Performance Indicators (KPIs), as well as the ongoing maintenance of critical data sources. This position requires the integration of JDE EnterpriseOne with modern data warehouse solutions and artificial intelligence platforms to interpret complex data sets, identify emerging trends, and uncover actionable insights that support strategic business decision-making. Additionally, the Program Applications Analyst IV will be expected to create detailed reports and compelling visualizations to effectively communicate findings and recommendations to stakeholders across the organization.
+
+**YOU WILL BE ACCOUNTABLE FOR**:
+
+* Gather and validate data from diverse sources, ensuring both accuracy.
+* Development and analysis of business Key Performance Indicators (KPIs), as well as the ongoing maintenance of critical data sources.
+* Create detailed reports and compelling visualizations.
+* Perform other duties as needed and assigned.
+
+**YOU ARE THE RIGHT PERSON FOR THIS JOB IF YOU HAVE**:
+
+* Bachelor's Degree required or Extensive JDE experience.
+* Over 5 years senior hands-on experience with JD Edwards ERP (Manufacturing & Distribution focus).
+* Familiarity with integrations between JDE and other enterprise systems.
+* Lead projects and implementation tasks: configuration, testing (unit/UAT), cutover support and post go live stabilization.
+* Working experience within PowerBi, SQL, Excel, Datawarehouse.
+* U.S. Citizenship and are able to obtain/maintain a U.S. Department of Defense Security Clearance.
+
+*Salary Range: $104,540 - $162,040* */ year*
+
+**EMPLOYEE BENEFITS:**
+
+We recognize and appreciate that our employees are our most important asset. We invest in employee wellbeing by offering a wide range of comprehensive benefits to help you achieve your best physical and emotional health for yourself and your family.
+
+**Employee Health & Wellness Benefits**
+
+* Medical, vision and dental insurance
+* Disability insurances
+* Life insurance and AD&D
+* Employee assistance programs
+* Workplace accommodations
+
+**Financial Benefits**
+
+* Competitive compensation
+* Annual performance and salary reviews
+* Generous retirement savings plans with company match
+* Paid time off
+* Paid holidays
+* Flexible work schedules
+* Educational reimbursement
+* Tax savings accounts
+* Employee referral bonuses
+* And more!
+
+* Please note that while our philosophy is the same in all locations, benefits may vary by office/country
+
+**WHO WE ARE:**
+
+We value the unique and diverse skills, qualities, and backgrounds that each employee brings to CPI EDB, and we respect each employee as an integral member of our growing team. CPI EDB is committed to providing equal employment opportunities for all current and prospective employees, as well as to promoting a culture of inclusion and respect for everyone. We celebrate the innovation that diversity creates in the work environment, and we recognize that each employee brings their own unique capabilities, experiences, and perspectives to the organization. It is this variety that adds value to our teams, as well as to our stakeholders. We welcome and encourage applicants to reach their full potential with us.
+
+CPI EDB is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability or other applicable legally protected characteristics.
+
+  
+Compensation: $104,540 - $162, 040 / year",,https://www.indeed.com/cmp/Schneller-2,,,,,,
+in-d7ad1ad698ce5aef,indeed,https://www.indeed.com/viewjob?jk=d7ad1ad698ce5aef,https://careers.se.com/jobs/99274/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,Data analyst intern,Schneider Electric,"Boston, MA, US",2025-12-19,[],description,CompensationInterval.HOURLY,22.0,35.0,USD,False,,,,[],"Job Description:
+
+At Schneider Electric, our interns don’t just observe—they contribute, create, and grow. As a data analyst intern, you will help build and launch analytics‑based audit tests end‑to‑end, designing rules and thresholds, shaping data, automating runs, and publishing dashboards that inform risks. You’ll support early use cases from data sourcing and transformation through to classification and documented review.
+
+You will contribute hands‑on, learn our methods, and gradually take ownership of well‑scoped components. At the same time, we welcome you to bring fresh ideas on architecture, tools, and emerging technologies (including applied AI) that could improve how we run continuous audit - prototype responsibly, demonstrate value, and help us assess adoption.
+  
+  
+This is more than an internship—it’s a launchpad for your career.
+
+* **Location**: Boston City Hub (1 Boston Place, Suite 2700, Boston, MA 02108)
+* **Duration**: 10–12 weeks, May - August
+* **Hours**: Full-time, 40 hours/week
+* **Work Model**: Hybrid
+* **Sponsorship**: Applicants must be currently authorized to work in the United States on a full-time basis. This position does not offer sponsorship for employment visa status (e.g., H-1B, OPT, CPT), relocation, or visa support to work in the United States now or in the future.
+
+**What you'll do**
+
+As a data analyst intern, a typical week might include:
+
+* Supporting the creation and enhancement of ETL workflows that extract, transform, and load data from ERP and enterprise platforms into audit‑ready datasets.
+* Translating control objectives into test logic (rules, thresholds, exception types) and implementing scheduled runs with robust logging and evidence storage.
+* Developing dashboards and reports (exceptions, trends, drill‑downs) for auditors and stakeholders.
+* Participating in initial/monthly test cycles (e.g., terminations‑with‑access), performing data quality checks, and assisting auditors during reviews.
+* Writing clear specifications of sources, field mappings, logic, and results; contribute to templates and operating procedures
+* Exploring new tools, featuring programming languages and applied AI to engineer solutions to our business requirements, accelerating our Continuous Audit progress (e.g., rule suggestion, exception triage, text summarization of evidence, anomaly surfacing); build small proof‑of‑concepts, compare approaches, and document outcomes for controlled evaluation.
+
+**Who you'll work with**
+
+Schneider Electric’s Global Internal Audit (GIA) is a global team of audit professionals, spanning 5 international hubs across the world. Our mission is to provide independent assurance and advisory services that help leadership strengthen risk management, internal controls, and governance. This is supported by the Data Analytics function in Internal Audit, a group of data and audit professionals spread across the world tasked with delivery of insights from data and transformation of conventional audit with technology. You’ll also connect with interns across NAM through our intern community and events.
+
+Qualifications:
+
+**What we're looking for**
+
+* Currently pursuing a bachelor’s or master’s degree in data science, computer science, statistics, information systems, engineering, or other quantitative programs.
+* Comfortable with the basics of analytical languages (SQL, Python, or R) and data visualization tools (Tableau or Power BI).
+* Clear communication skills and ability to explain technical findings to non-technical audiences.
+* Curiosity about audit, risk analytics, and turning data into actionable insights.
+* Growth mindset and willingness to learn, innovate, and iterate quickly.
+
+**Why Schneider Electric?**
+
+We’re a global leader in energy management and automation, committed to sustainability and innovation. At Schneider, we empower everyone to make the most of their energy and resources—ensuring Life Is On everywhere, for everyone, at every moment.
+
+**What's in it for you?**
+
+For this U.S. based position, the expected compensation range is $22.50 - $35.50 per hour. In addition, this position is eligible for overtime pay and recognition programs.
+
+The compensation rate for this position is for candidates located within the United States. Individual pay is determined by several factors including knowledge, job-related skills, experience, and relevant education or training
+
+**Development & perks**
+
+* **Summer Intern Series**: Join 1,000+ interns across North America for a 10-week virtual series designed to inspire, connect, and grow early career talent. Weekly sessions feature unique themes, guest speakers, and interactive content—helping you build your network, learn from leaders, and explore your future at Schneider Electric.
+* **Mentorship**: One-on-one guidance from a dedicated manager and team members.
+* **Learning**: Access to Schneider Electric University and on-the-job training.
+* **Networking**: Build relationships with interns and professionals across the company.
+* **Career Pathways**: Potential for full-time conversion after graduation.
+
+**Ready to make an impact?**
+
+**Apply now** to be part of a culture that values fresh perspectives, encourages continuous learning, and empowers you to take initiative and collaborate with others. Your future starts here!  
+**Join our Talent Community** to stay connected and learn about future opportunities at Schneider Electric. #SECareers
+
+**Hear from our interns**
+
+*""I felt like I was truly part of the team. I worked on meaningful projects and had access to leaders who cared about my growth.""*  
+— Former Schneider Electric Intern
+
+**Let us learn about you! Apply today.**
+
+**You must submit an online application to be considered for any position with us. This position will be posted until filled.**
+
+#intern
+
+About Our Company:
+
+**Looking to make an IMPACT with your career?**
+
+When you are thinking about joining a new team, culture matters. At Schneider Electric, our values and behaviors are the foundation for creating a great culture to support business success. We believe that our IMPACT values – Inclusion, Mastery, Purpose, Action, Curiosity, Teamwork – starts with us.
+
+IMPACT is also your invitation to join Schneider Electric where you can contribute to turning sustainability ambition into actions, no matter what role you play. It is a call to connect your career with the ambition of achieving a more resilient, efficient, and sustainable world.
+
+We are looking for IMPACT Makers; exceptional people who turn sustainability ambitions into actions at the intersection of automation, electrification, and digitization. We celebrate IMPACT Makers and believe everyone has the potential to be one.
+
+Become an IMPACT Maker with Schneider Electric – apply today!
+
+€36 billion global revenue  
++13% organic growth  
+150 000+ employees in 100+ countries  
+#1 on the Global 100 World’s most sustainable corporations
+
+You must submit an online application to be considered for any position with us. This position will be posted until filled.
+
+*Schneider Electric aspires to be the most inclusive and caring company in the world, by providing equitable opportunities to everyone, everywhere, and ensuring all employees feel uniquely valued and safe to contribute their best. We mirror the diversity of the communities in which we operate, and ‘inclusion’ is one of our core values. We believe our differences make us stronger as a company and as individuals and we are committed to championing inclusivity in everything we do.*
+
+*At Schneider Electric, we uphold the highest standards of ethics and compliance, and we believe that trust is a foundational value. Our Trust Charter is our Code of Conduct and demonstrates our commitment to ethics, safety, sustainability, quality and cybersecurity, underpinning every aspect of our business and our willingness to behave and respond respectfully and in good faith to all our stakeholders. You can find out more about our Trust Charter* *here*  
+  
+*Schneider Electric is an Equal Opportunity Employer. It is our policy to provide equal employment and advancement opportunities in the areas of recruiting, hiring, training, transferring, and promoting all qualified individuals regardless of race, religion, color, gender, disability, national origin, ancestry, age, military status, sexual orientation, marital status, or any other legally protected characteristic or conduct.*",,https://www.indeed.com/cmp/Schneider-Electric,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/65b026687411681b0e5d196008f11fa7,http://www.se.com/ww/en,Paris,"10,000+",more than $10B (USD),"Schneider Electric is your energy technology partner, creating sustainable, efficient solutions and inclusive workplaces. Named the world’s most sustainable company by TIME."
+in-128f4952b62d28d8,indeed,https://www.indeed.com/viewjob?jk=128f4952b62d28d8,https://grnh.se/pirh7pfj3us,Lead Healthcare Analyst,Cohere Health,"Boston, MA, US",2025-12-19,[],,,,,,True,,,,[],"**Opportunity Overview:**
+
+This is an excellent opportunity for an outstanding data analyst to join a Series C digital health company. You will work closely with clinicians, program implementation, operation experts, informaticists, data scientists, and actuaries to support data-driven clinical programs. These programs are essential in improving a) payor/provider/patient collaboration, b) quality of care and patient outcomes, and c) healthcare utilization and spending efficiency. The work will be fast-paced and project-based, with evolving needs requiring adaptability, curiosity, and grace under pressure.
+
+**What you'll do:**
+
+* Cultivate a deep understanding of Cohere's clinical content, UM products and clinical programs and use analytics to produce insights to drive program effectiveness and value for internal business partners and clients
+* Work with administrative and clinical health data to build and maintain analytical and reporting solutions to support strategy and program decision making
+* Identify optimization opportunities using statistical analysis, data mining, and predictive modeling methods to improve automation while enhancing decision quality and patient outcome
+* Collaborate with clinical, account management, data science, and engineering partners to refine Cohere's product features and client support
+* Track cost, utilization, and industry trends to inform stakeholders of product performance and provide data-driven insights around opportunities to optimize clinical value for patients, providers and payers.
+
+**What you'll need:**
+
+* Work Experience: 6+ years experience working in a big-data analytics role
+* Data Analysis and Interpretation: Ability to use statistical analysis and modeling tools (such as SQL and Python) to extract insights from complex healthcare data, interpret trends, and derive actionable recommendations
+* Data Visualization: experience developing dashboards and self service business intelligence tools such as Tableau
+* Healthcare Knowledge: Understanding of healthcare systems, medical terminologies, clinical workflows, and experience with large data sets including medical claims, pharmacy, and eligibility data
+* Collaboration: Experience interfacing with internal and external business stakeholders on the development and read out of client and program specific KPIs
+* Project Execution: Experience owning complex projects, coordinating with multidisciplinary teams, setting goals, and meeting deadlines for multiple ongoing projects
+* Education: Bachelor's degree in a healthcare or quantitative discipline such as Epidemiology, Economics, Statistics, Data Science, Health Informatics, Public Health or related field
+
+**Pay & Perks:**
+
+Fully remote opportunity with about 5% travel
+
+Medical, dental, vision, life, disability insurance, and Employee Assistance Program
+
+401K retirement plan with company match; flexible spending and health savings account
+
+️ Up to 184 hours (23 days) of PTO per year + company holidays
+
+Up to 14 weeks of paid parental leave
+
+Pet insurance
+
+The salary range for this position is $115,000 to $130,000 annually; as part of a total benefits package which includes health insurance, 401k and bonus. In accordance with state applicable laws, Cohere is required to provide a reasonable estimate of the compensation range for this role. Individual pay decisions are ultimately based on a number of factors, including but not limited to qualifications for the role, experience level, skillset, and internal alignment.
+
+**Interview Process\*:**
+
+* Connect with Talent Acquisition for a Preliminary Phone Screening
+
+* Meet your Hiring Manager!
+
+* Case Study and Presentation
+
+* Team Interview
+
+* Leadership Interview
+
+* Subject to change
+
+**About Cohere Health:**
+
+Cohere Health's clinical intelligence platform delivers AI-powered solutions that streamline access to quality care by improving payer-provider collaboration, cost containment, and healthcare economics. Cohere Health works with over 660,000 providers and handles over 12 million prior authorization requests annually. Its responsible AI auto-approves up to 90% of requests for millions of health plan members.
+
+With the acquisition of ZignaAI, we've further enhanced our platform by launching our Payment Integrity Suite, anchored by Cohere Validate™, an AI-driven clinical and coding validation solution that operates in near real-time. By unifying pre-service authorization data with post-service claims validation, we're creating a transparent healthcare ecosystem that reduces waste, improves payer-provider collaboration and patient outcomes, and ensures providers are paid promptly and accurately.
+
+Cohere Health's innovations continue to receive industry wide recognition. We've been named to the 2025 Inc. 5000 list and in the Gartner® Hype Cycle™ for U.S. Healthcare Payers (2022-2025), and ranked as a Top 5 LinkedIn™ Startup for 2023 & 2024. Backed by leading investors such as Deerfield Management, Define Ventures, Flare Capital Partners, Longitude Capital, and Polaris Partners, Cohere Health drives more transparent, streamlined healthcare processes, helping patients receive faster, more appropriate care and higher-quality outcomes.
+
+The Coherenauts, as we call ourselves, who succeed here are empathetic teammates who are candid, kind, caring, and embody our core values and principles. We believe that diverse, inclusive teams make the most impactful work. Cohere is deeply invested in ensuring that we have a supportive, growth-oriented environment that works for everyone.
+
+**We can't wait to learn more about you and meet you at Cohere Health!**
+
+**Equal Opportunity Statement:**
+
+Cohere Health is an Equal Opportunity Employer. We are committed to fostering an environment of mutual respect where equal employment opportunities are available to all. To us, it's personal.
+
+  
+
+#LI-Remote
+
+#BI-Remote",,https://www.indeed.com/cmp/Cohere-Health,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ac7e22cc701df07adecddaca1cb90e3b,,,,,

@@ -117,6 +117,12 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
+    // Get DOM elements needed for both search and company scraping
+    const loadingContainer = document.getElementById('loadingContainer');
+    const resultsSection = document.getElementById('resultsSection');
+    const loadingText = document.getElementById('loadingText');
+    const loadingDetails = document.getElementById('loadingDetails');
+    
     // Scrape Companies Button
     const scrapeCompaniesBtn = document.getElementById('scrapeCompaniesBtn');
     const companiesInfo = document.getElementById('companiesInfo');
@@ -208,8 +214,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Form submission
     const jobSearchForm = document.getElementById('jobSearchForm');
-    const loadingContainer = document.getElementById('loadingContainer');
-    const resultsSection = document.getElementById('resultsSection');
     const searchBtn = document.getElementById('searchBtn');
 
     jobSearchForm.addEventListener('submit', async function(e) {
@@ -251,9 +255,9 @@ document.addEventListener('DOMContentLoaded', function() {
         const distance = parseInt(document.getElementById('distance').value) || 50;
         const hoursOld = document.getElementById('hoursOld').value ? parseInt(document.getElementById('hoursOld').value) : null;
 
-        // Check if companies selected
-        const scrapeCompanies = companiesContent.style.display !== 'none';
-        const scrapeAllCompanies = document.getElementById('scrapeAllCompanies')?.checked || false;
+        // Check if companies selected (disabled for now)
+        const scrapeCompanies = false;  // Feature disabled
+        const scrapeAllCompanies = false;
         
         // Prepare request data
         const requestData = {
@@ -276,8 +280,6 @@ document.addEventListener('DOMContentLoaded', function() {
         searchBtn.disabled = true;
 
         // Update loading text
-        const loadingText = document.getElementById('loadingText');
-        const loadingDetails = document.getElementById('loadingDetails');
         loadingText.textContent = 'Searching for jobs...';
         loadingDetails.innerHTML = `
             <p>Sites: ${selectedSites.map(s => s.replace('_', ' ')).join(', ')}</p>

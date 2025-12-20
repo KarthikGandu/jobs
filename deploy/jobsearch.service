@@ -1,0 +1,19 @@
+[Unit]
+Description=Job Search Application
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/opt/jobsearch
+Environment="PATH=/opt/jobsearch/venv/bin"
+Environment="FLASK_ENV=production"
+Environment="SECRET_KEY=CHANGE_THIS_TO_RANDOM_SECRET"
+ExecStart=/opt/jobsearch/venv/bin/gunicorn -w 4 -b 0.0.0.0:5000 wsgi:app
+Restart=always
+RestartSec=10
+StandardOutput=append:/var/log/jobsearch.log
+StandardError=append:/var/log/jobsearch-error.log
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,151 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-1383bb3f0dfa0b14,indeed,https://www.indeed.com/viewjob?jk=1383bb3f0dfa0b14,https://www.amazon.jobs/jobs/3136016/sr-system-development-engineer-pcie-si-performance-aws-hardware-components?cmpid=DA_INAD200785B,"Sr System Development Engineer, PCIe, SI, Performance, AWS Hardware Components",Amazon.com,"Cupertino, CA, US",2025-12-02,[],,,,,,False,,,,[],"**DESCRIPTION**
+---------------
+
+AWS EC2 owns the design, planning, delivery, and operation of all AWS server instances. In other words, we’re the people who keep the cloud running. We support all AWS compute, storage, accelerator servers and ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.  
+  
+You’ll join a diverse team of hardware engineers, software engineers, system engineers, technical program managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.  
+  
+Key job responsibilities  
+AWS hardware Engineering is looking for a customer-obsessed, team-driven technology leader to take our engineering of server hardware and software to the next level. As a cloud server performance engineer, you’ll work on Amazon’s hardest problems, building high quality, architecturally sound systems that meet or exceed the high performance bar, with focus on high speed interconnects, including PCIe. You will interact with internal and external interdisciplinary teams of engineers to design, develop, validate, launch, monitor and troubleshoot high throughput interfaces at scale. You will be on the team that is responsible for PCIe topology for the EC2 servers, including retimer and switch firmware and telemetry. This is a fast-paced, intellectually challenging position. At AWS we are changing the industry and want individuals who are ready for a challenge to reach beyond what is possible today.  
+  
+About the team  
+""\*Why AWS\*  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+  
+\*Diverse Experiences\*  
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+  
+\*Work/Life Balance\*  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.  
+  
+\*Inclusive Team Culture\*  
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+  
+\*Mentorship and Career Growth\*  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.“
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 5+ years of programming with at least one modern language such as C++, C#, Java, Python, Golang, PowerShell, Ruby experience
+* 5+ years of non-internship professional software development experience
+* 5+ years of designing or architecting (design patterns, reliability and scaling) of new and existing systems experience
+* 5+ years of systems design, software development, operations, automation, and process improvement experience
+* 5+ years of experience identifying & root-causing hardware/software system issues in large scale systems
+* 5+ years of experience writing and implementing functional and performance tests for manufacturing and in field coverage, including telemetry
+* 5+ year of experience with customer support for successive debugging/root-causing bus interconnect failures
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Knowledge of engineering practices and patterns for the full software/hardware/networks development life cycle, including coding standards, code reviews, source control management, build processes, testing, certification, and livesite operations
+* Experience taking a leading role in building complex software or computing infrastructure that has been successfully delivered to customers
+* 5+ years of experience with high speed interconnect, including PCIe
+* 5+ years of experience with CPU and memory architectures, system performance, security and troubleshooting
+* 5+ years experience with statistical analysis using large scale data
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $136,100/year in our lowest geographic market up to $235,200/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.
+in-25d3df53e3999d3f,indeed,https://www.indeed.com/viewjob?jk=25d3df53e3999d3f,https://www.amazon.jobs/jobs/3115083/sr-system-development-engineer-highperformance-accelerator-servers-for-aiml?cmpid=DA_INAD200785B,"Sr. System Development Engineer, High-Performance Accelerator Servers for AI/ML",Amazon.com,"Cupertino, CA, US",2025-10-20,[],,,,,,False,,,,[],"**DESCRIPTION**
+---------------
+
+Do you want to shape the future of Generative AI at AWS? Join the team building the foundation of the world’s most advanced cloud for AI training and inference — where multi-billion-parameter models come to life at scale. Here, you’ll design, deliver, and operate next-generation infrastructure that powers breakthrough innovation in AI/ML and HPC workloads. If you’re passionate about pushing the limits of performance, efficiency, and scalability in the cloud, this is your opportunity to build the systems that define what’s next for AWS — and for the entire AI industry.  
+  
+You’ll join a diverse AWS Hardware Engineering team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.  
+  
+The ideal candidate for this role will be an innovative self-starter. You are knowledgeable of the full technical stack - vertically from baremetal server hardware up to the software in userland, and everything in the middle. You have tremendous interest in cloud scale and curious how systems and software decisions impact the user. You insist on highest-standards and are able to develop tactical solutions/tools to diagnose and fix issues. You are an excellent systems debugger - finding interaction issues between components on server systems. You are a leader with strong organizational, planning, and communication skills. You are a builder!  
+  
+Key job responsibilities  
+You will be a technical leader solving complex problems. You will decompose big difficult server system testability, reliability and diagnosis problems into straightforward tasks, components or features that you will lead to deliver yourself and through others in parallel. You will use combination of hardware, software, system designs, x86 architecture, processes, diagnosis and operations knowledge.  
+  
+A day in the life  
+Working with a variety of job roles (SDEs, SDETs, Hardware Engineers, TPMs, Managers, Principals) and groups (AWS Hardware Engineering, EC2, other AWS services) through server conception, design, test, launch, and operations. Driving high quality and reliability into future/new designs for AWS Accelerated server solutions for AWS Cloud.  
+  
+About the team  
+\*Why AWS\*  
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+  
+\*Diverse Experiences\*  
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.  
+  
+\*Work/Life Balance\*  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.  
+  
+\*Inclusive Team Culture\*  
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+  
+\*Mentorship and Career Growth\*  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 4+ years of non-internship professional software development experience
+* 4+ years of deploying and operating in a Linux/Unix environment experience
+* 4+ years of systems development in an IT or data center environment experience
+* 3+ years of programming with at least one modern language such as C++, C#, Java, Python, Golang, PowerShell, Ruby experience
+* 2+ years of designing or architecting (design patterns, reliability and scaling) of new and existing systems experience
+* 2+ years of systems design, software development, operations, automation, and process improvement experience
+* Experience leading the design, build and deployment of complex and performant (reliable and scalable) software solutions in production
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3+ years of development/programming/scripting language (Python/Java/Bash/Perl) experience
+* Knowledge of engineering practices and patterns for the full software/hardware/networks development life cycle, including coding standards, code reviews, source control management, build processes, testing, certification, and livesite operations
+* Experience taking a leading role in building complex software or computing infrastructure that has been successfully delivered to customers
+* Experience debugging, integrating, and validating complex AI/ML and Cloud Computing servers.
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $136,100/year in our lowest geographic market up to $235,200/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.
+in-b7956688c17355f3,indeed,https://www.indeed.com/viewjob?jk=b7956688c17355f3,https://www.amazon.jobs/jobs/3047169/software-development-engineer-agi?cmpid=DA_INAD200785B,"Software Development Engineer, AGI",Amazon.com,"Sunnyvale, CA, US",2025-07-23,[],,,,,,False,,,,[],"**DESCRIPTION**
+---------------
+
+We are looking for an experienced software engineer to join our team and work on supporting cutting-edge generative AI projects.  
+  
+Key job responsibilities  
+
+* Design and build scalable systems to responsibly access and process available information from the web.
+* Optimize the data processing architecture to ensure performance, scalability, resilience, and cost-effectiveness..
+* Implement robust systems to process content and extract meaning.
+* Develop data pipelines and infrastructure to deploy ML models which intelligently classify petabyte-scale datasets.
+* Work closely with scientists and other engineers to rapidly prototype and deploy new algorithms.
+* Write high quality, well-tested production code in languages like Python, spark, Java, Scala.
+* Continuously explore and implement innovative solutions to complex technical challenges, in order to advance what’s possible in large-scale information processing.
+
+  
+About the team  
+Our dynamic team comprises talented software engineers and applied scientists united by a shared passion for innovative content acquisition and processing systems. Together, we are building a highly scalable, state-of-the-art system that seeks to harness the world’s knowledge in new ways to best serve our customers.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3+ years of non-internship professional software development experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* Bachelor's degree in computer science or equivalent
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.

@@ -7,6 +7,7 @@ from pathlib import Path
 import pandas as pd
 from datetime import datetime
 import io
+import math
 
 # Add jobspy2 to path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent / "jobspy2" / "src"))
@@ -82,6 +83,19 @@ def scrape_company_jobs(company_name):
         # Convert to list of dictionaries
         jobs_list = jobs_df.to_dict('records')
         
+        # Replace NaN values with None and convert non-serializable objects for valid JSON
+        for job in jobs_list:
+            for key, value in job.items():
+                if isinstance(value, float) and math.isnan(value):
+                    job[key] = None
+                elif hasattr(value, '__dict__') or hasattr(value, 'value'):
+                    # Convert enum or custom objects to string
+                    job[key] = str(value) if not hasattr(value, 'value') else value.value
+                elif isinstance(value, (list, tuple)) and value:
+                    # Handle lists that might contain enums
+                    if hasattr(value[0], 'value'):
+                        job[key] = [v.value if hasattr(v, 'value') else str(v) for v in value]
+        
         # Save to file
         output_dir = Path(current_app.config['OUTPUT_DIR'])
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -102,6 +116,81 @@ def scrape_company_jobs(company_name):
     except Exception as e:
         current_app.logger.error(f"Error scraping company jobs: {str(e)}")
         raise ScrapingError(f"Failed to scrape jobs: {str(e)}")
+
+
+@api_bp.route('/scrape-companies', methods=['POST'])
+def scrape_all_companies():
+    """Scrape ALL jobs from all 24 quant/trading firms"""
+    try:
+        current_app.logger.info("Starting to scrape all 24 companies...")
+        
+        # Scrape all companies without search filter
+        all_results = company_scraper.scrape_all_companies(search_term=None, categories=None)
+        
+        # Combine all jobs
+        all_jobs = []
+        jobs_by_company = {}
+        
+        for company_id, jobs in all_results.items():
+            company_info = company_scraper.companies[company_id]
+            company_name = company_info['name']
+            
+            jobs_by_company[company_name] = len(jobs)
+            
+            for job in jobs:
+                all_jobs.append({
+                    'title': job.get('title'),
+                    'company': job.get('company'),
+                    'location': job.get('location'),
+                    'job_url': job.get('url'),
+                    'date_posted': job.get('posted_date'),
+                    'site': 'company_career_page',
+                    'category': job.get('category'),
+                    'job_type': None,
+                    'is_remote': 'remote' in job.get('location', '').lower() if job.get('location') else False,
+                    'description': None,
+                    'company_url': company_info['url']
+                })
+        
+        # Replace NaN values with None for valid JSON
+        for job in all_jobs:
+            for key, value in job.items():
+                if isinstance(value, float) and math.isnan(value):
+                    job[key] = None
+        
+        if not all_jobs:
+            return jsonify({
+                'status': 'success',
+                'jobs_count': 0,
+                'companies_scraped': 0,
+                'message': 'No jobs found from any companies',
+                'jobs': [],
+                'jobs_by_company': {}
+            })
+        
+        # Save to CSV
+        output_dir = Path(current_app.config['OUTPUT_DIR'])
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"company_jobs_all_firms_{timestamp}.csv"
+        filepath = output_dir / filename
+        
+        df = pd.DataFrame(all_jobs)
+        df.to_csv(filepath, index=False)
+        
+        current_app.logger.info(f"✓ Scraped {len(all_jobs)} total jobs from {len(all_results)} companies")
+        
+        return jsonify({
+            'status': 'success',
+            'jobs_count': len(all_jobs),
+            'companies_scraped': len(all_results),
+            'jobs': all_jobs,
+            'jobs_by_company': jobs_by_company,
+            'download_url': f'/api/download/{filename}'
+        })
+        
+    except Exception as e:
+        current_app.logger.error(f"Error scraping companies: {str(e)}", exc_info=True)
+        raise ScrapingError(f"Failed to scrape companies: {str(e)}")
 
 
 @api_bp.route('/search', methods=['POST'])
@@ -183,6 +272,19 @@ def search_jobs():
         # Convert to list of dictionaries
         jobs_list = combined_df.to_dict('records')
         
+        # Replace NaN values with None and convert non-serializable objects for valid JSON
+        for job in jobs_list:
+            for key, value in job.items():
+                if isinstance(value, float) and math.isnan(value):
+                    job[key] = None
+                elif hasattr(value, '__dict__') or hasattr(value, 'value'):
+                    # Convert enum or custom objects to string
+                    job[key] = str(value) if not hasattr(value, 'value') else value.value
+                elif isinstance(value, (list, tuple)) and value:
+                    # Handle lists that might contain enums
+                    if hasattr(value[0], 'value'):
+                        job[key] = [v.value if hasattr(v, 'value') else str(v) for v in value]
+        
         # Save to CSV
         output_dir = Path(current_app.config['OUTPUT_DIR'])
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -228,6 +330,19 @@ def match_jobs():
         # Match jobs
         matched_df = matcher.match_jobs(jobs_df, preferences)
         matched_list = matched_df.to_dict('records')
+        
+        # Replace NaN values with None and convert non-serializable objects for valid JSON
+        for job in matched_list:
+            for key, value in job.items():
+                if isinstance(value, float) and math.isnan(value):
+                    job[key] = None
+                elif hasattr(value, '__dict__') or hasattr(value, 'value'):
+                    # Convert enum or custom objects to string
+                    job[key] = str(value) if not hasattr(value, 'value') else value.value
+                elif isinstance(value, (list, tuple)) and value:
+                    # Handle lists that might contain enums
+                    if hasattr(value[0], 'value'):
+                        job[key] = [v.value if hasattr(v, 'value') else str(v) for v in value]
         
         return jsonify({
             'status': 'success',

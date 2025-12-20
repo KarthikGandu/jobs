@@ -1,0 +1,108 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-1a06cb4ab449c61c,indeed,https://www.indeed.com/viewjob?jk=1a06cb4ab449c61c,https://www.amazon.jobs/jobs/2938870/software-development-engineer-search--prime-video?cmpid=DA_INAD200785B,"Software Development Engineer, Search - Prime Video",Amazon.com,"New York, NY, US",2025-03-26,[],,,,,,False,,,,[],"**DESCRIPTION**
+---------------
+
+Prime Video is a first-stop entertainment destination offering customers a vast collection of premium programming in one app available across thousands of devices. Prime members can customize their viewing experience and find their favorite movies, series, documentaries, and live sports – including Amazon MGM Studios-produced series and movies; licensed fan favorites; and programming from Prime Video add-on subscriptions such as Apple TV+, Max, Crunchyroll and MGM+. All customers, regardless of whether they have a Prime membership or not, can rent or buy titles via the Prime Video Store, and can enjoy even more content for free with ads.  
+  
+Within Prime Video, the Search Engineering team is making a step change in the look, feel and quality of our Search experience. We are standing up a brand new Search Engine that need to handle 1B+ requests every month. We are innovating with leading-edge Machine Learning technologies like Large Language Models including Retrieval-Augmented Generation techniques, and developing net new Named Entity Recognition and Natural Language Understanding models.  
+  
+If you are ready to truly make an impact on a product that is used by millions of people around the world, including your own friends and family, then we would love to talk to you.  
+  
+Key job responsibilities  
+
+* Directly interfacing with product managers and other stake holders to build features that help new customer experience for Prime Video.
+* Create end to end solutions and execute via software engineering design, development, and ultimately helping millions of Prime Video customers.
+* We work with customer facing products that are highly visible and on initiatives that directly impact PV goals of increasing customer activity on the platform.
+* We use Machine Learning to analyze the customer's behavior to infer what they would be most likely to watch and recommend content that is highly relevant.
+
+  
+A day in the life  
+As a member of the team, you will spend your time as a hands-on engineer and a technical leader. You will play a key role in building software products and features from the ground up. You will use a wide range of technologies, programming languages and systems. Your responsibilities will include all aspects of software development. You will work with Data Scientists to build Personalization and Recommender systems. You will be given the freedom and inspiration to explore your own ideas and the reward of seeing your contributions benefit millions of Amazon.com customers worldwide.  
+  
+About the team  
+
+* We are a team of engineers that focuses on solving customer problems with a diverse cultural mindset.
+* We drive to create a team culture of leaders that are able to shine as individuals and as a team.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3+ years of non-internship professional software development experience
+* 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",Internet And Software,https://www.indeed.com/cmp/Amazon.com,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3e9d43f5c277de169808abdcaf49ba2c,https://www.amazon.jobs,"440 Terry Ave N, Seattle, WA, United States, Washington","10,000+",more than $10B (USD),Our mission is to be Earth's most customer-centric company.
+in-d8f00ec7056c6fa6,indeed,https://www.indeed.com/viewjob?jk=d8f00ec7056c6fa6,https://www.amazon.jobs/jobs/2911232/software-dev-engineer--amazon-connect-amazon-connect--identity-management-and-access-control?cmpid=DA_INAD200785B,"Software Dev Engineer - Amazon Connect, Amazon Connect - Identity Management and Access Control",Amazon Web Services,"New York, NY, US",2025-02-24,[],,,,,,False,,,,[],"**DESCRIPTION**
+---------------
+
+As part of the AWS Solutions organization, we have a vision to provide business applications, leveraging Amazon’s unique experience and expertise, that are used by millions of companies worldwide to manage day-to-day operations. We accomplish this by accelerating our customers’ businesses through delivery of intuitive and differentiated technology solutions that solve enduring business challenges. We blend vision with curiosity and Amazon’s real-world experience to build opinionated, turnkey solutions. Where customers prefer to buy over build, we become their trusted partner with solutions that are no-brainers to buy and easy to use.
+  
+  
+Are you inspired to work with a team that launches products with direct and massive impact on Amazon’s customers? Are you excited to join one of the newest and most exciting AWS services? - Amazon Connect is a highly disruptive cloud-based contact center that enables businesses to deliver engaging, dynamic, and personal customer service experiences. Amazon Connect is the result of the ten years of development that went into building the tools Amazon uses to provide its award winning customer service at massive scale and launching it as a publicly available AWS service. With Amazon Connect, you can create your own cloud-based contact center and be taking calls in minutes. Amazon Connect leverages the power of Artificial Intelligence, GenAI, and the large ecosystem of AWS services such as Amazon Lex, Amazon Polly, AWS Lambda, Amazon S3 and Amazon Kinesis to provide a truly frustration free, easy-to-use, extensible, and natural customer experience. With this technology, we are transforming an industry and the way customers interact with businesses and how agents service them.  
+  
+We have a rapidly growing customer base and an exciting charter in front of us that includes solving complex engineering and algorithmic problems. We are looking for passionate and talented Software Development Engineers to join us to innovate on this new service that addresses customer needs to build modern contact centers in the cloud. The position represents a rare opportunity to be a part of a fast-growing business soon after launch, and help shape the technology and product as we grow. You will be playing a crucial role in developing the next generation contact center, and get the opportunity to design and deliver scaleable, resilient systems while maintaining a constant customer focus.  
+  
+Key job responsibilities  
+As a developer on our team, you’ll own code end-to-end from design to production readiness, and work closely with senior technical leaders within the team and across AWS. You’ll have a sound understanding of computer science fundamentals and practical industry experience, working across the stack with technology involving modern web, SOA, NoSQL databases, AI, ML, Big Data and more.  
+  
+This team is a great fit for you if:  
+  
+1. You enjoy working with a fun team that prides itself on a great work environment with an inclusive group of people that are working together towards a common goal.  
+2. You are sensitive to customer needs and interested in working on a service that will be used, directly and indirectly, by millions of customers and has a meaningful impact to their functions and interactions.  
+3. You’d like to be directly responsible for solving real customer problems.  
+4. You are a passionate learner and are motivated to take on new challenges.  
+5. You want to have fun; surround yourself with a highly talented pool of engineers that like to solve complex problems, but also enjoy work life balance.  
+  
+About the team  
+Diverse Experiences
+  
+Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage you to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+  
+  
+Why AWS
+  
+Amazon Web Services (AWS) is the world’s most broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.  
+  
+Work/Life Balance
+  
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+  
+Inclusive Team Culture
+  
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.  
+  
+Mentorship and Career Growth  
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+**BASIC QUALIFICATIONS**
+------------------------
+
+* 3+ years of non-internship professional software development experience
+* 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience programming with at least one software programming language
+
+**PREFERRED QUALIFICATIONS**
+----------------------------
+
+* 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+* Bachelor's degree in computer science or equivalent
+
+  
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+  
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.",,https://www.indeed.com/cmp/Amazon-Web-Services-05cb4ad1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/744e8603d216350c9c1d21837f2ed7a6,https://aws.amazon.com/careers/why-aws/,"Seattle, WA",Decline to state,more than $10B (USD),"Amazon Web Services (AWS) offers the world’s most comprehensive and broadly adopted cloud platform, with over 200 powerful services that enable our customers and our people to make more of an impact. "
