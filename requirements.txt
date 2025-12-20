@@ -1,0 +1,22 @@
+# Web Framework
+flask>=3.0.0
+flask-cors>=4.0.0
+gunicorn>=21.2.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# ML/NLP (for job matching and keyword expansion)
+scikit-learn>=1.3.0
+numpy>=1.24.0
+
+# Utilities
+python-dateutil>=2.8.0

@@ -1,0 +1,222 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-10431550e3146a37,indeed,https://www.indeed.com/viewjob?jk=10431550e3146a37,https://discordapp.com/jobs/8344197002,Staff Software Engineer - Safety Experience,Discord,"San Francisco Bay Area, CA, US",2025-12-19,[],,,,,,False,,,,[],"Discord is used by over 200 million people every month for many different reasons, but there’s one thing that nearly everyone does on our platform: play video games. Over 90% of our users play games, spending a combined 1.5 billion hours playing thousands of unique titles on Discord each month. Discord plays a uniquely important role in the future of gaming. We are focused on making it easier and more fun for people to talk and hang out before, during, and after playing games.As a Staff Engineer on the Safety Experience team, you'll be a technical leader who autonomously delivers real business impact on large, ambiguous projects. You'll design and build product features and systems that prevent harmful activities at scale while ensuring regulatory compliance. This role requires both deep technical expertise and the ability to be a force multiplier for your team: driving engineering excellence, making solid technical decisions, and remaining a top code contributor. You'll work cross-functionally to shape the technical direction of safety initiatives that protect hundreds of millions of Discord users. This role reports to the Engineering Manager of Safety Experience. What You'll Be Doing Lead development of high-impact, user-facing safety products that deliver measurable results for Discord's users. Own complex, multi-milestone projects end-to-end, identifying optimal solutions, navigating ambiguity and making independent technical decisions. Design, build, and deploy robust production APIs, backend services, and data pipelines that enable safety features to scale efficiently. Collaborate cross-functionally with Product, Design, Policy, Data Science, ML, Legal, and Trust &amp; Safety Operations to create solutions that are both impactful and lovable. Drive engineering excellence by mentoring others and guiding the team through architectural challenges to ensure long-term scalability. Respond rapidly to the ever-evolving abuse and compliance landscape with strategic thinking and swift execution. What you should have 8+ years of relevant industry experience, with demonstrated ability to deliver high-quality, high-impact work on complex projects. Strong expertise in Python and back-end API frameworks (Flask, Django). Strong front-end development skills with JavaScript (React, TypeScript) for web and mobile platforms. Significant experience in the Safety or Anti-Abuse domain with deep understanding of trust and safety challenges at scale. Proven track record of owning large projects end-to-end with varying degrees of ambiguity, breaking down work into well-prioritized milestones with clear dependencies. Demonstrated ability to make independent technical decisions that balance short-term needs with long-term sustainability and scalability. Experience driving engineering excellence: setting quality standards, conducting thorough code reviews, and applying an adversarial mindset to identify security, performance, and scaling issues. Strong communication skills with ability to provide high-quality technical feedback, drive alignment across stakeholders, and facilitate productive debates that lead to clear decisions. Experience using metrics and dashboards (e.g., Datadog, Mode, Faros) to make data-driven decisions and monitor system health. Ability to be a force multiplier for your team by mentoring others, establishing best practices, and helping teammates grow their skills. Bonus Points Familiarity with databases such as Cassandra, Postgres, or ScyllaDB. Experience with real-time streaming systems like Kafka or Pub-Sub. Track record of building and operating native mobile features on iOS and Android. Experience designing and implementing monitoring strategies and on-call/on-point processes for production systems. Knowledge of lower-level languages such as Go, Rust, or Elixir. Candidates must reside in or be willing to relocate to the San Francisco Bay Area (Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma counties). Relocation assistance may be available.The US base salary range for this full-time position is $248,000 to $279,000 + equity + benefits. Our salary ranges are determined by role and level. Within the range, individual pay is determined by additional factors, including job-related skills, experience, and relevant education or training. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include equity, or benefits.Why Discord?Discord plays a uniquely important role in the future of gaming. We're a multiplatform, multigenerational and multiplayer platform that helps people deepen their friendships around games and shared interests. We believe games give us a way to have fun with our favorite people, whether listening to music together or grinding in competitive matches for diamond rank. Join us in our mission! Your future is just a click away! Discord is committed to inclusion and providing reasonable accommodations during the interview process. We want you to feel set up for success, so if you are in need of reasonable accommodations, please let your recruiter know. Please see our Applicant and Candidate Privacy Policy for details regarding Discord’s collection and usage of personal information relating to the application and recruitment process by clickingHERE.",,https://www.indeed.com/cmp/Discord,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/69c3e6df6e321e61d3b408ca9250e884,https://www.discord.com,San Francisco,"501 to 1,000",$25M to $100M (USD),"Discord is a voice, video and text app that helps friends and communities come together to hang out and explore their interests."
+in-5d23029615b50fae,indeed,https://www.indeed.com/viewjob?jk=5d23029615b50fae,https://careers.adobe.com/us/en/job/ADOBUSR163972EXTERNALENUS/Sr-Software-Engineer?utm_source=indeed&utm_medium=phenom-feeds,Sr Software Engineer,Adobe,"San Jose, CA, US",2025-12-19,[],description,CompensationInterval.YEARLY,177900.0,257550.0,USD,False,,,,accommodations@adobe.com,"Our Company
+  
+  
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+  
+  
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+  
+  
+About the Role
+  
+We are seeking a highly motivated Senior Software Engineer to join the new Project Graph team at Adobe .
+  
+  
+Project Graph is a new creative system that lets you combine first and third-party AI models, Adobe tools, and custom interactive components inside a visual, designer-friendly node graph editor. Connect a library of tactile, interactive components that bring creative control of AI back to your fingertips. Transform ideas into powerful workflows and modular tools that run anywhere, from the web to Adobe apps like Photoshop. And if you’d rather focus on creating than building, you can tap into a growing ecosystem of community-built tools without ever opening the editor.
+  
+  
+In this backend- focused role, you will play a key role in developing the services infrastructure for this project .
+  
+  
+**What you'll do :**  
+Build scalable, resilient APIs and compute s ervices that can cater to millions of Creative Cloud users and enterprise applications.
+  
+  
+C ollaborating with other engineers, product managers, designers and user researchers to design and develop new features and tools.
+  
+  
+Develop high-performance, reliable, testable, well documented and maintainable code.
+  
+  
+Work closely with internal and external customers to understand their workflows and needs, and adapt quickly based on their feedback.
+  
+  
+**What you need to succeed :**  
+Bachelor's degree or equivalent experience in C omputer S cience.
+  
+  
+10+ years of backend software development experience.
+  
+  
+Strong hands-on experience i n a server-side language, like Node.js/ Typescript , Java .
+  
+  
+Expertise in at least one SQL database and one non-SQL database
+  
+  
+Hands-on experience in building high-scale micro services , data lakes and event-driven architectures
+  
+  
+Experience with containerization technologies like Docker and Kubernetes.
+  
+  
+Experience with AWS or Azure cloud services.
+  
+  
+Experience with CI/CD pipeline development .
+  
+  
+Knowledge of security concepts and protocols for services on the cloud.
+  
+  
+An interest in and ability to learn new technologies .
+  
+  
+Ability to tackle problems in a sustainable way, always striving to improve our process es and learn.
+  
+  
+Excellent verbal and written communication skills; can effectively articulate complex ideas and influence others through well-reasoned explanations.
+  
+  
+Bonus Qualifications
+  
+  
+Experience developing for multiple devices and platforms.
+  
+  
+Experience with monitoring tools.
+  
+  
+Experience with Agile development processes.
+  
+#FireflyGenAI
+  
+Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $139,000 -- $257,550 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+  
+  
+In California, the pay range for this position is $177,900 - $257,550
+  
+In Washington, the pay range for this position is $161,700 - $234,150
+  
+  
+At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).
+  
+  
+In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.
+  
+  
+**State-Specific Notices:**  
+**California :**  
+Fair Chance Ordinances
+  
+Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
+  
+  
+**Colorado:**  
+Application Window Notice
+  
+  
+If this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.
+  
+  
+**Massachusetts:**  
+Massachusetts Legal Notice
+  
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+  
+  
+Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.
+  
+  
+Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",,https://www.indeed.com/cmp/Adobe,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8556eb9d8fef8a256b09c6eed07eb084,http://www.adobe.com,"San Jose, CA","10,000+",$5B to $10B (USD),Let's Create Experiences that Matter.
+in-3f8176a0db9be499,indeed,https://www.indeed.com/viewjob?jk=3f8176a0db9be499,https://careers.adobe.com/us/en/job/ADOBUSR163977EXTERNALENUS/Sr-Software-Engineer?utm_source=indeed&utm_medium=phenom-feeds,Sr. Software Engineer,Adobe,"San Jose, CA, US",2025-12-19,[],description,CompensationInterval.YEARLY,208300.0,301600.0,USD,False,,,,accommodations@adobe.com,"Our Company
+  
+  
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+  
+  
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+  
+  
+About the Role
+  
+We are seeking a highly motivated Senior Software Engineer to join the new Project Graph team at Adobe .
+  
+  
+Project Graph is a new creative system that lets you combine first and third-party AI models, Adobe tools, and custom interactive components inside a visual, designer-friendly node graph editor. Connect a library of tactile, interactive components that bring creative control of AI back to your fingertips. Transform ideas into powerful workflows and modular tools that run anywhere, from the web to Adobe apps like Photoshop. And if you’d rather focus on creating than building, you can tap into a growing ecosystem of community-built tools without ever opening the editor.
+  
+  
+In this position , you will play a key role in designing and delivering developer - focused features of the Project Graph platform.
+  
+  
+What You'll Do
+  
+  
+**Technical Ownership :** Design, implement, and maintain core components of Project Graph, with a focus on web components and developer experience
+  
+  
+**Innovation & Impact :** Collaborate with engineering leadership to shape and rapidly deliver on a technical vision to address the complex need s of the platform,
+  
+  
+**Engineering Excellence :** Champion software engineering standards, including code quality, testing, and continuous integration/deployment.
+  
+  
+**Design and Operate at Scale :** Lead in the architecture and operation of large-scale, globally distributed systems. Ensure high availability and low latency in enterprise environments.
+  
+  
+**Mentorship & Collaboration :** Mentor junior engineers, lead design reviews, and foster a culture of technical excellence and continuous learning across the team.
+  
+  
+**Customer Focus :** Work closely with product managers and customer-facing teams to understand user needs and translate them into robust technical solutions.
+  
+  
+What You Need To Succeed
+  
+  
+**Education :** BS or MS in Computer Science or a related field.
+  
+  
+**Experience :** 10+ years of experience building, testing and operating complex web applications , focused on the backend. Experience with node-based systems and enterprise software development is a strong plus.
+  
+  
+**Technical Expertise :** Deep understanding of modern software development practices . Web components experience a must-have. Experience building developer tooling a strong plus.
+  
+  
+**Problem Solving :** Strong analytical skills and a data-driven attitude. Ability to break down complex problems and deliver elegant, maintainable solutions.
+  
+  
+**Communication :** Excellent written and verbal communication skills. Ability to clearly articulate technical concepts and collaborate effectively with technical and non-technical partners.
+  
+  
+**Customer Empathy :** A strong sense of ownership and a passion for building products that delight users.
+  
+#FireflyGenAI
+  
+Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $159,200 -- $301,600 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+  
+  
+In California, the pay range for this position is $208,300 - $301,600
+  
+  
+At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).
+  
+  
+In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.
+  
+  
+**State-Specific Notices:**  
+**California :**  
+Fair Chance Ordinances
+  
+Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
+  
+  
+**Colorado:**  
+Application Window Notice
+  
+  
+If this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.
+  
+  
+**Massachusetts:**  
+Massachusetts Legal Notice
+  
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+  
+  
+Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.
+  
+  
+Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",,https://www.indeed.com/cmp/Adobe,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8556eb9d8fef8a256b09c6eed07eb084,http://www.adobe.com,"San Jose, CA","10,000+",$5B to $10B (USD),Let's Create Experiences that Matter.

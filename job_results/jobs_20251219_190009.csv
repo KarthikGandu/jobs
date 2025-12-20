@@ -1,0 +1,1062 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-4a58be0f6c3ae208,indeed,https://www.indeed.com/viewjob?jk=4a58be0f6c3ae208,https://careers.sig.com/job/10385/Trading-Site-Reliability-Engineer-Sports-Second-Shift-Experienced-Hire,Trading Site Reliability Engineer - Sports (Second Shift) | Experienced,"Susquehanna International Group, LLP","Bala-Cynwyd, PA, US",2025-12-18,[],,,,,,False,,,,recruiting@sig.com,"We are seeking a Trading Site Reliability Engineer (SRE) to support our sports trading desk. In this role, you will work at the intersection of software engineering, production operations, and trading systems, ensuring our systems run reliably, efficiently, and safely in live markets.  
+You will collaborate closely with developers, quantitative researchers, and infrastructure teams to build and maintain the tooling, automation, and observability required for a modern low latency trading environment. This is a hands on engineering role where you will contribute to production code, improve system resiliency, and help drive best practices for operability in a real time trading context.
+
+Experience in trading systems, particularly sports trading, is highly desirable.
+
+In this role you will:
+
+* Design, build, and maintain tooling and automation to monitor the health, performance, and correctness of a real time trading environment.
+* Write production grade software and scripts (Python, Bash, shell) to support system reliability, deployment workflows, and operational visibility.
+* Work directly with traders, quants, and developers to understand trading system behavior, production risks, and operational requirements.
+* Collaborate with infrastructure and platform teams on environment provisioning, CI/CD workflows, containerization, deployment pipelines, and system upgrades.
+* Own production readiness for new system changes, ensuring safe rollout and high availability.
+* Investigate and resolve production issues across distributed systems, networks, market data feeds, and exchange connectivity.
+* Contribute to continuous improvement of incident response, monitoring, alerting, and post-mortem practices.
+
+ **What we're looking for**
+
+Required:
+
+* Bachelor’s degree in Computer Science, Engineering, or related field.
+* Experience in software engineering, site reliability engineering, or a similar hands on technical role within a trading, market making, or financial markets environment
+* Strong software engineering and scripting abilities, especially in Python and shell scripting.
+* Experience working with real time, highly available trading systems (exchange connectivity, market data, order flow, or similar).
+* Ability to troubleshoot across the stack: Linux systems, networks, distributed services, and application level logic.
+* Excellent communication skills and comfort working closely with traders, quants, and developers.
+* Ability to succeed in a fast paced, high pressure production trading environment.
+* In office work required 5 days per week. Must be willing to work 3pm-11pm and rotating weekends.
+* Serve as a member of an on call schedule to handle production issues, drive incident resolution, and contribute to post incident improvements.
+
+Nice to have:
+
+* Experience with sports trading, sportsbooks, or event driven trading models.
+* Exposure to cloud native tooling (Kubernetes, containers, observability stacks such as Prometheus/Grafana/ELK).
+* Familiarity with prediction markets, financial instruments, market microstructure, or exchange protocols.
+* Strong quantitative reasoning skills.
+
+If you're a recruiting agency and want to partner with us, please reach out to recruiting@sig.com. Any resume or referral submitted in the absence of a signed agreement will not be eligible for an agency fee.
+
+#LI-KD-1
+
+#LI-Onsite",Banks And Financial Services,"https://www.indeed.com/cmp/Susquehanna-International-Group,-LLP",https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7107d70f2f533a389db71e8082869273,https://www.sig.com/,"401 East City Avenue
+Bala Cynwyd, PA 19004","1,001 to 5,000",$500M to $1B (USD),Susquehanna is a global quantitative trading firm founded by a group of friends who share a passion for game theory and probabilistic thinking.
+in-b53eb23d05af14bb,indeed,https://www.indeed.com/viewjob?jk=b53eb23d05af14bb,https://career.mlp.com/careers/job/755944052183,Mid-Senior Level Quant Developer,Millennium Management,"New York, NY, US",2025-12-18,[],,,,,,False,,,,[],"Job Description
+
+Mid-Senior Level Quant Developer
+
+Mid-Senior Level Quant Developer
+
+Preferred Location: New York
+
+Leading index Rebal team seeking a highly motivated and detail-oriented Quant Developer to join our team. The ideal candidate will have a strong passion for building robust trading systems and be familiar with the trading process. This role requires someone who is extremely hard-working and dedicated to achieving excellence in every aspect of their work. You will be working on our core trading engine and building out trade automations that drive the business.
+
+Key Responsibilities
+
+* Core Trading Engine Development: Develop, maintain, and improve our core trading engine.
+* Systematic Trade Automations: Design and implement trade automation systems to enhance trading efficiency and effectiveness.
+* Collaboration: Work closely with traders, researchers, and other developers to understand requirements and deliver solutions.
+* Code Review: Participate in code reviews to ensure the highest quality of code and adherence to best practices.
+* Support: Provide ongoing support and troubleshooting for existing trading systems and models.
+
+Required Skills and Qualifications
+
+* Educational Background: Bachelor’s or Master’s degree in Computer Science, Mathematics, Physics, Engineering, or a related field.
+* Programming Proficiency: Strong programming skills in Python and must be comfortable with common dataset libraries e.g. pandas, polars, numpy, duckdb etc.
+* Quantitative Skills: Solid understanding of quantitative finance and statistical methods.
+* Trading Knowledge: Familiarity with the trading process and financial markets.
+* System Design: Experience in designing and implementing high-performance, scalable systems.
+* Problem-Solving: Excellent analytical and problem-solving skills.
+* Attention to Detail: Meticulous attention to detail and a commitment to accuracy.
+* Work Ethic: Demonstrated ability to work hard and manage multiple tasks simultaneously.
+* Team Player: Ability to work effectively in a collaborative team environment.
+* Communication Skills: Strong verbal and written communication skills.
+
+Millennium pays a total compensation package which includes a base salary, discretionary performance bonus, and a comprehensive benefits package. The estimated base salary range for this position is $150,000 to $200,000, which is specific to New York and may change in the future. When finalizing an offer, we take into consideration an individual’s experience level and the qualifications they bring to the role to formulate a competitive total compensation package.",,https://www.indeed.com/cmp/Millennium-Management-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2bc1592252cb2e6a2880d07f3ea4b83e,https://www.mlp.com,"New York, NY","5,001 to 10,000",Decline to state,"Millennium is a global alternative investment management firm, founded in 1989, which manages more than $45 billion in assets."
+in-e16cb8c0471a298a,indeed,https://www.indeed.com/viewjob?jk=e16cb8c0471a298a,https://careers.sig.com/job/10379/Senor-Fixed-Income-Operations-Analyst,Senor Fixed Income Operations Analyst,"Susquehanna International Group, LLP","Bala-Cynwyd, PA, US",2025-12-17,[],,,,,,False,,,,recruiting@sig.com,"We are seeking a highly skilled and experienced Senior Fixed Income Operations Analyst professional to join our team. The ideal candidate will have a strong background in fixed income products, excellent technical skills, and a proven history of supporting trading operations. In addition to daily support, the candidate will work on enhancing processes or implementing new ones to streamline workflows for the trading desk.
+
+In this role you will:
+
+* Provide comprehensive support to the fixed income trading desk, ensuring smooth and efficient trading operations.
+* Monitor and manage trade lifecycle events, including trade capture, confirmation, settlement, and reconciliation.
+* Develop and maintain automated tools and scripts using VBA, Python, and SQL to improve operational efficiency and accuracy.
+* Collaborate with traders, risk management, and back-office teams to resolve trade-related issues and discrepancies.
+* Perform daily P&L reconciliation and reporting, ensuring accuracy and compliance with internal and regulatory standards.
+* Conduct regular reviews of trading processes and workflows, identifying areas for improvement and implementing best practices.
+* Ensure compliance with all relevant regulations and internal policies, maintaining a high standard of operational risk management.
+
+  
+**What we're looking for**  
+
+* Bachelor’s degree in Finance, Economics or related field.
+* Minimum of 5 years of experience in a middle office or trading support role within the fixed income space.
+* Strong technical skills, including proficiency in VBA, Python, and SQL.
+* In-depth knowledge of fixed income products, trade lifecycle, and market conventions.
+* Excellent analytical and problem-solving abilities, with a keen attention to detail.
+* Strong communication and interpersonal skills, with the ability to work effectively in a fast-paced, dynamic environment.
+* Experience with trading systems and platforms (e.g., Bloomberg, Tradeweb) is a plus.
+* Ability to work independently and as part of a team, managing multiple priorities and deadlines.
+* Visa sponsorship for work authorization is not available for this position now or in the future.
+
+About Susquehanna
+
+Susquehanna is a global quantitative trading firm powered by scientific rigor, curiosity, and innovation. Our culture is intellectually driven and highly collaborative, bringing together researchers, engineers, and traders to design and deploy impactful strategies in our systematic trading environment. To meet the unique challenges of global markets, Susquehanna applies machine learning and advanced quantitative research to vast datasets in order to uncover actionable insights and build effective strategies. By uniting deep market expertise with cutting-edge technology, we excel in solving complex problems and pushing boundaries together.
+
+*If you're a recruiting agency and want to partner with us, please reach out to* *recruiting@sig.com**. Any resume or referral submitted in the absence of a signed agreement will not be eligible for an agency fee.*",Banks And Financial Services,"https://www.indeed.com/cmp/Susquehanna-International-Group,-LLP",https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7107d70f2f533a389db71e8082869273,https://www.sig.com/,"401 East City Avenue
+Bala Cynwyd, PA 19004","1,001 to 5,000",$500M to $1B (USD),Susquehanna is a global quantitative trading firm founded by a group of friends who share a passion for game theory and probabilistic thinking.
+in-3577cad272675b61,indeed,https://www.indeed.com/viewjob?jk=3577cad272675b61,https://careers.sig.com/job/9971/Interior-Designer,Interior Designer,"Susquehanna International Group, LLP","Bala-Cynwyd, PA, US",2025-12-16,[],,,,,,False,,,,recruiting@sig.com,"Susquehanna is seeking an Interior Designer with 6-8 years of experience to join our growing Workplace Design team. The successful candidate will have workplace interiors experience and will support projects in Bala Cynwyd, New York, London, and other locations. We are looking for a highly creative, organized, and self-motivated individual who is a self-starter and can work both independently and collaboratively as part of a team. The candidate should possess strong oral and written communication skills, as well as excellent presentation and documentation abilities.
+
+A solid understanding of design concepts, finishes, furniture, and applicable standards is essential. The candidate must demonstrate the ability to express design vision through sketching, visualization, and presentations. Working knowledge of building and accessibility codes is a plus. Ability to collaborate with stakeholders and consultants, and participate in project development from concept through construction, presenting ideas clearly and persuasively.
+
+In this role you will:
+
+* This role will require involvement on all phases on the project. Programming end-user requirements, conceptual design, schematic design, design development, space planning, documentation, and construction administration
+* Create functional and beautiful spaces for a variety of Susquehanna locations
+* Work on multiple projects, providing concepts in ways that may explore new ways of achieving design solutions, completing tasks to deadlines and effectively utilizing resources to address project requirements
+* Develop sketches, conducting research and data collection, preparing presentations and reports, and general preparation and production of design and construction documents under supervision
+* Involvement on selection of finishes, furniture, fabrics, and lighting that aligns with overall design vision
+* Familiarity with programming and space planning
+* Coordination and collaboration with a variety of stakeholders, end-users, internal and external consultants, external partners, vendors, and fabricators
+* Revit knowledge for developing drawings and 3D modeling
+* Working knowledge of 3D modeling and Visualization with Revit, Enscape, SketchUp, and similar
+* Knowledge of Adobe Suite (Photoshop, InDesign, and Illustrator) for developing design presentations and visualizations
+* Work on materials library and interact with external partners and vendors
+* Understanding of codes and regulations applicable in workplace environments
+* Work in tandem with Interior Design Manager to articulate and develop initial ideas into working concepts, and actively participate in design reviews, and meetings with internal and external partners
+
+  
+**What we're looking for**  
+
+* Bachelor’s degree in Interior Design
+* 6-8 years of experience, with a background in workplace design
+* Knowledge of Microsoft Suite (Word, Excel, and PowerPoint)
+* Proficiency in 3D modeling and visualization
+* Proficiency in REVIT is required
+* NCIDQ Certification or actively pursuing certification
+* LEED and/or WELL accreditation preferred
+* Visa sponsorship for work authorization is not available for this position now or in the future
+
+About Susquehanna
+
+Susquehanna is a global quantitative trading firm powered by scientific rigor, curiosity, and innovation. Our culture is intellectually driven and highly collaborative, bringing together researchers, engineers, and traders to design and deploy impactful strategies in our systematic trading environment. To meet the unique challenges of global markets, Susquehanna applies machine learning and advanced quantitative research to vast datasets in order to uncover actionable insights and build effective strategies. By uniting deep market expertise with cutting-edge technology, we excel in solving complex problems and pushing boundaries together.
+
+*If you're a recruiting agency and want to partner with us, please reach out to* *recruiting@sig.com**. Any resume or referral submitted in the absence of a signed agreement will not be eligible for an agency fee.*",Banks And Financial Services,"https://www.indeed.com/cmp/Susquehanna-International-Group,-LLP",https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7107d70f2f533a389db71e8082869273,https://www.sig.com/,"401 East City Avenue
+Bala Cynwyd, PA 19004","1,001 to 5,000",$500M to $1B (USD),Susquehanna is a global quantitative trading firm founded by a group of friends who share a passion for game theory and probabilistic thinking.
+in-f13e01bb9d012d28,indeed,https://www.indeed.com/viewjob?jk=f13e01bb9d012d28,https://www.metlifecareers.com/en_US/ml/JobDetail/Associate-Director-MII-Derivatives-Trader/14323,Associate Director - MII Derivatives Trader,MetLife,"Whippany, NJ, US",2025-12-16,[],description,yearly,132000.0,176000.0,USD,False,,,,accommodations@metlife.com,"Location(s)
+
+* Posting Location: Whippany, New Jersey
+
+City/Cities
+
+Whippany
+
+Country
+
+United States
+
+Working Schedule
+
+Full-Time
+
+Work Arrangement
+
+Hybrid
+
+Relocation Assistance Available
+
+No
+
+Posted Date
+
+16-Dec-2025
+
+Job ID
+
+14323
+
+### **Description and Requirements**
+
+**Role Value Proposition:**
+
+MetLife, through its subsidiaries and affiliates, is one of the world’s leading financial services companies, providing insurance, annuities, employee benefits, and asset management to individual and institutional customers. We’re united by our purpose to help our customers and each other create a confident future; we’re guided by empathy; and we’re inspired by each other to make a difference in the lives of our coworkers, customers, communities, and the world at large. At MetLife, it’s #AllTogetherPossible. Join us!
+
+The Derivatives VA and Equity Macro Hedging team is dedicated to creating and delivering solutions that support growth and improve the Company’s profitability through its use of derivatives strategies to solve dynamic and macro hedging needs across annuity and reinsurance products. The team collaborates across multiple enterprise functions to design, implement, and manage hedging programs that enhance profitability, optimize capital efficiency, mitigate risk, and support portfolio diversification. The team works with MII, Portfolio Managers, Treasury, Actuarial and the Lines of Business. The team supports our insurance lines of business by hedging equity, interest rate, and currency exposure in derivative markets including global equity indices, interest rates, volatility, and foreign exchange utilizing a wide variety of vanilla and exotic derivatives.
+
+The successful candidate will be actively engaged in the structuring, execution, and ongoing management of the derivatives portfolio. This role directly influences the enterprise’s financial outcomes by delivering risk-managed strategies that optimize capital efficiency and support return generation. The trader will partner closely with Portfolio Managers and business leaders to identify and implement cost-effective hedge solutions, while also working with actuarial and risk teams to refine and evolve hedging frameworks. A strong understanding of market dynamics and the ability to proactively generate actionable ideas will be essential, as the candidate will be expected to monitor market conditions, manage existing positions, and contribute to the strategic direction of the hedging program.
+
+Key Responsibilities:
+
+* Lead the structuring, execution, and oversight of hedge programs to optimize cost and risk outcomes
+* Develop and implement strategic hedging solutions across equity, rate, and currency market exposures
+* Produce market strategy insights and publish position papers to inform internal decision-making
+* Oversee performance reporting and risk analytics, including pre-trade modeling, position tracking, and P&L monitoring
+* Manage relationships with sell-side counterparties and internal stakeholders across Investments IT, Treasury, Risk, ALM, Accounting, and Portfolio Management
+* Provide leadership on strategic initiatives and cross-functional projects
+* Mentor junior talent and foster a high-performance, growth-oriented team culture
+
+**Essential Business Experience and Technical Skills:**
+
+Required:
+
+* 5+ years of equity derivatives sales or trading experience required
+* Strong quantitative, analytical, and communication skills (verbal and written)
+* Effective collaborator with strong interpersonal skills
+* Demonstrated success in navigating complex, matrixed environments
+
+Preferred:
+
+* Experience in global markets, insurance investments, and developing hedging strategies a plus
+* Familiarity with derivative market commentary and strategy writing a plus
+* Programming experience (e.g Python, R., etc.) a plus
+* Advanced degree or industry certifications (MBA degree, CFA charterholder, or comparable) a plus
+* Background in change management or strategic transformation a plus
+* Rate or currency markets experience a plus
+
+**At MetLife, we’re leading the global transformation of an industry we’ve long defined. United in purpose, diverse in perspective, we’re dedicated to making a difference in the lives of our customers.**
+
+Location Expectation: This is a hybrid role **requiring a minimum of 3 days per week** in office.
+
+The expected salary range for this position is $132,000 - $176,000. This role may also be eligible for annual short-term incentive compensation. All incentives and benefits are subject to the applicable plan terms.
+
+**Benefits We Offer**
+
+Our U.S. benefits address holistic well-being with programs for physical and mental health, financial wellness, and support for families. We offer a comprehensive health plan that includes medical/prescription drug and vision, dental insurance, and no-cost short- and long-term disability. We also provide company-paid life insurance and legal services, a retirement pension funded entirely by MetLife and 401(k) with employer matching, group discounts on voluntary insurance products including auto and home, pet, critical illness, hospital indemnity, and accident insurance, as well as Employee Assistance Program (EAP) and digital mental health programs, parental leave, volunteer time off, tuition assistance and much more!
+
+**About MetLife**
+
+Recognized on Fortune magazine's list of the ""World's Most Admired Companies"", Fortune World’s 25 Best Workplaces™, as well as the Fortune 100 Best Companies to Work For®, MetLife, through its subsidiaries and affiliates, is one of the world’s leading financial services companies; providing insurance, annuities, employee benefits and asset management to individual and institutional customers. With operations in more than 40 markets, we hold leading positions in the United States, Latin America, Asia, Europe, and the Middle East.
+
+Our purpose is simple - to help our colleagues, customers, communities, and the world at large create a more confident future. United by purpose and guided by our core values - Win Together, Do the Right Thing, Deliver Impact Over Activity, and Think Ahead - we’re inspired to transform the next century in financial services. At MetLife, it’s #AllTogetherPossible. Join us!
+
+*MetLife is an Equal Opportunity Employer. All employment decisions are made without regards to race, color, national origin, religion, creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity or expression, age, disability, marital or domestic/civil partnership status, genetic information, citizenship status (although applicants and employees must be legally authorized to work in the United States), uniformed service member or veteran status, or any other characteristic protected by applicable federal, state, or local law (“protected characteristics”).*
+
+*If you need an accommodation due to a disability, please email us at accommodations@metlife.com. This information will be held in confidence and used only to determine an appropriate accommodation for the application process.*  
+  
+*MetLife maintains a drug-free workplace.*
+
+$132,000 - $176,000",,https://www.indeed.com/cmp/MetLife,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9915ad93eb5da9901e72160a54d46801,https://www.metlife.com,"New York, NY","10,000+",more than $10B (USD),"Founded in 1868, MetLife, through its subsidiaries and affiliates, is one of the world’s leading financial services companies, providing insurance, annuities, employee benefits and asset management."
+li-4344921817,linkedin,https://www.linkedin.com/jobs/view/4344921817,,"Data Scientist, Advertising Products & Solutions",NBCUniversal,"New York, NY",2025-12-18,,,,,,,,,,,,,,https://www.linkedin.com/company/nbcuniversal-inc-,,,,,,
+li-4303692629,linkedin,https://www.linkedin.com/jobs/view/4303692629,,Senior Fixed Income Quantitative Analyst,"Lord, Abbett & Co. LLC","Jersey City, NJ",2025-12-17,,,,,,,,,,,,,,https://www.linkedin.com/company/lord-abbett-&-co-llc,,,,,,
+li-4344088718,linkedin,https://www.linkedin.com/jobs/view/4344088718,,"Scientist IV, Data Excellence Computational Innovation",Boehringer Ingelheim,"Ridgefield, CT",2025-12-17,,,,,,,,,,,,,,https://de.linkedin.com/company/boehringer-ingelheim,,,,,,
+li-4325793417,linkedin,https://www.linkedin.com/jobs/view/4325793417,,"Data Scientist, Agentic AI",Soni,"Bethlehem, PA",,,,,,,,,,,,,,,https://www.linkedin.com/company/soni-resources-group,,,,,,
+in-e1c3fd2fd1cbb646,indeed,https://www.indeed.com/viewjob?jk=e1c3fd2fd1cbb646,https://jobs.citi.com/job/-/-/287/89659008160,Model/Analysis/Validation Senior Analyst,Citi,"New York, NY, US",2025-12-18,[],,,,,,False,,,,[],"Citigroup Global Markets Inc. seeks a Model/Analysis/Validation Senior Analyst for its New York, New York location.
+
+Duties: Serve as a strategic business partner in Counterparty Credit Risk Quantitative Development, working closely with the global management teams throughout the Institutional Clients, Global Consumer Bank, and Global Functions groups. Analyze risk and exposure models to derive mathematical and statistical implications and markets scenarios. Add value to the business by researching, analyzing, problem solving, stress testing, assessing risk and developing solutions. Develop analytical models used for derivatives risk and exposure calculations. Conduct research into the mathematical derivation of the model. Develop code, test, and document models for formal validation and approval. Deliver the model for incorporation into the Firm’s internal and regulatory risk management processes. A telecommuting/hybrid work schedule may be permitted within a commutable distance from the worksite, in accordance with Citi policies and protocols.
+
+Requirements: Requires a Master’s degree, or foreign equivalent, in Financial Engineering, Mathematics, Statistics, Computer Science, or related field and 2 years of experience as a Quantitative Developer, Quantitative Analyst, or related position involving risk and exposure models analysis and development in a global financial services institution. 2 years of experience must include: Data gathering and analysis for pricing; Risk and exposure models formulation, testing and validation; Quantitative toolbox development using C++ and Python programming, algorithms, and numerical techniques; Development and maintenance of quantitative infrastructure and databases; Incorporating risk and exposure models development into regulatory risk management processes; Production of regulatory reporting; In-house model library development, optimization and maintenance; Development using Linux and Windows; and Bash scripting. Applicants submit resumes at https://jobs.citi.com/. Please reference Job ID #25924254. EO Employer.
+
+Wage Range: $136,500 to $175,000
+
+Job Family Group: Risk Management
+
+Job Family: Model Development and Analytics
+
+-
+
+**Job Family Group:**
+
+-
+
+**Job Family:**
+
+-
+
+**Time Type:**
+
+Full time
+
+-
+
+**Primary Location:**
+
+New York New York United States
+
+-
+
+**Primary Location Full Time Salary Range:**
+
+In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.
+
+-
+
+**Most Relevant Skills**
+
+Please see the requirements listed above.
+
+-
+
+**Other Relevant Skills**
+
+For complementary skills, please see above and/or contact the recruiter.
+
+-
+
+**Anticipated Posting Close Date:**
+
+Feb 03, 2026
+
+-
+
+*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
+
+*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* *Accessibility at Citi**.*  
+  
+*View Citi’s* *EEO Policy Statement* *and the* *Know Your Rights* *poster.*",,https://www.indeed.com/cmp/Citi,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3a65f2fd9d93f6c880484c373f0b34da,http://www.citigroup.com,"New York, NY","10,000+",more than $10B (USD),Citi is more than a global financial services company. It’s an engine for progress. Apply today to to get involved.
+in-4a58be0f6c3ae208,indeed,https://www.indeed.com/viewjob?jk=4a58be0f6c3ae208,https://careers.sig.com/job/10385/Trading-Site-Reliability-Engineer-Sports-Second-Shift-Experienced-Hire,Trading Site Reliability Engineer - Sports (Second Shift) | Experienced,"Susquehanna International Group, LLP","Bala-Cynwyd, PA, US",2025-12-18,[],,,,,,False,,,,recruiting@sig.com,"We are seeking a Trading Site Reliability Engineer (SRE) to support our sports trading desk. In this role, you will work at the intersection of software engineering, production operations, and trading systems, ensuring our systems run reliably, efficiently, and safely in live markets.  
+You will collaborate closely with developers, quantitative researchers, and infrastructure teams to build and maintain the tooling, automation, and observability required for a modern low latency trading environment. This is a hands on engineering role where you will contribute to production code, improve system resiliency, and help drive best practices for operability in a real time trading context.
+
+Experience in trading systems, particularly sports trading, is highly desirable.
+
+In this role you will:
+
+* Design, build, and maintain tooling and automation to monitor the health, performance, and correctness of a real time trading environment.
+* Write production grade software and scripts (Python, Bash, shell) to support system reliability, deployment workflows, and operational visibility.
+* Work directly with traders, quants, and developers to understand trading system behavior, production risks, and operational requirements.
+* Collaborate with infrastructure and platform teams on environment provisioning, CI/CD workflows, containerization, deployment pipelines, and system upgrades.
+* Own production readiness for new system changes, ensuring safe rollout and high availability.
+* Investigate and resolve production issues across distributed systems, networks, market data feeds, and exchange connectivity.
+* Contribute to continuous improvement of incident response, monitoring, alerting, and post-mortem practices.
+
+ **What we're looking for**
+
+Required:
+
+* Bachelor’s degree in Computer Science, Engineering, or related field.
+* Experience in software engineering, site reliability engineering, or a similar hands on technical role within a trading, market making, or financial markets environment
+* Strong software engineering and scripting abilities, especially in Python and shell scripting.
+* Experience working with real time, highly available trading systems (exchange connectivity, market data, order flow, or similar).
+* Ability to troubleshoot across the stack: Linux systems, networks, distributed services, and application level logic.
+* Excellent communication skills and comfort working closely with traders, quants, and developers.
+* Ability to succeed in a fast paced, high pressure production trading environment.
+* In office work required 5 days per week. Must be willing to work 3pm-11pm and rotating weekends.
+* Serve as a member of an on call schedule to handle production issues, drive incident resolution, and contribute to post incident improvements.
+
+Nice to have:
+
+* Experience with sports trading, sportsbooks, or event driven trading models.
+* Exposure to cloud native tooling (Kubernetes, containers, observability stacks such as Prometheus/Grafana/ELK).
+* Familiarity with prediction markets, financial instruments, market microstructure, or exchange protocols.
+* Strong quantitative reasoning skills.
+
+If you're a recruiting agency and want to partner with us, please reach out to recruiting@sig.com. Any resume or referral submitted in the absence of a signed agreement will not be eligible for an agency fee.
+
+#LI-KD-1
+
+#LI-Onsite",Banks And Financial Services,"https://www.indeed.com/cmp/Susquehanna-International-Group,-LLP",https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7107d70f2f533a389db71e8082869273,https://www.sig.com/,"401 East City Avenue
+Bala Cynwyd, PA 19004","1,001 to 5,000",$500M to $1B (USD),Susquehanna is a global quantitative trading firm founded by a group of friends who share a passion for game theory and probabilistic thinking.
+in-ec880dbe77b70b7b,indeed,https://www.indeed.com/viewjob?jk=ec880dbe77b70b7b,https://jobs.citi.com/job/new-york/model-analysis-validation-senior-analyst/287/89659008160,Model/Analysis/Validation Senior Analyst,Citi,"New York, NY, US",2025-12-18,[],,,,,,False,,,,[],"**Discover your future at Citi**
+--------------------------------
+
+Working at Citi is far more than just a job. A career with us means joining a team of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.
+
+**Job Overview**
+----------------
+
+Citigroup Global Markets Inc. seeks a Model/Analysis/Validation Senior Analyst for its New York, New York location.
+
+Duties: Serve as a strategic business partner in Counterparty Credit Risk Quantitative Development, working closely with the global management teams throughout the Institutional Clients, Global Consumer Bank, and Global Functions groups. Analyze risk and exposure models to derive mathematical and statistical implications and markets scenarios. Add value to the business by researching, analyzing, problem solving, stress testing, assessing risk and developing solutions. Develop analytical models used for derivatives risk and exposure calculations. Conduct research into the mathematical derivation of the model. Develop code, test, and document models for formal validation and approval. Deliver the model for incorporation into the Firm’s internal and regulatory risk management processes. A telecommuting/hybrid work schedule may be permitted within a commutable distance from the worksite, in accordance with Citi policies and protocols.
+
+Requirements: Requires a Master’s degree, or foreign equivalent, in Financial Engineering, Mathematics, Statistics, Computer Science, or related field and 2 years of experience as a Quantitative Developer, Quantitative Analyst, or related position involving risk and exposure models analysis and development in a global financial services institution. 2 years of experience must include: Data gathering and analysis for pricing; Risk and exposure models formulation, testing and validation; Quantitative toolbox development using C++ and Python programming, algorithms, and numerical techniques; Development and maintenance of quantitative infrastructure and databases; Incorporating risk and exposure models development into regulatory risk management processes; Production of regulatory reporting; In-house model library development, optimization and maintenance; Development using Linux and Windows; and Bash scripting. Applicants submit resumes at https://jobs.citi.com/. Please reference Job ID #25924254. EO Employer.
+
+Wage Range: $136,500 to $175,000
+
+Job Family Group: Risk Management
+
+Job Family: Model Development and Analytics
+
+-
+
+**Job Family Group:**
+
+-
+
+**Job Family:**
+
+-
+
+**Time Type:**
+
+Full time
+
+-
+
+**Primary Location:**
+
+New York New York United States
+
+-
+
+**Primary Location Full Time Salary Range:**
+
+In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.
+
+-
+
+**Most Relevant Skills**
+
+Please see the requirements listed above.
+
+-
+
+**Other Relevant Skills**
+
+For complementary skills, please see above and/or contact the recruiter.
+
+-
+
+**Anticipated Posting Close Date:**
+
+Feb 03, 2026
+
+-
+
+*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
+
+*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* *Accessibility at Citi**.*  
+  
+*View Citi’s* *EEO Policy Statement* *and the* *Know Your Rights* *poster.*",,https://www.indeed.com/cmp/Citi,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3a65f2fd9d93f6c880484c373f0b34da,http://www.citigroup.com,"New York, NY","10,000+",more than $10B (USD),Citi is more than a global financial services company. It’s an engine for progress. Apply today to to get involved.
+in-b53eb23d05af14bb,indeed,https://www.indeed.com/viewjob?jk=b53eb23d05af14bb,https://career.mlp.com/careers/job/755944052183,Mid-Senior Level Quant Developer,Millennium Management,"New York, NY, US",2025-12-18,[],,,,,,False,,,,[],"Job Description
+
+Mid-Senior Level Quant Developer
+
+Mid-Senior Level Quant Developer
+
+Preferred Location: New York
+
+Leading index Rebal team seeking a highly motivated and detail-oriented Quant Developer to join our team. The ideal candidate will have a strong passion for building robust trading systems and be familiar with the trading process. This role requires someone who is extremely hard-working and dedicated to achieving excellence in every aspect of their work. You will be working on our core trading engine and building out trade automations that drive the business.
+
+Key Responsibilities
+
+* Core Trading Engine Development: Develop, maintain, and improve our core trading engine.
+* Systematic Trade Automations: Design and implement trade automation systems to enhance trading efficiency and effectiveness.
+* Collaboration: Work closely with traders, researchers, and other developers to understand requirements and deliver solutions.
+* Code Review: Participate in code reviews to ensure the highest quality of code and adherence to best practices.
+* Support: Provide ongoing support and troubleshooting for existing trading systems and models.
+
+Required Skills and Qualifications
+
+* Educational Background: Bachelor’s or Master’s degree in Computer Science, Mathematics, Physics, Engineering, or a related field.
+* Programming Proficiency: Strong programming skills in Python and must be comfortable with common dataset libraries e.g. pandas, polars, numpy, duckdb etc.
+* Quantitative Skills: Solid understanding of quantitative finance and statistical methods.
+* Trading Knowledge: Familiarity with the trading process and financial markets.
+* System Design: Experience in designing and implementing high-performance, scalable systems.
+* Problem-Solving: Excellent analytical and problem-solving skills.
+* Attention to Detail: Meticulous attention to detail and a commitment to accuracy.
+* Work Ethic: Demonstrated ability to work hard and manage multiple tasks simultaneously.
+* Team Player: Ability to work effectively in a collaborative team environment.
+* Communication Skills: Strong verbal and written communication skills.
+
+Millennium pays a total compensation package which includes a base salary, discretionary performance bonus, and a comprehensive benefits package. The estimated base salary range for this position is $150,000 to $200,000, which is specific to New York and may change in the future. When finalizing an offer, we take into consideration an individual’s experience level and the qualifications they bring to the role to formulate a competitive total compensation package.",,https://www.indeed.com/cmp/Millennium-Management-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2bc1592252cb2e6a2880d07f3ea4b83e,https://www.mlp.com,"New York, NY","5,001 to 10,000",Decline to state,"Millennium is a global alternative investment management firm, founded in 1989, which manages more than $45 billion in assets."
+in-f75b1f6001414a9d,indeed,https://www.indeed.com/viewjob?jk=f75b1f6001414a9d,https://career.mlp.com/careers/job/755940452049,Quantitative Development - DevOps Engineer,Millennium Management,"New York, NY, US",2025-12-18,[],,,,,,False,,,,[],"Job Description
+
+Quantitative Development - DevOps Engineer
+
+**Job Function Summary**
+
+The Central Liquidity Strategies (CLS) business manages a number of portfolios and products designed to optimize the firm’s trading and execution approach by providing internal liquidity solutions for portfolio managers on both a risk and agency basis.
+
+We are seeking a highly driven, results-oriented, and opinionated dev ops leader with experience in handling research infrastructure, deploying critical applications, and operating on large amounts of data to create battle-tested infrastructure and improve the research development experience.
+
+**Principal Responsibilities**
+
+* Leadership: the candidate will design and implement infrastructure, and advise on and enforce best practices to maximize research and development velocity
+* Research: the candidate is expected to keep up with the state-of-the-art tools that are being used in the field and continuously evaluate what the best tools and practices are for our use cases
+* Machine Learning Operations (MLOps) + Development Experience (DevEx):
+  + create dependable and reproducible polyglot (Python, native extensions, CUDA) environments for rapidly iterating research projects that can be easily deployed to prod
+  + Enforce best practices and packaging standards for large research codebases
+  + Work with the cloud to help scale research jobs
+* Infrastructure automation:
+  + develop CI/CD pipelines for research processes and live trading apps
+  + develop robust monitoring solutions for infrastructure and deployed applications
+  + automate recurring jobs with tools like Airflow/Prefect
+* Performance engineering:
+  + Be familiar with best practices for profiling, monitoring performance to assist with performance investigations
+  + Develop solutions that empower researchers and developers to understand the performance of their code
+
+**Qualifications/Skills Required**
+
+* Experience: 10+ years of experience with research focused DevOps (HPC, ML research, quant research) and experience with high-availability production deployments
+* Strong communications skills and ability to work with many stakeholders in a team environment
+* Leadership skills: ability to work with constraints, make decisions under time pressure, and own your work
+* Development skills: Experience writing clean, robust, and testable code for automating processes pertaining to infrastructure management and deployment
+* Systems knowledge:
+  + familiarity with Linux internals
+  + understanding of package management, how software is deployed on systems
+* Python:
+  + Strong understanding of Python internals
+  + Familiarity with the latest standards in the packaging ecosystem (uv), build tools like hatchling
+* Familiarity with tools like: Nix, Conda, Pixi, and containers
+
+The estimated base salary range for this position is $160,000 to $250,000, which is specific to New York and may change in the future. Millennium pays a total compensation package which includes a base salary, discretionary performance bonus, and a comprehensive benefits package. When finalizing an offer, we take into consideration an individual’s experience level and the qualifications they bring to the role to formulate a competitive total compensation package.",,https://www.indeed.com/cmp/Millennium-Management-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2bc1592252cb2e6a2880d07f3ea4b83e,https://www.mlp.com,"New York, NY","5,001 to 10,000",Decline to state,"Millennium is a global alternative investment management firm, founded in 1989, which manages more than $45 billion in assets."
+in-1d8c3e06f7143c66,indeed,https://www.indeed.com/viewjob?jk=1d8c3e06f7143c66,https://career.mlp.com/careers/job/755953150473,"Team Lead, Quantitative Developer - Equities Technology",Millennium Management,"New York, NY, US",2025-12-18,[],,,,,,False,,,,[],"Job Description
+
+Team Lead, Quantitative Developer - Equities Technology
+
+We are in search of an experienced Quantitative Developer in a team-lead capacity. This role requires technical and managerial skills with an emphasis on hands-on work. This leader would set technical direction and provide guidance to a small team of Quantitative Developers. The Ideal candidate is passionate about designing, architecting, and implementing low-latency C++ systems that are not only robust, resilient, and accurate, but also exceptionally fast. Our team works directly with the firm’s central trading teams, and by leading the construction and maintenance of this high-performance infrastructure, this Team Lead will enable new trading opportunities across businesses and regions, ensuring the best possible execution performance.  
+  
+**Job Duties**
+
+* Lead, mentor, and manage a team of quantitative developers, fostering a collaborative and high-performance culture.
+* Development of execution algorithms, order management systems, strategy containers, connectivity, and messaging systems.
+* Work directly with central trading teams to optimize the firm’s overall execution performance.
+* Enhance the platform's efficiency by utilizing network and systems programming, along with other advanced techniques to reduce latency.
+* Create systems, interfaces, and tools for historical market data and trading simulations to boost research productivity and system testability.
+* Assist in building and maintaining our automated tests, performance benchmark framework, and other tools.
+* Collaborate closely with trading teams to gather requirements and develop solutions in a fast-paced environment
+
+**Qualifications**
+
+* Bachelor’s degree or higher in Computer Science, Engineering, or a related quantitative field.
+* 12+ years of cumulative professional experience in software development.
+* 7+ years of professional experience in a front-office, financial services environment, with a proven track record as a senior contributor or technical lead.
+
+* Strong background in data structures, algorithms, and object-oriented programming in C++, including:  
+  o Proficiency with new features of C++17 and C++20  
+  o Proficiency with multithreading and asynchronous environments
+
+* Strong understanding of low-latency and real-time system design and implementation.
+* Strong understanding of Linux system internals and networking.
+* Strong financial experience across multiple asset classes, with a focus on real-time low-latency trading systems for equities and futures.
+* Familiarity with python for quantitative research and data-oriented processing.
+* Familiarity with analysis of execution algorithm performance.
+
+The estimated base salary range for this position is $175,000 to $250,000, which is specific to New York and may change in the future. Millennium pays a total compensation package which includes a base salary, discretionary performance bonus, and a comprehensive benefits package. When finalizing an offer, we take into consideration an individual’s experience level and the qualifications they bring to the role to formulate a competitive total compensation package.",,https://www.indeed.com/cmp/Millennium-Management-1,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2bc1592252cb2e6a2880d07f3ea4b83e,https://www.mlp.com,"New York, NY","5,001 to 10,000",Decline to state,"Millennium is a global alternative investment management firm, founded in 1989, which manages more than $45 billion in assets."
+in-7ddddb0bd8cadeef,indeed,https://www.indeed.com/viewjob?jk=7ddddb0bd8cadeef,https://jobs.itsmfleaders.org/job/rsjet6/lead-java-developer-vp/new-york/ny,Lead Java Developer - VP,Information Technology Senior Management Forum,"New York, NY, US",2025-12-17,[],description,yearly,142320.0,213480.0,USD,False,,,,[],"Posted Date
+
+12/17/2025
+
+Description
+
+#### **About the Team**
+
+The Fixed Income Data team is a strategic and integral part of supporting Citi's GSP/Rates businesses, delivering exceptional capabilities in advanced business analysis, strategic project management, cutting-edge application development, robust quality assurance, and seamless integration with proprietary technology solutions. Our mission is to architect, build, and operate high-performance, resilient data platforms that empower critical financial operations and drive real-time decision-making across the firm.
+
+#### **The Opportunity**
+
+We are seeking a highly accomplished Java engineer to join our Realtime Risk Data team. This role is at the forefront of architecting, leading, and significantly enhancing our comprehensive real-time risk data acquisition, processing, and distribution framework. You will serve as a technical thought leader, driving the strategic adoption and implementation of cutting-edge streaming technologies such as Apache Kafka for high-throughput data ingestion, Apache Flink for complex event processing and real-time analytics, and Apache Pinot for ultra-low-latency OLAP queries on large datasets. You will also oversee the management of petabyte-scale datasets on S3, enabling efficient querying via Trino. This role demands deep technical expertise, a strategic mindset, and the ability to mentor and guide engineering teams in designing, developing, and optimizing mission-critical, high-performance real-time data solutions that directly impact global financial operations.
+
+#### **Key Responsibilities**
+
+* Architectural Leadership: Serve as the principal architect for scalable, high-performance Java-based real-time data solutions, ensuring robust design for high availability, fault tolerance, and resilience for both real-time and EOD risk processes.
+* Strategic Implementation: Drive the strategic implementation and optimization of distributed stream processing frameworks (Apache Kafka, Apache Flink) and real-time data storage technologies (Apache Pinot) for ultra-low-latency analytics and complex event processing.
+* Data Pipeline Mastery: Lead the end-to-end design, development, and operation of real-time streaming data pipelines, integrating with large-scale object storage solutions like S3 and analytics engines such as Trino.
+* Technical Excellence & Mentorship: Champion continuous improvement in data reliability, efficiency, and scalability. Establish and enforce best practices for code quality, performance optimization, and system resilience through hands-on leadership and thorough peer code reviews. Mentor and technically guide senior and lead developers.
+* SDLC Ownership: Drive significant contributions across all phases of the Agile software development lifecycle, from architectural vision and detailed design to implementation, deployment, monitoring, and ongoing support for critical real-time data systems.
+* Cross-Functional Collaboration: Collaborate strategically with business analysts, product managers, quality assurance teams, and other engineering leads to ensure the delivery of seamlessly integrated, high-impact technology solutions that align with business objectives and architectural standards.
+* Innovation & Research: Stay abreast of industry trends and emerging technologies in real-time data processing, distributed systems, and cloud-native architectures, evaluating and proposing their adoption where beneficial.
+
+#### **Required Skills and Qualifications**
+
+* Senior Data Engineering Expertise: 7+ years of progressive experience in data engineering and software development, with a significant focus on building high-performance, large-scale distributed systems.
+* Java Mastery: Expert-level command of Java (version 11 or higher) with a deep understanding of concurrent programming, multithreading, advanced OOP concepts, design patterns, and performance tuning.
+* Real-time Streaming Core: Proven, hands-on production experience and deep architectural understanding of:
+  + Apache Kafka or related technologies: For high-throughput, fault-tolerant message queuing and streaming.
+  + Apache Flink or related technologies: For advanced real-time stream processing, complex event processing (CEP), and stateful computations.
+  + Apache Pinot or related technologies: For ultra-low-latency OLAP queries on streaming data.
+* Distributed Systems Architecture: Strong expertise in designing and implementing highly available, scalable, and resilient distributed systems.
+* Data Storage & Querying: Extensive experience with large-scale data storage solutions (e.g., S3, HDFS) and distributed query engines (e.g., Trino/Presto, Spark SQL).
+* SQL Proficiency: Advanced SQL knowledge with experience in optimizing complex queries for large datasets.
+* Agile Leadership: Demonstrated experience leading technical initiatives and teams within an Agile software development environment.
+* Communication & Problem Solving: Exceptional communication, analytical, and problem-solving skills, with the ability to articulate complex technical concepts to diverse audiences and drive consensus on architectural decisions.
+
+#### **Preferred Skills and Qualifications**
+
+* Cloud-Native Data Ecosystems: Experience with cloud-native data services on platforms like AWS, Azure, or GCP, particularly related to streaming and real-time analytics.
+* Container Orchestration: Hands-on experience with containerization and orchestration technologies such as Kubernetes and OpenShift for deploying and managing real-time data applications.
+* API Development: Experience in designing and implementing high-performance RESTful APIs and event-driven microservices architectures.
+* Performance Engineering: Deep understanding and experience with performance tuning, profiling, and optimization of real-time streaming applications and data stores.
+* Financial Domain Knowledge: Strong understanding of financial derivatives, fixed income products, and risk management concepts from a technical data perspective.
+* Technical Leadership & Mentoring: A proven track record of mentoring junior to senior engineers, fostering technical growth, and building high-performing engineering teams.
+* Data Governance & Security: Experience with data governance, data quality, and security best practices in real-time data environments.
+* Global Team Experience: Experience working effectively within a geographically distributed, global development team.
+
+#### **Qualification / Education**
+
+* Advanced Degree: Strong academic record, ideally with a Master's or Ph.D. in Computer Science, Electrical Engineering, or a related technical/quantitative discipline.
+* Architectural Delivery: Demonstrable success in architecting, leading, and delivering complex, multi-tiered, high-performance real-time data applications and platforms.
+* Domain Acumen: A deep understanding of financial derivatives (with fixed income products) and risk analytics, or a strong demonstrable capability and eagerness to rapidly acquire expertise in this domain from a technical perspective.
+
+-
+
+**Job Family Group:**
+
+Technology
+
+-
+
+**Job Family:**
+
+Applications Development
+
+-
+
+**Time Type:**
+
+Full time
+
+-
+
+**Primary Location:**
+
+New York New York United States
+
+-
+
+**Primary Location Full Time Salary Range:**
+
+$142,320.00 - $213,480.00
+
+In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.
+
+-
+
+**Most Relevant Skills**
+
+Please see the requirements listed above.
+
+-
+
+**Other Relevant Skills**
+
+For complementary skills, please see above and/or contact the recruiter.
+
+-
+
+**Anticipated Posting Close Date:**
+
+Dec 23, 2025
+
+-
+
+*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
+
+*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* *Accessibility at Citi**.*  
+  
+*View Citi’s* *EEO Policy Statement* *and the* *Know Your Rights* *poster.*
+
+Salary
+
+142,320.00 - 213,480.00 Annual
+
+Type
+
+Full-time",,https://www.indeed.com/cmp/Information-Technology-Senior-Management-Forum,,http://www.itsmfonline.org,Atlanta,51 to 200,,
+in-7e114d45feef7fde,indeed,https://www.indeed.com/viewjob?jk=7e114d45feef7fde,https://grnh.se/6t7m6z2a1us,Software Engineer,FanDuel,"New York, NY, US",2025-12-17,[],description,yearly,116000.0,152000.0,USD,False,,,,Benefits@fanduel.com,"**THE POSITION**  
+Our roster has an opening with your name on it  
+  
+As a Software Engineer within FanDuel's Trading Solutions team, you will be an essential part of a cross functional agile team that directly impacts our business. You will work collaboratively with a team to implement creative, high-quality solutions, scope effort and timelines, and balance priorities of our stakeholders and engineering needs. This team will work closely to deliver exceptionally high-quality software, while taking pride and ownership in testing, deploying, monitoring, and maintaining that software. Our engineers own every part of the software delivery lifecycle.
+
+You will work directly with quantitative analysts at FanDuel to improve the major US sports platforms. You will be a domain expert on price modeling implementation and how that fits into the larger Risk and Trading landscape. You will go beyond the software developer role and will be called upon to identify opportunities yourself in the quantitative space to innovate through technology.
+
+In addition to the specific responsibilities outlined above, employees may be required to perform other such duties as assigned by the Company. This ensures operational flexibility and allows the Company to meet evolving business needs.
+
+**THE GAME PLAN**  
+Everyone on our team has a part to play
+
+You are a significant and autonomous contributor. Your work is consistently of high quality. You solve difficult problems, applying appropriate technologies and best practices. You work with your team to invent, design and build software that is stable and performant. You limit the use of short-term workarounds. You do things with the proper level of complexity the first time (or at least minimize incidental complexity). You create flexible software without over-engineering. You make appropriate trade-offs, re-use where possible, and are judicious about introducing dependencies. You are efficient with resource usage (e.g., system hardware, database, memory/CPU, etc).
+
+We are looking for engineers to actively engage in technical discussions, assist in designing and implementing solutions, and deliver constant improvements to our systems. We want you to be excited about constantly learning and driving your professional development. You should have many of the following skills and be eager to build the skills you don't:
+
+* You work in project ideas with stakeholders, and peers
+* You own parts of product and technology & become subject matter experts
+* You write simple and extendable code following standards and best practices. You test your code thoroughly
+* You help balance customer requirements with the team requirements
+* You help your team evolve by actively participating in the code review process, design discussions, team planning, and ticket/metric/COE reviews
+* You classify, store, and handle data in accordance with FanDuel policies
+* You track security risks and mitigate and/or escalate them in a timely manner
+* You focus on operational excellence, constructively identifying problems and proposing solutions
+* You take on projects and make software enhancements that improve the team software and processes
+* You work to resolve the root cause of complex problems, leaving software better and easier to maintain than when you found it
+* On-call rotation where required. You provide excellent customer support
+* You keep yourself up to date with market standards, open-source frameworks
+* Creative problem-solving ability
+* A passion for learning and always getting better
+* Most importantly, you are; humble, pragmatic, self-managed, thirsty for knowledge, never satisfied and always challenging the norm. Responsible for the state of the code you both inherit and produce
+
+  
+
+**THE STATS**  
+What we're looking for in our next teammate
+
+* + Degree in Computer Science, Data Science, Engineering, Mathematics, Physics, or related discipline.
+  + 3 or more years of industry experience in an Engineering field, Machine Learning, Data Science, Finance Engineering, or Statistics.
+  + Proficient in building services with a modern OOP language (C# experience is beneficial).
+  + Understanding of performance, hardware, and lower-level memory management (C, C++, or Rust experience is beneficial).
+  + A fundamental understanding of data structures and algorithms.
+  + Experience working with CI/CD pipeline tooling (BuildKite and GitHub Actions knowledge is beneficial).
+  + Experience working with cloud-based infrastructure and technologies.
+  + Knowledge of infrastructure as code is nice to have, notably Terraform and Helm.
+  + Experience interacting and designing relational databases.
+  + Experience with streaming technologies, like Kafka, is nice to have.
+  + Ability to document code, research, and designs clearly.
+  + Proficiency in translating requirements into design and developing applications.
+  + Understanding of containers (e.g. Docker), and orchestration (Kubernetes).
+  + Experience with unit testing, testing tools, integrating testing and best-quality practices into an SDLC.
+  + Experience working in an Agile environment
+
+**ABOUT FANDUEL**
+
+FanDuel Group is the premier mobile gaming company in the United States and Canada. FanDuel Group consists of a portfolio of leading brands across mobile wagering including: America's #1 Sportsbook, FanDuel Sportsbook; its leading iGaming platform, FanDuel Casino; the industry's unquestioned leader in horse racing and advance-deposit wagering, FanDuel Racing; and its daily fantasy sports product.
+
+In addition, FanDuel Group operates FanDuel TV, its broadly distributed linear cable television network and FanDuel TV+, its leading direct-to-consumer OTT platform. FanDuel Group has a presence across all 50 states, Canada, and Puerto Rico.
+
+The company is based in New York with US offices in Los Angeles, Atlanta, and Jersey City, as well as global offices in Canada and Scotland. The company's affiliates have offices worldwide, including in Ireland, Portugal, Romania, and Australia.
+
+FanDuel Group is a subsidiary of Flutter Entertainment, the world's largest sports betting and gaming operator with a portfolio of globally recognized brands and traded on the New York Stock Exchange (NYSE: FLUT).
+
+**PLAYER BENEFITS**  
+We treat our team right
+
+We offer amazing benefits above and beyond the basics. We have an array of health plans to choose from (some as low as $0 per paycheck) that include programs for fertility and family planning, mental health support, and fitness benefits. We offer generous paid time off (PTO & sick leave), annual bonus and long-term incentive opportunities (based on performance), 401k with up to a 5% match, commuter benefits , pet insurance, and more - check out all our benefits here: **FanDuel Total Rewards**. \*Benefits differ across location, role, and level.
+
+FanDuel is an equal opportunities employer and we believe, as one of our principles states, ""We are One Team!"". As such, we are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, veteran status, or any other characteristic protected by state, local or federal law. We believe FanDuel is strongest and best able to compete if all employees feel valued, respected, and included.
+
+  
+
+***The applicable salary range for this position is $116,000 - $152,000 USD, which is dependent on a variety of factors including relevant experience, location, business needs and market demand. This role may offer the following benefits: medical, vision, and dental insurance; life insurance; disability insurance; a 401(k) matching program; among other employee benefits. This role may also be eligible for short-term or long-term incentive compensation, including, but not limited to, cash bonuses and stock program participation. This role includes paid personal time off and 14 paid company holidays. FanDuel offers paid sick time in accordance with all applicable state and federal laws.***
+
+***FanDuel is committed to providing reasonable accommodations for qualified individuals with disabilities. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please email******Benefits@fanduel.com******.***
+
+***It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.***
+
+  
+
+#LI-Hybrid",Internet And Software,https://www.indeed.com/cmp/Fanduel,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/325757a31e0514b7a5da79d9f4b663a2,https://www.fanduel.com/,"300 Park Avenue South, 14th Fl.
+New York, NY 10005","501 to 1,000",$100M to $500M (USD),FanDuel Group is an innovative sports-tech entertainment company that is changing the way consumers engage with their favourite sports.
+in-1fcff16fcd8937ee,indeed,https://www.indeed.com/viewjob?jk=1fcff16fcd8937ee,https://jobs.citi.com/job/-/-/287/89595151856,Lead Java Developer - VP,Citi,"New York, NY, US",2025-12-16,[],description,yearly,142320.0,213480.0,USD,False,,,,[],"**About the Team**
+------------------
+
+The Fixed Income Data team is a strategic and integral part of supporting Citi's GSP/Rates businesses, delivering exceptional capabilities in advanced business analysis, strategic project management, cutting-edge application development, robust quality assurance, and seamless integration with proprietary technology solutions. Our mission is to architect, build, and operate high-performance, resilient data platforms that empower critical financial operations and drive real-time decision-making across the firm.
+
+**The Opportunity**
+-------------------
+
+We are seeking a highly accomplished Java engineer to join our Realtime Risk Data team. This role is at the forefront of architecting, leading, and significantly enhancing our comprehensive real-time risk data acquisition, processing, and distribution framework. You will serve as a technical thought leader, driving the strategic adoption and implementation of cutting-edge streaming technologies such as Apache Kafka for high-throughput data ingestion, Apache Flink for complex event processing and real-time analytics, and Apache Pinot for ultra-low-latency OLAP queries on large datasets. You will also oversee the management of petabyte-scale datasets on S3, enabling efficient querying via Trino. This role demands deep technical expertise, a strategic mindset, and the ability to mentor and guide engineering teams in designing, developing, and optimizing mission-critical, high-performance real-time data solutions that directly impact global financial operations.
+
+**Key Responsibilities**
+------------------------
+
+* Architectural Leadership: Serve as the principal architect for scalable, high-performance Java-based real-time data solutions, ensuring robust design for high availability, fault tolerance, and resilience for both real-time and EOD risk processes.
+* Strategic Implementation: Drive the strategic implementation and optimization of distributed stream processing frameworks (Apache Kafka, Apache Flink) and real-time data storage technologies (Apache Pinot) for ultra-low-latency analytics and complex event processing.
+* Data Pipeline Mastery: Lead the end-to-end design, development, and operation of real-time streaming data pipelines, integrating with large-scale object storage solutions like S3 and analytics engines such as Trino.
+* Technical Excellence & Mentorship: Champion continuous improvement in data reliability, efficiency, and scalability. Establish and enforce best practices for code quality, performance optimization, and system resilience through hands-on leadership and thorough peer code reviews. Mentor and technically guide senior and lead developers.
+* SDLC Ownership: Drive significant contributions across all phases of the Agile software development lifecycle, from architectural vision and detailed design to implementation, deployment, monitoring, and ongoing support for critical real-time data systems.
+* Cross-Functional Collaboration: Collaborate strategically with business analysts, product managers, quality assurance teams, and other engineering leads to ensure the delivery of seamlessly integrated, high-impact technology solutions that align with business objectives and architectural standards.
+* Innovation & Research: Stay abreast of industry trends and emerging technologies in real-time data processing, distributed systems, and cloud-native architectures, evaluating and proposing their adoption where beneficial.
+
+**Required Skills and Qualifications**
+--------------------------------------
+
+* Senior Data Engineering Expertise: 7+ years of progressive experience in data engineering and software development, with a significant focus on building high-performance, large-scale distributed systems.
+* Java Mastery: Expert-level command of Java (version 11 or higher) with a deep understanding of concurrent programming, multithreading, advanced OOP concepts, design patterns, and performance tuning.
+* Real-time Streaming Core: Proven, hands-on production experience and deep architectural understanding of:
+  + Apache Kafka or related technologies: For high-throughput, fault-tolerant message queuing and streaming.
+  + Apache Flink or related technologies: For advanced real-time stream processing, complex event processing (CEP), and stateful computations.
+  + Apache Pinot or related technologies: For ultra-low-latency OLAP queries on streaming data.
+* Distributed Systems Architecture: Strong expertise in designing and implementing highly available, scalable, and resilient distributed systems.
+* Data Storage & Querying: Extensive experience with large-scale data storage solutions (e.g., S3, HDFS) and distributed query engines (e.g., Trino/Presto, Spark SQL).
+* SQL Proficiency: Advanced SQL knowledge with experience in optimizing complex queries for large datasets.
+* Agile Leadership: Demonstrated experience leading technical initiatives and teams within an Agile software development environment.
+* Communication & Problem Solving: Exceptional communication, analytical, and problem-solving skills, with the ability to articulate complex technical concepts to diverse audiences and drive consensus on architectural decisions.
+
+**Preferred Skills and Qualifications**
+---------------------------------------
+
+* Cloud-Native Data Ecosystems: Experience with cloud-native data services on platforms like AWS, Azure, or GCP, particularly related to streaming and real-time analytics.
+* Container Orchestration: Hands-on experience with containerization and orchestration technologies such as Kubernetes and OpenShift for deploying and managing real-time data applications.
+* API Development: Experience in designing and implementing high-performance RESTful APIs and event-driven microservices architectures.
+* Performance Engineering: Deep understanding and experience with performance tuning, profiling, and optimization of real-time streaming applications and data stores.
+* Financial Domain Knowledge: Strong understanding of financial derivatives, fixed income products, and risk management concepts from a technical data perspective.
+* Technical Leadership & Mentoring: A proven track record of mentoring junior to senior engineers, fostering technical growth, and building high-performing engineering teams.
+* Data Governance & Security: Experience with data governance, data quality, and security best practices in real-time data environments.
+* Global Team Experience: Experience working effectively within a geographically distributed, global development team.
+
+**Qualification / Education**
+-----------------------------
+
+* Advanced Degree: Strong academic record, ideally with a Master's or Ph.D. in Computer Science, Electrical Engineering, or a related technical/quantitative discipline.
+* Architectural Delivery: Demonstrable success in architecting, leading, and delivering complex, multi-tiered, high-performance real-time data applications and platforms.
+* Domain Acumen: A deep understanding of financial derivatives (with fixed income products) and risk analytics, or a strong demonstrable capability and eagerness to rapidly acquire expertise in this domain from a technical perspective.
+
+-
+
+**Job Family Group:**
+
+Technology
+
+-
+
+**Job Family:**
+
+Applications Development
+
+-
+
+**Time Type:**
+
+Full time
+
+-
+
+**Primary Location:**
+
+New York New York United States
+
+-
+
+**Primary Location Full Time Salary Range:**
+
+$142,320.00 - $213,480.00
+
+In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.
+
+-
+
+**Most Relevant Skills**
+
+Please see the requirements listed above.
+
+-
+
+**Other Relevant Skills**
+
+For complementary skills, please see above and/or contact the recruiter.
+
+-
+
+**Anticipated Posting Close Date:**
+
+Dec 23, 2025
+
+-
+
+*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
+
+*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* *Accessibility at Citi**.*  
+  
+*View Citi’s* *EEO Policy Statement* *and the* *Know Your Rights* *poster.*",,https://www.indeed.com/cmp/Citi,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3a65f2fd9d93f6c880484c373f0b34da,http://www.citigroup.com,"New York, NY","10,000+",more than $10B (USD),Citi is more than a global financial services company. It’s an engine for progress. Apply today to to get involved.
+in-835c8d4cd7ccc3b7,indeed,https://www.indeed.com/viewjob?jk=835c8d4cd7ccc3b7,https://jobs.citi.com/job/new-york/lead-java-developer-vp/287/89595151856,Lead Java Developer - VP,Citi,"New York, NY, US",2025-12-16,[],description,yearly,142320.0,213480.0,USD,False,,,,[],"**Discover your future at Citi**
+--------------------------------
+
+Working at Citi is far more than just a job. A career with us means joining a team of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.
+
+**Job Overview**
+----------------
+
+**About the Team**
+------------------
+
+The Fixed Income Data team is a strategic and integral part of supporting Citi's GSP/Rates businesses, delivering exceptional capabilities in advanced business analysis, strategic project management, cutting-edge application development, robust quality assurance, and seamless integration with proprietary technology solutions. Our mission is to architect, build, and operate high-performance, resilient data platforms that empower critical financial operations and drive real-time decision-making across the firm.
+
+**The Opportunity**
+-------------------
+
+We are seeking a highly accomplished Java engineer to join our Realtime Risk Data team. This role is at the forefront of architecting, leading, and significantly enhancing our comprehensive real-time risk data acquisition, processing, and distribution framework. You will serve as a technical thought leader, driving the strategic adoption and implementation of cutting-edge streaming technologies such as Apache Kafka for high-throughput data ingestion, Apache Flink for complex event processing and real-time analytics, and Apache Pinot for ultra-low-latency OLAP queries on large datasets. You will also oversee the management of petabyte-scale datasets on S3, enabling efficient querying via Trino. This role demands deep technical expertise, a strategic mindset, and the ability to mentor and guide engineering teams in designing, developing, and optimizing mission-critical, high-performance real-time data solutions that directly impact global financial operations.
+
+**Key Responsibilities**
+------------------------
+
+* Architectural Leadership:Serve as the principal architect for scalable, high-performance Java-based real-time data solutions, ensuring robust design for high availability, fault tolerance, and resilience for both real-time and EOD risk processes.
+* Strategic Implementation:Drive the strategic implementation and optimization of distributed stream processing frameworks (Apache Kafka, Apache Flink) and real-time data storage technologies (Apache Pinot) for ultra-low-latency analytics and complex event processing.
+* Data Pipeline Mastery:Lead the end-to-end design, development, and operation of real-time streaming data pipelines, integrating with large-scale object storage solutions like S3 and analytics engines such as Trino.
+* Technical Excellence & Mentorship:Champion continuous improvement in data reliability, efficiency, and scalability. Establish and enforce best practices for code quality, performance optimization, and system resilience through hands-on leadership and thorough peer code reviews. Mentor and technically guide senior and lead developers.
+* SDLC Ownership:Drive significant contributions across all phases of the Agile software development lifecycle, from architectural vision and detailed design to implementation, deployment, monitoring, and ongoing support for critical real-time data systems.
+* Cross-Functional Collaboration:Collaborate strategically with business analysts, product managers, quality assurance teams, and other engineering leads to ensure the delivery of seamlessly integrated, high-impact technology solutions that align with business objectives and architectural standards.
+* Innovation & Research:Stay abreast of industry trends and emerging technologies in real-time data processing, distributed systems, and cloud-native architectures, evaluating and proposing their adoption where beneficial.
+
+**Required Skills and Qualifications**
+--------------------------------------
+
+* Senior Data Engineering Expertise: 7+ years of progressive experience in data engineering and software development, with a significant focus on building high-performance, large-scale distributed systems.
+* Java Mastery:Expert-level command of Java (version 11 or higher) with a deep understanding of concurrent programming, multithreading, advanced OOP concepts, design patterns, and performance tuning.
+* Real-time Streaming Core:Proven, hands-on production experience and deep architectural understanding of:
+  + Apache Kafka or related technologies:For high-throughput, fault-tolerant message queuing and streaming.
+  + Apache Flink or related technologies:For advanced real-time stream processing, complex event processing (CEP), and stateful computations.
+  + Apache Pinot or related technologies:For ultra-low-latency OLAP queries on streaming data.
+* Distributed Systems Architecture:Strong expertise in designing and implementing highly available, scalable, and resilient distributed systems.
+* Data Storage & Querying:Extensive experience with large-scale data storage solutions (e.g., S3, HDFS) and distributed query engines (e.g., Trino/Presto, Spark SQL).
+* SQL Proficiency:Advanced SQL knowledge with experience in optimizing complex queries for large datasets.
+* Agile Leadership:Demonstrated experience leading technical initiatives and teams within an Agile software development environment.
+* Communication & Problem Solving:Exceptional communication, analytical, and problem-solving skills, with the ability to articulate complex technical concepts to diverse audiences and drive consensus on architectural decisions.
+
+**Preferred Skills and Qualifications**
+---------------------------------------
+
+* Cloud-Native Data Ecosystems:Experience with cloud-native data services on platforms like AWS, Azure, or GCP, particularly related to streaming and real-time analytics.
+* Container Orchestration:Hands-on experience with containerization and orchestration technologies such as Kubernetes and OpenShift for deploying and managing real-time data applications.
+* API Development:Experience in designing and implementing high-performance RESTful APIs and event-driven microservices architectures.
+* Performance Engineering:Deep understanding and experience with performance tuning, profiling, and optimization of real-time streaming applications and data stores.
+* Financial Domain Knowledge:Strong understanding of financial derivatives, fixed income products, and risk management concepts from a technical data perspective.
+* Technical Leadership & Mentoring:A proven track record of mentoring junior to senior engineers, fostering technical growth, and building high-performing engineering teams.
+* Data Governance & Security:Experience with data governance, data quality, and security best practices in real-time data environments.
+* Global Team Experience:Experience working effectively within a geographically distributed, global development team.
+
+**Qualification / Education**
+-----------------------------
+
+* Advanced Degree:Strong academic record, ideally with a Master's or Ph.D. in Computer Science, Electrical Engineering, or a related technical/quantitative discipline.
+* Architectural Delivery:Demonstrable success in architecting, leading, and delivering complex, multi-tiered, high-performance real-time data applications and platforms.
+* Domain Acumen:A deep understanding of financial derivatives (with fixed income products) and risk analytics, or a strong demonstrable capability and eagerness to rapidly acquire expertise in this domain from a technical perspective.
+
+-
+
+**Job Family Group:**
+
+Technology
+
+-
+
+**Job Family:**
+
+Applications Development
+
+-
+
+**Time Type:**
+
+Full time
+
+-
+
+**Primary Location:**
+
+New York New York United States
+
+-
+
+**Primary Location Full Time Salary Range:**
+
+$142,320.00 - $213,480.00
+
+In addition to salary, Citi’s offerings may also include, for eligible employees, discretionary and formulaic incentive and retention awards. Citi offers competitive employee benefits, including: medical, dental & vision coverage; 401(k); life, accident, and disability insurance; and wellness programs. Citi also offers paid time off packages, including planned time off (vacation), unplanned time off (sick leave), and paid holidays. For additional information regarding Citi employee benefits, please visit citibenefits.com. Available offerings may vary by jurisdiction, job level, and date of hire.
+
+-
+
+**Most Relevant Skills**
+
+Please see the requirements listed above.
+
+-
+
+**Other Relevant Skills**
+
+For complementary skills, please see above and/or contact the recruiter.
+
+-
+
+**Anticipated Posting Close Date:**
+
+Dec 23, 2025
+
+-
+
+*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
+
+*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* *Accessibility at Citi**.*  
+  
+*View Citi’s* *EEO Policy Statement* *and the* *Know Your Rights* *poster.*",,https://www.indeed.com/cmp/Citi,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3a65f2fd9d93f6c880484c373f0b34da,http://www.citigroup.com,"New York, NY","10,000+",more than $10B (USD),Citi is more than a global financial services company. It’s an engine for progress. Apply today to to get involved.
+in-ba3d9ca6439405cb,indeed,https://www.indeed.com/viewjob?jk=ba3d9ca6439405cb,https://careers.newyorklife.com/careers/job/30147304,2026 Junior Quant Developer - Asset Liability Management Summer Internship Program,New York Life,"New York, NY, US",2025-07-09,[],description,hourly,28.0,32.0,USD,False,,,,[],"Job Description
+
+#### **Requisition ID**
+
+92175
+
+#### **Department**
+
+Corporate Finance
+
+#### **Job Function**
+
+Corporate Finance
+
+#### **Location**
+
+New York,New York,United States
+
+#### **Role Location Designation**
+
+Hybrid - 3 days per week
+
+**Location Designation:** Hybrid - 3 days per week
+
+Shape your future with a dynamic internship experience at New York Life. We offer opportunities across a variety of exciting businesses, including Actuarial, AI & Data, Finance, Investments, Technology, Underwriting, and more. Your internship journey is designed to challenge you through hands-on work experience that will equip you with valuable skills you can use anywhere. You will build your network through collaboration and connection with talented interns and experienced employees through team-building activities, mentorship programs, and fun social events. By the end of your internship, you'll be equipped with new skills and a network that will propel you forward in your career journey.
+
+**Role Overview:**
+
+The Asset Liability Management (ALM) & Investment Strategy Team’s mission at New York Life is to effectively partner with the business, finance, and asset management teams to research, develop, and implement investment strategies that help meet business and financial objectives. These goals heavily depend on robust models and data. This role will have broad responsibilities over the company’s quantitative modeling and projection capabilities. Responsibilities may span modeling of traditional and exotic fixed income and equity assets, designing and implementing both model and platform improvements as well as on going production responsibilities. The program offers candidates the opportunity to learn both traditional and innovative methods for ALM & investment strategy development and to work on challenges and solutions that dominate leading-edge ALM discussions today. This is a structured 11-week program starting in late May and ending in August.
+
+The role requires strong knowledge of statistics or financial engineering, and strong coding skills, as well as the ability to work effectively as part of a larger interdisciplinary team of quantitative finance and insurance professionals.
+
+**What You’ll Do:**
+
+As an ALM intern, you will have the opportunity to work closely with other areas such as Finance, Actuarial, Risk Management and Investments, as well as the Business Units, regarding quantitative modeling efforts. You will also have the opportunity to:
+
+Serve as a quantitative developer to build new capabilities and maintain existing code infrastructure of our ALM platform
+
+Partner with sector specialists, investment accounting, asset data and research teams to expand the company’s modeling capabilities, that includes a broad spectrum of the investment universe ranging from corporate bonds and structured products to alternative investment and derivatives
+
+Research new quantitative modeling methods for stochastic modeling of assets and liabilities with embedded optionality
+
+Research quantitative investment strategies
+
+Improve and automate the production processes
+
+Complete challenging assignments and practical on the job experience
+
+Develop your skills in the form of training and online courses (i.e. Python)
+
+Network with NYL actuaries and professionals including those in senior management
+
+Potentially secure a full-time position with New York Life
+
+Participate in group volunteer event(s)
+
+**What You’ll Bring:**
+
+You will bring a desire to learn more about New York Life. You have strong written, oral and interpersonal communication skills with and analytical mindset. You will bring a strong knowledge of statistics or financial engineering, strong coding skills and the ability to work effectively as part of a larger interdisciplinary team of quantitative finance and insurance professionals.
+
+**Required Skills:**
+
+Currently working towards an Undergraduate, Graduate or PhD degree with an accredited college or university Preferred majors in Statistics, Data Science, Computer Science, Mathematics, or Financial Engineering
+
+Excellent programming skills in an objected oriented language such as Python / C++ / VB.Net / C#. Familiarity with both relational and object data bases
+
+**Preferred Skills:**
+
+Cumulative GPA of 3.0 or higher
+
+Ability to think outside the box as well as work independently and be a thought leader for others
+
+Applications will be reviewed on a rolling basis and interviews will begin mid-September.
+
+**Curious what it’s like to intern at NYL? Check out** **#NYLEarlyCareers** **on LinkedIn!**
+
+#ALMcampus
+
+#LI-MW1
+
+**Pay Transparency**
+
+Salary Range: $28-$32/hour
+
+Overtime eligible: Nonexempt
+
+Discretionary bonus eligible: No
+
+Sales bonus eligible: No
+
+Actual base salary will be determined based on several factors but not limited to individual’s experience, skills, qualifications, and job location. Additionally, employees are eligible for an annual discretionary bonus. In addition to base salary, employees may also be eligible to participate in an incentive program.
+
+**Our Diversity Promise**
+
+We believe in a diverse workforce because it is our mission to advocate for the financial security and success of people in every community. This is why diversity, equity, and inclusion (DEI) are guiding principles that are embedded in our brand and our culture. Click here to learn more about how we have been recognized for our leadership.
+
+Recognized as one of *Fortune’s* World’s Most Admired Companies, New York Life is committed to improving local communities through a culture of employee giving and volunteerism, supported by the Foundation. We're proud that due to our mutuality, we operate in the best interests of our policy owners. To learn more about career opportunities at New York Life, please visit the Careers page of www.NewYorkLife.com.",,https://www.indeed.com/cmp/New-York-Life,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/977b8c576b59e94555a5f6bbb0270201,https://www.newyorklife.com,"New York, NY","10,000+",more than $10B (USD),"For over 175 years, New York Life has helped people act on their love through offerings such as life insurance, retirement services, investments, and long-term care insurance."
+li-4344921817,linkedin,https://www.linkedin.com/jobs/view/4344921817,,"Data Scientist, Advertising Products & Solutions",NBCUniversal,"New York, NY",2025-12-18,,,,,,,,,,,,,,https://www.linkedin.com/company/nbcuniversal-inc-,,,,,,
+li-4268415875,linkedin,https://www.linkedin.com/jobs/view/4268415875,,GBM Equities - Electronic Market Making – Quant Researcher – Associate – New York,Goldman Sachs,"New York, NY",2025-12-17,,,,,,,,,,,,,,https://www.linkedin.com/company/goldman-sachs,,,,,,
+li-4303692629,linkedin,https://www.linkedin.com/jobs/view/4303692629,,Senior Fixed Income Quantitative Analyst,"Lord, Abbett & Co. LLC","Jersey City, NJ",2025-12-17,,,,,,,,,,,,,,https://www.linkedin.com/company/lord-abbett-&-co-llc,,,,,,
+li-4344326320,linkedin,https://www.linkedin.com/jobs/view/4344326320,,"Senior Associate, Data Scientist - AI Software Engineering",Capital One,"New York, NY",2025-12-17,,,,,,,,,,,,,,https://www.linkedin.com/company/capital-one,,,,,,
+li-4344088718,linkedin,https://www.linkedin.com/jobs/view/4344088718,,"Scientist IV, Data Excellence Computational Innovation",Boehringer Ingelheim,"Ridgefield, CT",2025-12-17,,,,,,,,,,,,,,https://de.linkedin.com/company/boehringer-ingelheim,,,,,,
+li-4328270880,linkedin,https://www.linkedin.com/jobs/view/4328270880,,Jr Quant Researcher - Trading Desk,JW Michaels & Co.,"New York, NY",,,,,,,,,,,,,,,https://www.linkedin.com/company/jwmichaels,,,,,,
+li-4325793417,linkedin,https://www.linkedin.com/jobs/view/4325793417,,"Data Scientist, Agentic AI",Soni,"Bethlehem, PA",,,,,,,,,,,,,,,https://www.linkedin.com/company/soni-resources-group,,,,,,
+li-4345212358,linkedin,https://www.linkedin.com/jobs/view/4345212358,,"Senior Associate, Data Scientist - US Card (Fraud)",Capital One,"New York, NY",,,,,,,,,,,,,,,https://www.linkedin.com/company/capital-one,,,,,,

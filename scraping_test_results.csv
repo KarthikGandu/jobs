@@ -1,0 +1,46 @@
+name,category,url,status,http_code,ats,js_heavy,job_elements,scrapable
+Hudson River Trading,Prop Trading,https://www.hudsonrivertrading.com/careers/,✅ SUCCESS,200,Greenhouse,False,14,YES
+Jump Trading,Prop Trading,https://www.jumptrading.com/careers,✅ SUCCESS,200,Greenhouse,False,0,MAYBE
+Virtu Financial Inc.,Prop Trading,https://www.virtu.com/careers/,✅ SUCCESS,200,Greenhouse,False,0,MAYBE
+Tower Research Capital LLC,Prop Trading,https://www.tower-research.com/join-us,❌ HTTP 404,404,,,,NO
+HAP Capital,Prop Trading,https://haptrading.com/join-us/,✅ SUCCESS,200,Custom,False,0,MAYBE
+QuantLab Financial LLC,Prop Trading,https://www.quantlab.com/careers,✅ SUCCESS,200,Jobvite,False,1,YES
+Headlands Technologies LLC,Prop Trading,https://www.headlandstech.com/careers,✅ SUCCESS,200,Custom,False,0,MAYBE
+Jane Street Group LLC,Prop Trading,https://www.janestreet.com/join-jane-street/open-roles/,✅ SUCCESS,200,Custom,False,15,YES
+Citadel Securities LLC,Prop Trading,https://www.citadelsecurities.com/careers/open-opportunities/,✅ SUCCESS,200,Custom,False,217,YES
+IMC Trading,Prop Trading,https://www.imc.com/us/careers,✅ SUCCESS,200,Greenhouse,False,0,MAYBE
+Optiver Holding B.V.,Prop Trading,https://www.optiver.com/careers,✅ SUCCESS,200,Custom,False,49,YES
+Akuna Capital LLC,Prop Trading,https://akunacapital.com/careers,✅ SUCCESS,200,Custom,False,4,YES
+DRW Holdings LLC,Prop Trading,https://drw.com/work-at-drw,✅ SUCCESS,200,Custom,True,0,SELENIUM
+Susquehanna International Group,Prop Trading,https://www.sig.com/careers,✅ SUCCESS,200,Custom,False,0,MAYBE
+Five Rings Capital LLC,Prop Trading,https://fiverings.com/careers,✅ SUCCESS,200,Greenhouse,False,0,MAYBE
+Old Mission Capital,Prop Trading,https://oldmissioncapital.com/careers,✅ SUCCESS,200,Greenhouse,False,3,YES
+TransMarket Group,Prop Trading,https://tmgtrading.com/careers,✅ SUCCESS,200,Custom,False,0,MAYBE
+GTS Global Trading Systems,Prop Trading,https://gtsx.com/careers,✅ SUCCESS,200,Lever,False,1,YES
+Volant Trading,Prop Trading,https://www.volanttrading.com/careers,❌ HTTP 404,404,,,,NO
+Flow Traders N.V.,Prop Trading,https://www.flowtraders.com/careers,✅ SUCCESS,200,Greenhouse,False,7,YES
+Millennium Management LLC,Hedge Fund,https://www.mlp.com/careers/,✅ SUCCESS,200,Custom,False,0,MAYBE
+Point72 Asset Management,Hedge Fund,https://www.point72.com/careers/,❌ HTTP 404,404,,,,NO
+Citadel LLC,Hedge Fund,https://www.citadel.com/careers/open-opportunities/,✅ SUCCESS,200,Custom,False,220,YES
+Balyasny Asset Management,Hedge Fund,https://www.bamfunds.com/careers,✅ SUCCESS,200,Custom,False,0,MAYBE
+ExodusPoint Capital Management,Hedge Fund,https://www.exoduspoint.com/careers,❌ HTTP 404,404,,,,NO
+WorldQuant LLC,Hedge Fund,https://www.worldquant.com/careers,✅ SUCCESS,200,Custom,False,48,YES
+GSA Capital Partners,Hedge Fund,https://www.gsacapital.com/careers,✅ SUCCESS,200,Greenhouse,False,0,MAYBE
+Tudor Investment Corporation,Hedge Fund,https://www.tudorfunds.com/careers,❌ HTTP 404,404,,,,NO
+Engineers Gate LP,Hedge Fund,https://www.engineersgate.com/join-us,✅ SUCCESS,200,Custom,False,0,MAYBE
+Schonfeld Strategic Advisors,Hedge Fund,https://schonfeld.com/careers,⏱️ TIMEOUT,,,,,NO
+Verition Fund Management,Hedge Fund,https://veritionfund.com/careers,✅ SUCCESS,200,Custom,False,0,MAYBE
+Centiva Capital LP,Hedge Fund,https://www.centiva.com/careers,✅ SUCCESS,200,Custom,False,0,MAYBE
+Walleye Capital,Hedge Fund,https://www.walleye.com/careers,❌ HTTP 404,404,,,,NO
+D. E. Shaw & Co.,Hedge Fund,https://www.deshaw.com/careers,✅ SUCCESS,200,Lever,True,166,SELENIUM
+Two Sigma Investments,Hedge Fund,https://www.twosigma.com/careers,✅ SUCCESS,200,Custom,False,1,YES
+PDT Partners LLC,Hedge Fund,https://www.pdtpartners.com/careers,✅ SUCCESS,200,Greenhouse,False,17,YES
+Renaissance Technologies,Hedge Fund,https://www.rentec.com/Careers,❌ HTTP 404,404,,,,NO
+Bridgewater Associates,Hedge Fund,https://www.bridgewater.com/careers,✅ SUCCESS,200,Custom,False,13,YES
+AQR Capital Management,Hedge Fund,https://www.aqr.com/Careers,✅ SUCCESS,200,Greenhouse,False,4,YES
+Squarepoint Capital,Hedge Fund,https://www.squarepoint-capital.com/careers,✅ SUCCESS,200,Custom,False,5,YES
+Aquatic Capital Management,Hedge Fund,https://www.aquaticcapital.com/careers,✅ SUCCESS,200,Custom,False,0,MAYBE
+Voleon Group,Hedge Fund,https://www.voleon.com/join-us,❌ HTTP 404,404,,,,NO
+TGS Management Company,Hedge Fund,https://www.tgsmc.com/careers,❌ HTTP 404,404,,,,NO
+G Research,Hedge Fund,https://www.gresearch.com/careers,✅ SUCCESS,200,Custom,False,0,MAYBE
+Coatue Management,Hedge Fund,https://www.coatue.com/careers,❌ HTTP 404,404,,,,NO

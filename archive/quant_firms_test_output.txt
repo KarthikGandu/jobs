@@ -1,0 +1,366 @@
+====================================================================================================
+TESTING ALL QUANT TRADING FIRMS, HEDGE FUNDS & FINANCIAL INSTITUTIONS
+====================================================================================================
+
+[1/75] Testing: Hudson River Trading
+     URL: https://www.hudsonrivertrading.com/careers/...
+     ✅ Status: 200 | ATS: Greenhouse | Jobs: 14 | Scrapable: YES
+
+[2/75] Testing: Jump Trading
+     URL: https://www.jumptrading.com/careers...
+     🔍 Status: 200 | ATS: Greenhouse | Jobs: 0 | Scrapable: MAYBE
+
+[3/75] Testing: Virtu Financial Inc.
+     URL: https://www.virtu.com/careers/...
+     🔍 Status: 200 | ATS: Greenhouse | Jobs: 0 | Scrapable: MAYBE
+
+[4/75] Testing: Tower Research Capital LLC
+     URL: https://www.tower-research.com/join-us...
+     ❌ Failed: HTTP 404
+
+[5/75] Testing: HAP Capital
+     URL: https://haptrading.com/join-us/...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[6/75] Testing: QuantLab Financial LLC
+     URL: https://www.quantlab.com/careers...
+     ✅ Status: 200 | ATS: Jobvite | Jobs: 1 | Scrapable: YES
+
+[7/75] Testing: Headlands Technologies LLC
+     URL: https://www.headlandstech.com/careers...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[8/75] Testing: Jane Street Group LLC
+     URL: https://www.janestreet.com/join-jane-street/open-roles/...
+     ✅ Status: 200 | ATS: Custom | Jobs: 15 | Scrapable: YES
+
+[9/75] Testing: Citadel Securities LLC
+     URL: https://www.citadelsecurities.com/careers/open-opportunities/...
+     ✅ Status: 200 | ATS: Custom | Jobs: 217 | Scrapable: YES
+
+[10/75] Testing: IMC Trading
+     URL: https://www.imc.com/us/careers...
+     🔍 Status: 200 | ATS: Greenhouse | Jobs: 0 | Scrapable: MAYBE
+
+[11/75] Testing: Optiver Holding B.V.
+     URL: https://www.optiver.com/careers...
+     ✅ Status: 200 | ATS: Custom | Jobs: 49 | Scrapable: YES
+
+[12/75] Testing: Akuna Capital LLC
+     URL: https://akunacapital.com/careers...
+     ✅ Status: 200 | ATS: Custom | Jobs: 4 | Scrapable: YES
+
+[13/75] Testing: DRW Holdings LLC
+     URL: https://drw.com/work-at-drw...
+     ⚠️ Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: SELENIUM
+
+[14/75] Testing: Susquehanna International Group
+     URL: https://www.sig.com/careers...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[15/75] Testing: Five Rings Capital LLC
+     URL: https://fiverings.com/careers...
+     🔍 Status: 200 | ATS: Greenhouse | Jobs: 0 | Scrapable: MAYBE
+
+[16/75] Testing: Old Mission Capital
+     URL: https://oldmissioncapital.com/careers...
+     ✅ Status: 200 | ATS: Greenhouse | Jobs: 3 | Scrapable: YES
+
+[17/75] Testing: TransMarket Group
+     URL: https://tmgtrading.com/careers...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[18/75] Testing: GTS Global Trading Systems
+     URL: https://gtsx.com/careers...
+     ✅ Status: 200 | ATS: Lever | Jobs: 1 | Scrapable: YES
+
+[19/75] Testing: Volant Trading
+     URL: https://www.volanttrading.com/careers...
+     ❌ Failed: HTTP 404
+
+[20/75] Testing: Flow Traders N.V.
+     URL: https://www.flowtraders.com/careers...
+     ✅ Status: 200 | ATS: Greenhouse | Jobs: 7 | Scrapable: YES
+
+[21/75] Testing: Millennium Management LLC
+     URL: https://www.mlp.com/careers/...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[22/75] Testing: Point72 Asset Management
+     URL: https://www.point72.com/careers/...
+     ❌ Failed: HTTP 404
+
+[23/75] Testing: Citadel LLC
+     URL: https://www.citadel.com/careers/open-opportunities/...
+     ✅ Status: 200 | ATS: Custom | Jobs: 220 | Scrapable: YES
+
+[24/75] Testing: Balyasny Asset Management
+     URL: https://www.bamfunds.com/careers...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[25/75] Testing: ExodusPoint Capital Management
+     URL: https://www.exoduspoint.com/careers...
+     ❌ Failed: HTTP 404
+
+[26/75] Testing: WorldQuant LLC
+     URL: https://www.worldquant.com/careers...
+     ✅ Status: 200 | ATS: Custom | Jobs: 48 | Scrapable: YES
+
+[27/75] Testing: GSA Capital Partners
+     URL: https://www.gsacapital.com/careers...
+     🔍 Status: 200 | ATS: Greenhouse | Jobs: 0 | Scrapable: MAYBE
+
+[28/75] Testing: Tudor Investment Corporation
+     URL: https://www.tudorfunds.com/careers...
+     ❌ Failed: HTTP 404
+
+[29/75] Testing: Engineers Gate LP
+     URL: https://www.engineersgate.com/join-us...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[30/75] Testing: Schonfeld Strategic Advisors
+     URL: https://schonfeld.com/careers...
+     ⏱️ Timeout
+
+[31/75] Testing: Verition Fund Management
+     URL: https://veritionfund.com/careers...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[32/75] Testing: Centiva Capital LP
+     URL: https://www.centiva.com/careers...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[33/75] Testing: Walleye Capital
+     URL: https://www.walleye.com/careers...
+     ❌ Failed: HTTP 404
+
+[34/75] Testing: D. E. Shaw & Co.
+     URL: https://www.deshaw.com/careers...
+     ⚠️ Status: 200 | ATS: Lever | Jobs: 166 | Scrapable: SELENIUM
+
+[35/75] Testing: Two Sigma Investments
+     URL: https://www.twosigma.com/careers...
+     ✅ Status: 200 | ATS: Custom | Jobs: 1 | Scrapable: YES
+
+[36/75] Testing: PDT Partners LLC
+     URL: https://www.pdtpartners.com/careers...
+     ✅ Status: 200 | ATS: Greenhouse | Jobs: 17 | Scrapable: YES
+
+[37/75] Testing: Renaissance Technologies
+     URL: https://www.rentec.com/Careers...
+     ❌ Failed: HTTP 404
+
+[38/75] Testing: Bridgewater Associates
+     URL: https://www.bridgewater.com/careers...
+     ✅ Status: 200 | ATS: Custom | Jobs: 13 | Scrapable: YES
+
+[39/75] Testing: AQR Capital Management
+     URL: https://www.aqr.com/Careers...
+     ✅ Status: 200 | ATS: Greenhouse | Jobs: 4 | Scrapable: YES
+
+[40/75] Testing: Squarepoint Capital
+     URL: https://www.squarepoint-capital.com/careers...
+     ✅ Status: 200 | ATS: Custom | Jobs: 5 | Scrapable: YES
+
+[41/75] Testing: Aquatic Capital Management
+     URL: https://www.aquaticcapital.com/careers...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[42/75] Testing: Voleon Group
+     URL: https://www.voleon.com/join-us...
+     ❌ Failed: HTTP 404
+
+[43/75] Testing: TGS Management Company
+     URL: https://www.tgsmc.com/careers...
+     ❌ Failed: HTTP 404
+
+[44/75] Testing: G Research
+     URL: https://www.gresearch.com/careers...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[45/75] Testing: Coatue Management
+     URL: https://www.coatue.com/careers...
+     ❌ Failed: HTTP 404
+
+[46/75] Testing: Maverick Capital
+     URL: https://maverickcap.com/careers...
+     ❌ Error: HTTPSConnectionPool(host='maverickcap.com', port=443): Max r
+
+[47/75] Testing: Third Point LLC
+     URL: https://www.thirdpoint.com/careers...
+     ❌ Failed: HTTP 404
+
+[48/75] Testing: Marshall Wace LLP
+     URL: https://www.marshallwace.com/careers...
+     ❌ Error: HTTPSConnectionPool(host='www.marshallwace.com', port=443): 
+
+[49/75] Testing: Brevan Howard Asset Management
+     URL: https://www.brevanhoward.com/careers...
+     🔍 Status: 200 | ATS: Lever | Jobs: 0 | Scrapable: MAYBE
+
+[50/75] Testing: Guggenheim Partners
+     URL: https://www.guggenheimpartners.com/careers...
+     🔍 Status: 200 | ATS: Workday | Jobs: 0 | Scrapable: MAYBE
+
+[51/75] Testing: Highbridge Capital Management
+     URL: https://www.highbridge.com/careers...
+     ❌ Failed: HTTP 404
+
+[52/75] Testing: Laurion Capital Management
+     URL: https://laurioncap.com/careers...
+     ❌ Failed: HTTP 404
+
+[53/75] Testing: Teza Technologies
+     URL: https://www.teza.com/careers...
+     ✅ Status: 200 | ATS: Custom | Jobs: 2 | Scrapable: YES
+
+[54/75] Testing: Quadrature Capital
+     URL: https://www.quadrature.ai/careers...
+     🔍 Status: 200 | ATS: Greenhouse | Jobs: 0 | Scrapable: MAYBE
+
+[55/75] Testing: Qube Research & Technologies
+     URL: https://www.qube-rt.com/careers...
+     ❌ Failed: HTTP 403
+
+[56/75] Testing: Man Numeric
+     URL: https://www.man.com/numeric/careers...
+     🔍 Status: 200 | ATS: Greenhouse | Jobs: 0 | Scrapable: MAYBE
+
+[57/75] Testing: BlackRock Inc.
+     URL: https://careers.blackrock.com...
+     ✅ Status: 200 | ATS: Custom | Jobs: 8 | Scrapable: YES
+
+[58/75] Testing: PanAgora Asset Management
+     URL: https://www.panagora.com/join-us...
+     ❌ Failed: HTTP 404
+
+[59/75] Testing: AllianceBernstein
+     URL: https://www.alliancebernstein.com/careers.htm...
+     ❌ Failed: HTTP 404
+
+[60/75] Testing: Winton Group
+     URL: https://www.winton.com/careers...
+     ❌ Failed: HTTP 404
+
+[61/75] Testing: PIMCO
+     URL: https://www.pimco.com/en-us/careers...
+     ❌ Failed: HTTP 404
+
+[62/75] Testing: Fidelity Investments
+     URL: https://jobs.fidelity.com...
+     ✅ Status: 200 | ATS: Workday | Jobs: 3 | Scrapable: YES
+
+[63/75] Testing: State Street Corporation
+     URL: https://careers.statestreet.com...
+     ✅ Status: 200 | ATS: Workday | Jobs: 1 | Scrapable: YES
+
+[64/75] Testing: Invesco Ltd.
+     URL: https://www.invesco.com/corporate/careers...
+     ❌ Failed: HTTP 404
+
+[65/75] Testing: Morgan Stanley
+     URL: https://www.morganstanley.com/people-opportunities/careers...
+     ❌ Failed: HTTP 404
+
+[66/75] Testing: Goldman Sachs
+     URL: https://www.goldmansachs.com/careers...
+     ⚠️ Status: 200 | ATS: Lever | Jobs: 9 | Scrapable: SELENIUM
+
+[67/75] Testing: Deutsche Bank
+     URL: https://careers.db.com...
+     ✅ Status: 200 | ATS: Custom | Jobs: 8 | Scrapable: YES
+
+[68/75] Testing: Barclays
+     URL: https://search.jobs.barclays/...
+     ✅ Status: 200 | ATS: Workday | Jobs: 41 | Scrapable: YES
+
+[69/75] Testing: UBS Group
+     URL: https://www.ubs.com/global/en/careers.html...
+     ❌ Failed: HTTP 403
+
+[70/75] Testing: Credit Suisse
+     URL: https://www.credit-suisse.com/careers...
+     ❌ Failed: HTTP 403
+
+[71/75] Testing: Société Générale
+     URL: https://careers.societegenerale.com...
+     ✅ Status: 200 | ATS: Taleo | Jobs: 13 | Scrapable: YES
+
+[72/75] Testing: Wells Fargo
+     URL: https://www.wellsfargo.com/about/careers...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[73/75] Testing: HSBC Holdings
+     URL: https://www.hsbc.com/careers...
+     🔍 Status: 200 | ATS: Custom | Jobs: 0 | Scrapable: MAYBE
+
+[74/75] Testing: Nomura Group
+     URL: https://www.nomura.com/careers...
+     ✅ Status: 200 | ATS: Custom | Jobs: 2 | Scrapable: YES
+
+[75/75] Testing: BNP Paribas
+     URL: https://group.bnpparibas/en/careers...
+     ⏱️ Timeout
+
+
+====================================================================================================
+OVERALL SUMMARY
+====================================================================================================
+
+Total Firms Tested: 75
+✅ Easily Scrapable: 24 (32%)
+⚠️  Needs Selenium: 3 (4%)
+🔍 Maybe Scrapable: 22 (29%)
+❌ Not Scrapable: 26 (34%)
+
+====================================================================================================
+BY CATEGORY
+====================================================================================================
+Asset Manager       :  3/ 9 scrapable ( 33%)
+Hedge Fund          :  8/35 scrapable ( 22%)
+Investment Bank     :  4/11 scrapable ( 36%)
+Prop Trading        :  9/20 scrapable ( 45%)
+
+====================================================================================================
+ATS SYSTEMS DETECTED
+====================================================================================================
+Custom              : 27 firms
+Greenhouse          : 12 firms
+Lever               : 4 firms
+Workday             : 4 firms
+Jobvite             : 1 firms
+Taleo               : 1 firms
+
+====================================================================================================
+✅ EASILY SCRAPABLE FIRMS (Top 20)
+====================================================================================================
+ 1. Hudson River Trading                     (Greenhouse)
+ 2. QuantLab Financial LLC                   (Jobvite)
+ 3. Jane Street Group LLC                    (Custom)
+ 4. Citadel Securities LLC                   (Custom)
+ 5. Optiver Holding B.V.                     (Custom)
+ 6. Akuna Capital LLC                        (Custom)
+ 7. Old Mission Capital                      (Greenhouse)
+ 8. GTS Global Trading Systems               (Lever)
+ 9. Flow Traders N.V.                        (Greenhouse)
+10. Citadel LLC                              (Custom)
+11. WorldQuant LLC                           (Custom)
+12. Two Sigma Investments                    (Custom)
+13. PDT Partners LLC                         (Greenhouse)
+14. Bridgewater Associates                   (Custom)
+15. AQR Capital Management                   (Greenhouse)
+16. Squarepoint Capital                      (Custom)
+17. Teza Technologies                        (Custom)
+18. BlackRock Inc.                           (Custom)
+19. Fidelity Investments                     (Workday)
+20. State Street Corporation                 (Workday)
+... and 4 more
+Traceback (most recent call last):
+  File "/Users/karthikg/Desktop/karthik-new-jobs/jobsparser/test_all_quant_firms.py", line 179, in <module>
+    writer.writerows(results)
+  File "/Users/karthikg/opt/miniconda3/envs/jobs/lib/python3.12/csv.py", line 167, in writerows
+    return self.writer.writerows(map(self._dict_to_list, rowdicts))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/karthikg/opt/miniconda3/envs/jobs/lib/python3.12/csv.py", line 159, in _dict_to_list
+    raise ValueError("dict contains fields not in fieldnames: "
+ValueError: dict contains fields not in fieldnames: 'error'

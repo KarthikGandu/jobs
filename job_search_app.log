@@ -1,0 +1,115 @@
+[2025-12-20 01:21:30,789] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:30,791] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:30,793] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:30,793] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:30,794] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:30,794] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:30,795] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:30,795] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:30,795] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:30,797] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:30,797] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:30,797] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:41,904] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:41,907] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:41,908] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:41,908] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:41,910] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:41,910] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:41,911] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:41,911] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:41,911] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:41,912] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:41,912] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:41,912] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:49,018] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:49,021] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:49,021] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:49,021] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:49,023] INFO in app: Application initialized in production mode
+[2025-12-20 01:21:49,023] INFO in app: Application initialized in production mode
+[2025-12-20 01:21:49,024] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:49,024] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:49,024] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:49,025] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:49,025] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:49,025] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:49,026] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:49,026] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:49,026] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:49,026] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:49,027] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:49,027] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:49,027] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:49,027] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:55,168] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:55,170] INFO in app: Application initialized in development mode
+[2025-12-20 01:21:55,836] INFO in logger: Job Search Application logger initialized
+[2025-12-20 01:21:55,838] INFO in app: Application initialized in development mode
+[2025-12-20 01:22:02,619] ERROR in app: Unexpected error: 405 Method Not Allowed: The method is not allowed for the requested URL.
+Traceback (most recent call last):
+  File "/Users/karthikg/opt/miniconda3/envs/jobs/lib/python3.12/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/karthikg/opt/miniconda3/envs/jobs/lib/python3.12/site-packages/flask/app.py", line 891, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/Users/karthikg/opt/miniconda3/envs/jobs/lib/python3.12/site-packages/flask/app.py", line 500, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/karthikg/opt/miniconda3/envs/jobs/lib/python3.12/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/karthikg/opt/miniconda3/envs/jobs/lib/python3.12/site-packages/werkzeug/routing/map.py", line 624, in match
+    raise MethodNotAllowed(valid_methods=list(e.have_match_for)) from None
+werkzeug.exceptions.MethodNotAllowed: 405 Method Not Allowed: The method is not allowed for the requested URL.
+[2025-12-20 02:07:42,608] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:07:42,611] INFO in app: Application initialized in development mode
+[2025-12-20 02:07:42,612] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:07:42,612] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:07:42,613] INFO in app: Application initialized in production mode
+[2025-12-20 02:07:42,613] INFO in app: Application initialized in production mode
+[2025-12-20 02:07:42,614] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:07:42,614] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:07:42,614] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:07:42,615] INFO in app: Application initialized in development mode
+[2025-12-20 02:07:42,615] INFO in app: Application initialized in development mode
+[2025-12-20 02:07:42,615] INFO in app: Application initialized in development mode
+[2025-12-20 02:07:42,616] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:07:42,616] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:07:42,616] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:07:42,616] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:07:42,618] INFO in app: Application initialized in development mode
+[2025-12-20 02:07:42,618] INFO in app: Application initialized in development mode
+[2025-12-20 02:07:42,618] INFO in app: Application initialized in development mode
+[2025-12-20 02:07:42,618] INFO in app: Application initialized in development mode
+[2025-12-20 02:17:40,089] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:17:40,091] INFO in app: Application initialized in development mode
+[2025-12-20 02:17:40,779] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:17:40,781] INFO in app: Application initialized in development mode
+[2025-12-20 02:21:04,353] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:21:04,355] INFO in app: Application initialized in development mode
+[2025-12-20 02:21:05,086] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:21:05,088] INFO in app: Application initialized in development mode
+[2025-12-20 02:21:58,153] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:21:58,155] INFO in app: Application initialized in development mode
+[2025-12-20 02:21:58,836] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:21:58,837] INFO in app: Application initialized in development mode
+[2025-12-20 02:22:28,952] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:22:28,954] INFO in app: Application initialized in development mode
+[2025-12-20 02:25:13,916] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:25:13,918] INFO in app: Application initialized in development mode
+[2025-12-20 02:26:21,258] INFO in api: Expanding keywords: ['java developer']
+[2025-12-20 02:26:24,276] INFO in api: Expanding keywords: ['Java Engineer', 'java developer', 'Spring Boot Developer', 'Java Software Engineer', 'Java Developer', 'J2EE Developer']
+[2025-12-20 02:28:20,929] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:28:20,931] INFO in app: Application initialized in development mode
+[2025-12-20 02:29:05,964] INFO in api: Expanding keywords: ['java developer']
+[2025-12-20 02:29:10,498] INFO in api: Expanding keywords: ['Java Developer', 'Java Engineer', 'java developer', 'Spring Boot Developer', 'Java Software Engineer', 'J2EE Developer']
+[2025-12-20 02:29:44,094] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:29:44,097] INFO in app: Application initialized in development mode
+[2025-12-20 02:31:12,273] INFO in api: Expanding keywords: ['software engineer']
+[2025-12-20 02:33:23,254] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:33:23,256] INFO in app: Application initialized in development mode
+[2025-12-20 02:33:23,956] INFO in logger: Job Search Application logger initialized
+[2025-12-20 02:33:23,958] INFO in app: Application initialized in development mode
+[2025-12-20 02:33:55,176] INFO in api: Expanding keywords: ['software']
+[2025-12-20 02:33:59,099] INFO in api: Expanding keywords: ['Full Stack Engineer', 'software', 'Software Engineer', 'Frontend Engineer', 'Software Developer', 'Backend Engineer']

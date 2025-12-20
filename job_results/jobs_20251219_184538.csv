@@ -1,0 +1,411 @@
+id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description
+in-fac5100e7a28e925,indeed,https://www.indeed.com/viewjob?jk=fac5100e7a28e925,https://jobs.dropbox.com/listing/7066570,"Staff Infrastructure Software Engineer, Metadata",Dropbox,"Remote, US",2025-12-19,[],description,CompensationInterval.YEARLY,240600.0,325500.0,USD,True,,,,[],"Role Description
+  
+  
+As a Staff Software Engineer focused on the Metadata Infrastructure organization, you will play a central role in shaping and evolving the transactional database systems that underpin nearly every Dropbox product. The Metadata Core and Metadata Services teams together operate foundational systems that manage Dropbox’s transactional metadata at global scale, powering workloads across storage, sync, sharing, AI, and collaboration features. You’ll be responsible for defining and executing the multi-year technical strategy for this critical infrastructure — spanning distributed consensus, replication, caching layers, and high-performance storage engines — while staying deeply engaged in solving today’s real-world reliability and scalability challenges. Your work will have broad, company-wide impact, driving architectural alignment, enabling new product capabilities, and directly improving the productivity of engineering teams across Dropbox. This role is ideal for engineers who thrive in ambiguity, enjoy deep technical problem solving, and want to lead through influence while building resilient, developer-focused infrastructure. By joining this team, you’ll have the opportunity to shape the future of metadata systems at Dropbox, gain exposure to senior leadership, and help set the technical culture for some of the most business-critical systems in the company.
+  
+  
+Our Engineering Career Framework is viewable by anyone outside the company and describes what’s expected for our engineers at each of our career levels. Check out our blog post on this topic and more here .
+  
+  
+Responsibilities
+  
+  
+Design and operate Dropbox’s core metadata infrastructure — distributed, transactional systems that serve as the foundation for nearly all products and internal engineering workflows
+  
+Define and drive the multi-year technical strategy for Dropbox’s metadata database stacks, including storage engines, distributed consensus, caching layers, and access APIs
+  
+Lead architecture and implementation efforts that evolve how transactional metadata is modeled, stored, and accessed across Dropbox’s global infrastructure
+  
+Identify and solve high-impact, deeply technical problems involving scale, availability, consistency, and latency — navigating ambiguity with strong system-level thinking
+  
+Drive cross-functional technical alignment by partnering with platform, product, and infrastructure teams to ensure metadata systems meet the needs of the business and other engineers
+  
+Serve as a technical leader and role model, mentoring engineers, shaping engineering culture, and contributing to Dropbox’s high hiring bar through recruiting and interviews
+  
+Advance operational excellence by building resilient systems, participating in the on-call rotation, and continuously improving reliability through thoughtful design and rigorous post-incident analysis.
+  
+Evaluate emerging technologies and integrate industry best practices that enable Dropbox to stay ahead in scale, performance, and developer productivity
+  
+  
+Many teams at Dropbox run Services with on-call rotations, which entails being available for calls during both core and non-core business hours. If a team has an on-call rotation, all engineers on the team are expected to participate in the rotation as part of their employment. Applicants are encouraged to ask for more details of the rotations to which the applicant is applying.
+  
+Requirements
+  
+  
+BS, MS, or PhD in Computer Science or related technical field involving coding (e.g., physics or mathematics), or equivalent technical experience
+  
+10+ years of advanced software development skills in at least two modern programming languages (e.g., Go, C++, Java, Rust, Python, etc), with the ability to learn and work across multiple stacks
+  
+Deep expertise in distributed systems design and operation, including mastery of principles like consistency models, consensus protocols, partitioning, replication, and latency tradeoffs
+  
+Experience operating large-scale, transactional database systems in production — particularly as the source of truth in a high-availability, multi-tenant infrastructure environment
+  
+Demonstrated project leadership skills, including technical design, work breakdown, multi-workstream coordination, estimation, and milestone planning for high-impact infrastructure
+  
+Strong debugging and incident response skills, including hands-on experience in on-call rotations and post-incident analysis for critical infrastructure
+  
+Excellent communication and collaboration abilities, including cross-functional influence, mentoring, and the ability to articulate complex system tradeoffs to varied audiences
+  
+Proven experience operating and maintaining large-scale distributed systems in cloud environments, supporting high-throughput workloads (e.g., systems serving 10M+ QPS or equivalent read/write intensity).
+  
+  
+Preferred Qualifications
+  
+  
+Experience building or scaling metadata systems, distributed databases, or data-access platforms (e.g., RocksDB, Cassandra, CockroachDB, Spanner, MySQL, or similar)
+  
+Deep understanding and real world experience with consensus protocols and coordination systems such as Raft, Paxos, ZooKeeper, or etcd
+  
+Experience designing and optimizing cache coherence, read/write paths, or consistency layers at the storage or service tier
+  
+Contributions to developer productivity or self-service tooling in large-scale infrastructure organizations
+  
+Strong technical mentorship or leadership experience, especially in influencing org-wide engineering direction and up-leveling peers
+  
+Demonstrated experience in designing, implementing, and managing Disaster Recovery (DR) strategies and solutions.
+  
+Compensation
+  
+US Zone 1 $240,600—$325,500 USD US Zone 2 $216,500—$292,900 USD US Zone 3 $192,400—$260,400 USD
+  
+  
+The range(s) listed above is the expected annual salary/OTE (On-Target Earnings) for this role, subject to change.
+  
+  
+Please note, OTE are for sales roles only.
+  
+  
+Salary/OTE is just one component of Dropbox’s total rewards package. All regular employees are also eligible for the corporate bonus program or a sales incentive (target included in OTE) as well as stock in the form of Restricted Stock Units (RSUs).
+  
+  
+Dropbox takes a number of factors into account when determining individual starting pay, including job and level they are hired into, location/metropolitan area, skillset, and peer compensation. We target most new hire offers between the minimum up to the middle of the range.
+  
+  
+Dropbox uses the zip code of an employee’s remote work location to determine which metropolitan pay range we use. Current US Zone locations are as follows:
+  
+  
+
+* US Zone 1: San Francisco metro, New York City metro, or Seattle metro
+* US Zone 2: California (outside SF metro), Colorado, Connecticut (outside NYC metro), Delaware, Illinois (Chicago metro), Indiana (Chicago metro), Maryland, Massachusetts, Michigan (Chicago metro), New Hampshire, New Jersey (outside NYC metro), New York (outside NYC metro), Oregon, Pennsylvania (D.C. metro), Pennsylvania (outside NYC or DC metro), Texas (Austin metro) Virginia (DC metro), Washington (outside Seattle metro), Washington DC metro, West Virginia (DC metro), Wisconsin (Chicago metro)
+* US Zone 3: All other US locations
+
+Dropbox is a Virtual First company and is open to hiring candidates in all authorized locations.
+  
+  
+Company Description
+  
+  
+Dropbox isn’t just a workplace—it’s a living lab for more enlightened ways of working. We're a global community of bold visionaries and resourceful doers who are shaping the future of Dropbox—and with it the future of work. Our Virtual First model combines the autonomy of a distributed workplace with the power of human connection, making space for both meaningful work and meaningful relationships. With our start-up mindset and enterprise-level opportunities, you can be who you are and grow into who you’re meant to be. Here, you can own your impact to make work more intuitive, joyful, and human—for you as a Dropboxer and for hundreds of millions of people worldwide. If you're ready to push boundaries—and yourself— Dropbox is ready for you.
+  
+  
+Team Description
+  
+  
+The Dropbox Engineering Team builds the technology that creates more enlightened ways of working for hundreds of millions of people. Every day, our platforms—including Dropbox Dash, Dropbox Sign, and our core sync engine—handle over a billion files for users worldwide, creating engineering challenges as great as the opportunity for impact. Our software engineering team uses a range of technologies to solve interesting problems, including Python, React, Node.js, JavaScript, MongoDB, PostgreSQL, and Android development. We think like a startup but build for an enterprise, exploring new possibilities that transform how people work. If you're excited about turning complex technical challenges into intuitive solutions at scale, join our Engineering team.
+  
+  
+Areas of work include Machine Learning Engineers, Infrastructure Engineer, Product SWE Frontend and Backend, Mobile Software Engineers (iOS and Android), Engineering Manager, Data Engineer, Software Development Engineer in Test, Security Engineering, Site Reliability Engineer, Technical Program Managers, Network Engineer, Datacenter Engineer, Technical Supply Chain Manager and more.
+  
+  
+Benefits
+  
+  
+Dropbox is committed to investing in the holistic health and wellbeing of all Dropboxers and their families. Our benefits and perks programs include, but are not limited to:
+  
+  
+Competitive medical, dental, and vision coverage
+  
+  
+401(k) plan with a generous company match and immediate vesting
+  
+  
+Flexible PTO/Paid Time Off, paid holidays, Volunteer Time Off, and more, allowing you time to unplug, unwind, and refresh
+  
+  
+**Income Protection Plans:** Life and disability insurance
+  
+  
+**Business Travel Protection:** Travel medical and accident insurance
+  
+  
+Perks Allowance to be used on what matters most to you, whether that’s wellness, learning and development, food and groceries, and much more
+  
+  
+**Parental benefits including:** Parental Leave, Child and Adult Care, Day Care FSA, Fertility Benefits, Adoption and Surrogacy Support, and Lactation Support
+  
+  
+Access to over 10,000 global co-working spaces through Gable.to , making it easy to book flexible workspaces for collaboration or individual work
+  
+  
+Quarterly Cell phone and internet allowance
+  
+  
+Mental health and wellness benefits
+  
+  
+Disability and neurodivergence support benefits
+  
+  
+Additional benefit details are available upon request.
+  
+  
+Dropbox supports responsible use of AI for preparation, but misrepresentation of skills or experience is not permitted. See our AI philosophy .
+  
+  
+Dropbox is an equal opportunity employer. We are a welcoming place for everyone, and we do our best to make sure all people feel supported and connected at work. A big part of that effort is our support for members and allies of internal groups like Asians at Dropbox, BlackDropboxers, enABLE, TODOS (Latinx), Pridebox (LGBTQ), Vets at Dropbox, and Women at Dropbox.",,https://www.indeed.com/cmp/Dropbox-ab4b15a9,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f9f18cf27158d542353d8345e5c522d,https://www.dropbox.com,"San Francisco, CA","1,001 to 5,000",Decline to state,"At Dropbox, we're designing a more enlightened way of working by building a whole suite of products, including our newest AI-powered tools, created to simplify workflows and keep teams focused."
+in-cd7ed37e3f69fc72,indeed,https://www.indeed.com/viewjob?jk=cd7ed37e3f69fc72,https://nexzentek.rmtportal.com/#/home/open-position-details?id=NEX-JOB-23367,Databricks Developer,Nexzentek,"Remote, US",2025-12-19,[],,,,,,True,,,,[],"Job Openings:
+
+2
+
+Experience:
+
+7-8
+
+Yrs
+
+Published On:
+
+Dec 19, 2025, 11:31 am
+
+Job Description
+
+Job Title: Databricks Developer
+
+Job Description: A Pyspark and Databricks Developer with a good understanding of the entire ETL/Azure
+
+lifecycle with a background of data projects.
+
+Responsibilities
+
+ Design, develop, and maintain scalable data pipelines and ETL processes using Azure Databricks, Data
+
+Factory, and other Azure services
+
+ Implement and optimize Spark jobs, data transformations, and data processing workflows, Managing
+
+Databricks notebooks, Delta lake with Python, Delta Lake with Sparks SQL in Databricks
+
+ Leverage Azure DevOps and CI/CD best practices to automate the deployment /DAB Deployments and
+
+management of data pipelines and infrastructure
+
+ Ensure Data Integrity checks and Data Quality checks with zero percent errors when deployed to production
+
+ Understand Databricks new features Unity Catalog/Lake flow/DAB Deployments/Catalog Federation
+
+ Hands on experience Data extraction (extract, schemas, corrupt records, error handling, parallelized code),
+
+transformations and loads (user defined functions, join optimizations) and Production optimize (automate
+
+ETL)
+
+Qualifications
+
+ Bachelor’s degree in computer science, Information Technology, or related field.
+
+ Minimum of 5 years of experience in data engineering or similar roles.
+
+ Proven expertise with Azure Databricks and data processing frameworks.
+
+ Strong understanding of data warehousing, ETL processes, and data pipeline design.
+
+ Experience with SQL, Python, and Spark.
+
+ Excellent problem-solving and analytical skills.
+
+ Effective communication and teamwork abilities.
+
+Skills
+
+ Azure Databricks
+
+ Python
+
+ Apache Spark
+
+ SQL
+
+ ETL processes
+
+ Data Warehousing
+
+ Data Pipeline Design
+
+ Cloud Architecture
+
+Skills
+
+* Python
+* Databricks
+
+Work Location
+
+Remote",,https://www.indeed.com/cmp/Nexzentek-1,,,,,,
+in-7d89245550e8efb6,indeed,https://www.indeed.com/viewjob?jk=7d89245550e8efb6,https://seon.io/careers/?ashby_jid=4a0acd47-95c2-4dc1-8a9c-35f41165476e,Senior Platform Engineer,SEON,"Remote, US",2025-12-19,[],,,,,,True,,,,[],"Location
+
+Europe - Remote
+
+Employment Type
+
+Full time
+
+Location Type
+
+Remote
+
+Department
+
+Engineering
+
+  
+
+SEON is the command center for fraud prevention and AML compliance, helping thousands of companies worldwide stop fraud, reduce risk and protect revenue. Powered by 900+ real-time, first-party data signals, SEON enriches customer profiles, flags suspicious behavior and streamlines compliance workflows - all from one place. SEON provides richer data, more flexible and transparent analysis, and faster time to value than any other provider on the market. We’ve helped companies reduce fraud by 95% and achieve 32x ROI, and we’re growing fast, thanks to our partnerships with some of the world’s most ambitious digital brands like Revolut, Wise, and Bilt.
+
+We are looking for a Senior Platform Engineer to join the team responsible for building the core engine of our technical velocity. Unlike a traditional SRE role focused on operating production systems, your mission is to build the self-service tooling that empowers our product engineers to ship code securely, rapidly, and autonomously.
+
+You will work closely with the Senior Manager of Platform Engineering to treat our infrastructure as a product and our developers as customers. You will architect the ""Golden Paths"" that remove friction, reduce cognitive load, and enable our teams to scale in lockstep with our rapid business growth.
+
+This role offers **flexibility** and can be based preferably in Budapest, Hungary in a hybrid setting or anywhere in **the EU** with a **remote** setup, including occasional travel to our other offices.
+
+**WHAT YOU’LL DO:**
+
+* Golden Path Architecture: Design and implement the ""Golden Paths""—standardized, automated templates for microservices and infrastructure that allow developers to deploy safely and quickly without needing deep infrastructure expertise.
+* Self-Service Tooling: Develop the CLI tools, portals, or API interfaces that abstract the complexity of our cloud infrastructure, allowing developers to self-serve resources.
+* Infrastructure as Software: Develop and maintain a library of modular, testable, and versioned Terraform modules that serve as the building blocks for all engineering teams.
+* CI/CD Orchestration: Architect robust, reusable GitHub Actions workflows and GitOps pipelines (e.g., ArgoCD) that automate the entire delivery lifecycle, enforcing quality gates automatically.
+* Automated Governance: Implement ""Compliance by Design"" using tools like Open Policy Agent (OPA) to automate security and compliance controls (e.g., SOC2, ISO) directly into the delivery pipeline.
+* Observability Vending: Working closely with SRE, ensure that every service deployed via the Golden Path automatically inherits standard logging, metrics (Prometheus), and dashboards (Grafana) without manual configuration.
+
+**WHAT YOU’ll BRING:**
+
+* **Platform & DevOps Mastery:** 5+ years of experience in Platform Engineering, DevOps, or Site Reliability Engineering, with a demonstrable track record of building infrastructure and tools for other engineers.
+* **Software Engineering Fluency:** Unlike traditional ops roles, this position requires strong coding skills. You are proficient in a high-level language (e.g., **Go, Python**) and use it to build automation, CLIs, or platform plugins.
+* **Cloud Native Expertise:** Deep, hands-on mastery of **AWS** and **Kubernetes**. You understand how to extend Kubernetes (e.g., Operators, CRDs) to simplify developer workflows.
+* **IaC at Scale:** Expert-level knowledge of **Terraform**. You don't just write state files; you design reusable module hierarchies and manage remote state strategies.
+* **Strategic Vision:** You understand the balance between standardization (governance) and developer autonomy (innovation), and can design systems that support both.
+* **Security Mindset:** Experience working in regulated environments (FinTech preferred). You understand **DevSecOps** and how to automate compliance checks (SAST/DAST) within the pipeline.
+* **Empathy & Communication:** You possess excellent communication skills and a ""customer-first"" attitude, capable of bridging the gap between complex infrastructure and application development.
+
+SEON Technologies collects and processes personal data in accordance with applicable data protection laws. If you are a European Job Applicant see the privacy notice for further details.
+
+SEON is an equal opportunity employer. We strive to embrace what makes each one of us unique; we each have our own story. Whether looking at our current staff or future team members, we believe that everyone has something to contribute, and our employment practices reflect that. We do not make an employment decision based upon race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. Please let your recruiter know if you need reasonable adjustments to our recruitment process.",,https://www.indeed.com/cmp/Seon-6,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5c58909da923384a79e8ddbd7845c234,https://seon.io/,,,,"At SEON, we strive to help online businesses reduce the costs, time, and challenges faced due to fraud."
+in-89865b3fe7837c7c,indeed,https://www.indeed.com/viewjob?jk=89865b3fe7837c7c,https://www.github.careers/jobs/4732/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f,"Senior Software Engineer, Migration Tools",GitHub,"Remote, US",2025-12-17,[],,,,,,True,,,,[],"About GitHub: GitHub is the world’s leading platform for agentic software development — powered by Copilot to build, scale, and deliver secure software. Over 180 million developers, including more than 90% of the Fortune 100 companies, use GitHub to collaborate, and more than 77,000 organisations have adopted GitHub Copilot.  
+Locations: In this role you can work from Remote, United States  
+Overview:
+
+We’re building the bridges to help customers build and deliver software using GitHub, and understand how their organization is using GitHub. As a Senior Software Engineer on the Migration Tools team, you’ll design and implement a secure, reliable, and performant platform that directly impacts developers worldwide, ensuring that migrations to GitHub are frictionless and of high fidelity. You will also be helping customers understand and improve their security posture by improving observability by contributing to GitHub’s Audit Log system.
+
+At GitHub, you’ll collaborate with a distributed, diverse, and passionate team of engineers and designers, delivering services that millions of developers depend on daily. In this role, you’ll design, prototype, implement, ship, and support highly performant, inspiring experiences that enhance collaboration and productivity for developers everywhere.
+
+We’re looking for creative problem solvers and diverse thinkers who value culture as much as customers and features. We believe how we work is just as important as what we deliver. Big vision, shared purpose, passion for quality, curiosity, dedication, and investment in fun and collaboration are what drive great results. Great products reflect the teams that build them—come join us!
+
+  
+Responsibilities:
+
+* Own and advocate for the health and quality of the systems that the team builds, including participating in on-call rotations and responding to incidents as necessary.
+* Design, develop and ship high-quality technical solutions that scale and interact with multiple GitHub services.
+* Drive continued investment in the availability, security, and observability of the migration and audit log services
+* Collaborate with cross-functional teams to define and implement innovative solutions.
+* Provide technical leadership and code reviews to encourage the growth of others.
+* Write design documents and proposals, guiding the service architecture at a component level.
+* Design and implement APIs to facilitate seamless integration with other systems and services
+* Utilize CI/CD tools to set up automated pipelines for continuous integration and delivery.
+* Become intimately familiar with the systems you build and take pride in writing maintainable, tested code.
+
+  
+Qualifications:
+
+Required Qualifications:
+
+* 6+ years experience in Software Engineering, Computer Science, or related technical discipline with proven experience maintaining and delivering production software coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, Go, Ruby, Rust, or Python
+
+  + OR Associate’s Degree in Computer Science, Electrical Engineering, Electronics Engineering, Math, Physics, Computer Engineering, Computer Science, or related field AND 5+ years experience in Software Engineering, Computer Science, or related technical discipline with proven experience maintaining and delivering production software coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, Go, Ruby, Rust, or Python
+  + OR Bachelor's Degree in Computer Science, Electrical Engineering, Electronics Engineering, Math, Physics, Computer Engineering, Computer Science, or related field AND 4+ years experience in Software Engineering, Computer Science, or related technical discipline with proven experience maintaining and delivering production software coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, Go, Ruby, Rust, or Python
+  + OR Master's Degree in Computer Science, Electrical Engineering, Electronics Engineering, Math, Physics, Computer Engineering, Computer Science, or related field AND 2+ years experience in Software Engineering, Computer Science, or related technical discipline with proven experience maintaining and delivering production software coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, Go, Ruby, Rust, or Python.
+  + OR Doctorate in Computer Science, Electrical Engineering, Electronics Engineering, Math, Physics, Computer Engineering, Computer Science, or related field.
+  + OR equivalent experience
+
+Preferred Qualifications:
+
+* Knowledge of data pipelines such as Kafka.
+* Strong knowledge of cloud platforms (e.g. Azure, AWS, or GCP) and developing scalable applications upon them.
+* Proven incident response experience including an ability to mitigate impact under pressure.
+* Excellent written and verbal communication skills.
+* Prior experience with best practices when working and communicating with a remote team.
+
+  
+Compensation Range: The base salary range for this job is USD $124,000.00 - USD $329,200.00 /Yr.  
+  
+These pay ranges are intended to cover roles based across the United States. An individual's base pay depends on various factors including geographical location and review of experience, knowledge, skills, abilities of the applicant. At GitHub certain roles are eligible for benefits and additional rewards, including annual bonus and stock. These rewards are allocated based on individual impact in role. In addition, certain roles also have the opportunity to earn sales incentives based on revenue or utilization, depending on the terms of the plan and the employee's role. GitHub Leadership Principles:
+
+**GitHub values**
+
+* Customer-obsessed
+* Ship to learn
+* Growth mindset
+* Own the outcome
+* Better together
+* Diverse and inclusive
+
+**Manager fundamentals**
+
+* Model
+* Coach
+* Care
+
+**Leadership principles**
+
+* Create clarity
+* Generate energy
+* Deliver success
+
+Who We Are: GitHub is the world’s leading AI-powered developer platform with 150 million developers and counting. We’re also home to the biggest open-source community on earth (and 99% of the world’s software has open-source code in its DNA). Many of the apps and programs you use every day are built on GitHub.  
+Our teams are dreamers, doers, and pioneers, leading the way in AI, driving humanitarian efforts around the globe, and even sending open source to Mars (and beyond!). At GitHub, our goal is to create the space you need to do your best work. We’re remote-first and offer competitive pay, generous learning and growth opportunities, and excellent benefits to support you, wherever you are—because we know that people flourish when they can work on their own terms.  
+Join us, and let’s change the world, together.  
+EEO Statement: GitHub is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people of all walks of life. We don't discriminate against employees or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!",,https://www.indeed.com/cmp/Github,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dab6afa7f42ebfc7bf2388f07b723c58,https://github.com,"San Francisco, California, United States",,,
+in-190b909f036d96d7,indeed,https://www.indeed.com/viewjob?jk=190b909f036d96d7,https://cube-dev.breezy.hr/p/d259092d142b01-platform-engineer?source=indeed,Platform Engineer,Cube Dev,"Remote, US",2025-12-01,[],,,,,,True,,,,[],"At Cube, we're redefining how organizations deliver, consume, and automate data and analytics across teams, tools, and AI agents.Our mission is to enable Agentic Analytics — where AI agents work alongside humans on a shared semantic foundation
+
+If you're fascinated by building core data and AI infrastructure — the kind that powers analytics at the world's most advanced technology companies — but want the agility and ownership of a startup, Cube is where you'll thrive.
+
+With 19,000+ GitHub stars and 13,000+ community members, Cube is trusted by companies like SecurityScorecard, Webflow, The Linux Foundation, Cloud Academy, and SamCart.Our platform empowers AI agents with a universal semantic foundation — enabling autonomous analytics at scale while maintaining the same consistency, security, and performance across BI tools, spreadsheets, and embedded applications.
+
+**As a Platform Engineer at Cube**, you will be responsible for designing, building, and maintaining the core platform that powers Cube cloud product and supports Cube Core at scale. Your primary focus will be reliability, scalability, performance, and developer productivity across our infrastructure and internal platforms.
+
+You will work closely with Core and Platform engineers to ensure Cube runs efficiently in production environments and provides a seamless experience for both internal teams and customers.
+
+### **What you will do:**
+
+Designing and maintaining cloud-native infrastructure for a globally distributed analytics platform.  
+
+Building internal platform tooling to improve developer velocity, observability, and deployment safety.  
+Scaling multi-tenant systems that serve large volumes of analytical queries with strict latency requirements.  
+Improving reliability, fault tolerance, and disaster recovery for Cube cloud platform.  
+Operating Kubernetes-based environments and evolving our deployment and release pipelines.  
+Implementing monitoring, alerting, and incident response practices for a high-availability system.  
+
+### **Who you are:**
+
+Strong experience with cloud infrastructure (AWS, GCP, or similar).  
+
+Hands-on experience with Kubernetes, container orchestration, and infrastructure-as-code (Terraform or equivalent).  
+Solid understanding of distributed systems, networking, and Linux internals.  
+Experience building and operating production systems with high availability and performance requirements.  
+Proficiency in at least one programming language used for platform development (Go, Rust, Python, or similar).  
+Good communication skills and ability to work effectively in a remote, async environment.  
+Fluent English.  
+
+### **Bonus points:**
+
+Experience operating data-intensive or analytics-heavy platforms.  
+
+Familiarity with CI/CD systems and release automation.  
+Experience with observability stacks (Prometheus, Grafana, OpenTelemetry, etc.).  
+Background in security best practices for cloud platforms.  
+* Contributions to open-source infrastructure or platform projects.
+
+  
+
+We're a fully remote company based in San Francisco. You can work from anywhere and join our highly collaborative team.
+
+*Cube does not discriminate on the basis of race, sex, color, religion, age, national origin, marital status, disability, veteran status, genetic information, sexual orientation, gender identity or any other reason prohibited by law in provision of employment opportunities and benefits. If you need reasonable accommodations during the interview process, please discuss this with the recruiter and we'll gladly work with you.*",,https://www.indeed.com/cmp/Cube-Dev,,,,,,
