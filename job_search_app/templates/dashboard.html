@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Job Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}?v=20251220_auth">
+    <style>
+        /* Additional dashboard styles */
+        .navbar {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .navbar-brand {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        
+        .navbar-user {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .user-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: white;
+            color: #667eea;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        
+        .logout-btn {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            padding: 8px 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+        
+        .logout-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+        
+        .dashboard-header {
+            padding: 30px;
+            background: white;
+            margin: 20px;
+            border-radius: 15px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        
+        .resume-status {
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 600;
+            margin-left: 15px;
+        }
+        
+        .resume-uploaded {
+            background: #d1fae5;
+            color: #065f46;
+        }
+        
+        .resume-missing {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+        
+        .upload-resume-btn {
+            background: #667eea;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            margin-top: 15px;
+            font-size: 16px;
+            transition: all 0.3s;
+        }
+        
+        .upload-resume-btn:hover {
+            background: #764ba2;
+            transform: translateY(-2px);
+        }
+        
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .modal.active {
+            display: flex;
+        }
+        
+        .modal-content {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            max-width: 500px;
+            width: 90%;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        .modal-header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            color: #667eea;
+        }
+        
+        .file-upload-area {
+            border: 3px dashed #e5e7eb;
+            border-radius: 10px;
+            padding: 40px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s;
+            margin: 20px 0;
+        }
+        
+        .file-upload-area:hover {
+            border-color: #667eea;
+            background: #f9fafb;
+        }
+        
+        .file-upload-area.drag-over {
+            border-color: #667eea;
+            background: #f0f4ff;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="navbar-brand">
+            🚀 Job Search
+        </div>
+        <div class="navbar-user">
+            <div class="user-info">
+                <div class="user-avatar">{{ current_user.full_name[0].upper() }}</div>
+                <span>{{ current_user.full_name }}</span>
+            </div>
+            <a href="{{ url_for('auth.logout') }}" class="logout-btn">Logout</a>
+        </div>
+    </nav>
+    
+    <!-- Dashboard Header -->
+    <div class="dashboard-header">
+        <h1>Welcome back, {{ current_user.full_name.split()[0] }}! 👋</h1>
+        <p style="color: #6b7280; margin-top: 10px;">
+            {% if current_user.has_resume %}
+                <span class="resume-status resume-uploaded">✓ Resume Uploaded</span>
+            {% else %}
+                <span class="resume-status resume-missing">⚠ No Resume</span>
+                <button class="upload-resume-btn" onclick="openResumeModal()">
+                    📄 Upload Resume to Get Match Scores
+                </button>
+            {% endif %}
+        </p>
+    </div>
+    
+    <!-- Main Content (your existing job search interface) -->
+    <div class="container">
+        <!-- Your existing index.html content goes here -->
+        {% include 'index_content.html' %}
+    </div>
+    
+    <!-- Resume Upload Modal -->
+    <div id="resumeModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">📄 Upload Your Resume</div>
+            <p style="color: #6b7280; margin-bottom: 20px;">
+                Upload your resume to get AI-powered job match scores
+            </p>
+            
+            <form id="resumeUploadForm" enctype="multipart/form-data">
+                <div class="file-upload-area" id="fileUploadArea">
+                    <p style="font-size: 48px; margin-bottom: 10px;">📄</p>
+                    <p style="font-weight: 600; margin-bottom: 5px;">
+                        Click to upload or drag and drop
+                    </p>
+                    <p style="color: #6b7280; font-size: 14px;">
+                        PDF, DOCX (Max 5MB)
+                    </p>
+                    <input type="file" id="resumeFile" name="resume" accept=".pdf,.docx,.doc" style="display: none;">
+                </div>
+                
+                <div id="uploadProgress" style="display: none; margin: 20px 0;">
+                    <div style="background: #e5e7eb; height: 8px; border-radius: 10px; overflow: hidden;">
+                        <div id="progressBar" style="background: #667eea; height: 100%; width: 0%; transition: width 0.3s;"></div>
+                    </div>
+                    <p id="progressText" style="text-align: center; margin-top: 10px; color: #6b7280;"></p>
+                </div>
+                
+                <div style="display: flex; gap: 10px; margin-top: 20px;">
+                    <button type="submit" class="upload-resume-btn" style="flex: 1; margin: 0;">
+                        Upload
+                    </button>
+                    <button type="button" onclick="closeResumeModal()" style="flex: 1; margin: 0; background: #e5e7eb; color: #374151;" class="upload-resume-btn">
+                        Cancel
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+    <script src="{{ url_for('static', filename='script.js') }}?v=20251220_auth"></script>
+    <script>
+        // Resume upload modal functions
+        function openResumeModal() {
+            document.getElementById('resumeModal').classList.add('active');
+        }
+        
+        function closeResumeModal() {
+            document.getElementById('resumeModal').classList.remove('active');
+        }
+        
+        // File upload area interactions
+        const fileUploadArea = document.getElementById('fileUploadArea');
+        const fileInput = document.getElementById('resumeFile');
+        
+        fileUploadArea.addEventListener('click', () => fileInput.click());
+        
+        fileUploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            fileUploadArea.classList.add('drag-over');
+        });
+        
+        fileUploadArea.addEventListener('dragleave', () => {
+            fileUploadArea.classList.remove('drag-over');
+        });
+        
+        fileUploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            fileUploadArea.classList.remove('drag-over');
+            const files = e.dataTransfer.files;
+            if (files.length > 0) {
+                fileInput.files = files;
+                uploadResume();
+            }
+        });
+        
+        fileInput.addEventListener('change', uploadResume);
+        
+        // Resume upload form submission
+        document.getElementById('resumeUploadForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            uploadResume();
+        });
+        
+        async function uploadResume() {
+            const file = fileInput.files[0];
+            if (!file) {
+                alert('Please select a file');
+                return;
+            }
+            
+            // Validate file type
+            const validTypes = ['application/pdf', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/msword'];
+            if (!validTypes.includes(file.type)) {
+                alert('Please upload a PDF or DOCX file');
+                return;
+            }
+            
+            // Validate file size (5MB)
+            if (file.size > 5 * 1024 * 1024) {
+                alert('File size must be less than 5MB');
+                return;
+            }
+            
+            // Show progress
+            document.getElementById('uploadProgress').style.display = 'block';
+            document.getElementById('progressText').textContent = 'Uploading...';
+            
+            const formData = new FormData();
+            formData.append('resume', file);
+            
+            try {
+                const response = await fetch('/api/resume/upload', {
+                    method: 'POST',
+                    body: formData
+                });
+                
+                const data = await response.json();
+                
+                if (data.status === 'success') {
+                    document.getElementById('progressBar').style.width = '100%';
+                    document.getElementById('progressText').textContent = '✓ Upload successful!';
+                    
+                    setTimeout(() => {
+                        closeResumeModal();
+                        location.reload(); // Reload to show updated resume status
+                    }, 1000);
+                } else {
+                    alert('Upload failed: ' + (data.error || 'Unknown error'));
+                    document.getElementById('uploadProgress').style.display = 'none';
+                }
+            } catch (error) {
+                alert('Network error. Please try again.');
+                document.getElementById('uploadProgress').style.display = 'none';
+            }
+        }
+    </script>
+</body>
+</html>

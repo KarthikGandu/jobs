@@ -4,11 +4,15 @@ Application factory for Job Search Application
 from flask import Flask, jsonify
 from flask_cors import CORS
 from pathlib import Path
+import os
 
 from .config import config
 from .routes import main_bp, api_bp
+from .routes.auth import auth_bp
 from .utils import setup_logger
 from .utils.errors import APIError
+from .extensions import db, login_manager, bcrypt
+from .models.user import User
 
 
 def create_app(config_name='default'):
@@ -31,15 +35,39 @@ def create_app(config_name='default'):
     app.config.from_object(config[config_name])
     config[config_name].init_app(app)
     
+    # Database configuration
+    app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv(
+        'DATABASE_URL',
+        'sqlite:///' + str(Path(app.root_path).parent / 'job_search.db')
+    )
+    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+    
     # Initialize extensions
     CORS(app)
+    db.init_app(app)
+    login_manager.init_app(app)
+    bcrypt.init_app(app)
     
     # Setup logging
     setup_logger(app)
     
+    # User loader for Flask-Login
+    @login_manager.user_loader
+    def load_user(user_id):
+        return User.query.get(int(user_id))
+    
+    # Create database tables
+    with app.app_context():
+        db.create_all()
+    
     # Register blueprints
+    app.register_blueprint(auth_bp)
     app.register_blueprint(main_bp)
     app.register_blueprint(api_bp)
+    
+    # Import and register resume blueprint
+    from .routes.resume import resume_bp
+    app.register_blueprint(resume_bp)
     
     # Register error handlers
     register_error_handlers(app)
