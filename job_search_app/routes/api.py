@@ -285,6 +285,53 @@ def search_jobs():
                     if hasattr(value[0], 'value'):
                         job[key] = [v.value if hasattr(v, 'value') else str(v) for v in value]
         
+        # Add AI match scores if user has resume
+        if current_user.is_authenticated:
+            resume = Resume.query.filter_by(user_id=current_user.id).first()
+            if resume:
+                matcher = JobMatcher()
+                resume_data = {
+                    'skills': resume.skills or [],
+                    'years_experience': resume.years_experience,
+                    'highest_degree': resume.highest_degree,
+                    'raw_text': resume.raw_text or ''
+                }
+                
+                for job in jobs_list:
+                    # Calculate match score
+                    job_description = job.get('description', '') or ''
+                    if not job_description and job.get('job_url'):
+                        # If no description, use title and company as context
+                        job_description = f"{job.get('title', '')} at {job.get('company', '')}"
+                    
+                    match_result = matcher.calculate_overall_match(
+                        resume_data,
+                        job_description,
+                        job.get('title', '')
+                    )
+                    
+                    # Add match data to job
+                    job['match_score'] = match_result['overall_score']
+                    job['skills_match'] = match_result['skills_score']
+                    job['experience_match'] = match_result['experience_score']
+                    job['education_match'] = match_result['education_score']
+                    job['keywords_match'] = match_result['keywords_score']
+                    job['matched_skills'] = match_result['matched_skills']
+                    job['has_match_score'] = True
+                
+                # Sort by match score (highest first)
+                jobs_list.sort(key=lambda x: x.get('match_score', 0), reverse=True)
+            else:
+                # No resume, add default match data
+                for job in jobs_list:
+                    job['has_match_score'] = False
+                    job['match_score'] = None
+        else:
+            # Not authenticated, no match scores
+            for job in jobs_list:
+                job['has_match_score'] = False
+                job['match_score'] = None
+        
         # Save to CSV
         output_dir = Path(current_app.config['OUTPUT_DIR'])
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
