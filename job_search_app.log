@@ -142,3 +142,12 @@ Press Ctrl+C to stop the server
 [2025-12-21 00:23:33,265] INFO in api: Resume found! Skills: 26 skills
 [2025-12-21 00:23:59,279] INFO in logger: Job Search Application logger initialized
 [2025-12-21 00:23:59,323] INFO in app: Application initialized in development mode
+[2025-12-21 00:26:00,399] INFO in api: Expanding keywords: ['java']
+[2025-12-21 00:26:05,166] INFO in api: Job search request: ['Java Developer', 'Spring Boot Developer', 'java', 'Java Engineer'] in New York, NY, USA
+[2025-12-21 00:26:05,166] INFO in api: Searching for: Java Developer
+[2025-12-21 00:26:12,217] INFO in api: Searching for: Spring Boot Developer
+[2025-12-21 00:26:19,498] INFO in api: Searching for: java
+[2025-12-21 00:26:30,711] INFO in api: Searching for: Java Engineer
+[2025-12-21 00:26:35,367] INFO in api: User authenticated: True
+[2025-12-21 00:26:35,368] INFO in api: Checking resume for user 1
+[2025-12-21 00:26:35,369] INFO in api: Resume found! Skills: 26 skills
