@@ -3,11 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login - Job Search App</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='auth.css') }}?v=20251220">
+    <title>Login - Job Search</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -17,7 +15,6 @@
             justify-content: center;
             padding: 20px;
         }
-        
         .auth-container {
             background: white;
             border-radius: 20px;
@@ -27,45 +24,32 @@
             width: 100%;
             animation: slideIn 0.5s ease-out;
         }
-        
         @keyframes slideIn {
-            from {
-                opacity: 0;
-                transform: translateY(-30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+            from { opacity: 0; transform: translateY(-30px); }
+            to { opacity: 1; transform: translateY(0); }
         }
-        
         .logo {
             text-align: center;
             margin-bottom: 40px;
         }
-        
         .logo h1 {
             font-size: 32px;
             color: #667eea;
             margin-bottom: 10px;
         }
-        
         .logo p {
             color: #6b7280;
             font-size: 16px;
         }
-        
         .form-group {
             margin-bottom: 25px;
         }
-        
         .form-group label {
             display: block;
             color: #374151;
             font-weight: 600;
             margin-bottom: 8px;
         }
-        
         .form-group input {
             width: 100%;
             padding: 14px 16px;
@@ -74,28 +58,23 @@
             font-size: 16px;
             transition: all 0.3s;
         }
-        
         .form-group input:focus {
             outline: none;
             border-color: #667eea;
             box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
         }
-        
         .remember-me {
             display: flex;
             align-items: center;
             margin-bottom: 25px;
         }
-        
         .remember-me input {
             margin-right: 8px;
         }
-        
         .remember-me label {
             color: #6b7280;
             font-size: 14px;
         }
-        
         .btn-primary {
             width: 100%;
             padding: 16px;
@@ -108,25 +87,21 @@
             cursor: pointer;
             transition: transform 0.2s;
         }
-        
         .btn-primary:hover {
             transform: translateY(-2px);
             box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4);
         }
-        
         .btn-primary:disabled {
             opacity: 0.6;
             cursor: not-allowed;
             transform: none;
         }
-        
         .divider {
             text-align: center;
             margin: 30px 0;
             color: #9ca3af;
             position: relative;
         }
-        
         .divider::before,
         .divider::after {
             content: '';
@@ -136,43 +111,20 @@
             height: 1px;
             background: #e5e7eb;
         }
-        
         .divider::before { left: 0; }
         .divider::after { right: 0; }
-        
         .signup-link {
             text-align: center;
             color: #6b7280;
             margin-top: 20px;
         }
-        
         .signup-link a {
             color: #667eea;
             text-decoration: none;
             font-weight: 600;
         }
-        
         .signup-link a:hover {
             text-decoration: underline;
-        }
-        
-        .alert {
-            padding: 12px 16px;
-            border-radius: 8px;
-            margin-bottom: 20px;
-            font-size: 14px;
-        }
-        
-        .alert-error {
-            background: #fee2e2;
-            color: #991b1b;
-            border: 1px solid #fecaca;
-        }
-        
-        .alert-success {
-            background: #d1fae5;
-            color: #065f46;
-            border: 1px solid #a7f3d0;
         }
     </style>
 </head>
@@ -182,16 +134,6 @@
             <h1>🚀 Welcome Back</h1>
             <p>Sign in to find your dream job</p>
         </div>
-        
-        {% with messages = get_flashed_messages(with_categories=true) %}
-            {% if messages %}
-                {% for category, message in messages %}
-                    <div class="alert alert-{{ category }}">
-                        {{ message }}
-                    </div>
-                {% endfor %}
-            {% endif %}
-        {% endwith %}
         
         <form id="loginForm">
             <div class="form-group">
@@ -217,7 +159,7 @@
         <div class="divider">or</div>
         
         <div class="signup-link">
-            Don't have an account? <a href="{{ url_for('auth.signup') }}">Sign up</a>
+            Don't have an account? <a href="/auth/signup">Sign up</a>
         </div>
     </div>
     
@@ -237,7 +179,7 @@
             };
             
             try {
-                const response = await fetch('{{ url_for("auth.login") }}', {
+                const response = await fetch('/auth/login', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify(formData)

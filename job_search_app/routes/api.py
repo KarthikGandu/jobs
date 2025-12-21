@@ -2,6 +2,7 @@
 API routes - handles all API requests
 """
 from flask import Blueprint, request, jsonify, send_file, current_app
+from flask_login import current_user
 import sys
 from pathlib import Path
 import pandas as pd
@@ -15,7 +16,10 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent / "jobsparser" / "src
 
 from jobspy2 import scrape_jobs
 
-from ..services import JobMatcher, KeywordExpander, CompanyScraper
+from ..services.job_matcher import JobMatcher
+from ..services.keyword_expander import KeywordExpander
+from ..services.company_scraper import CompanyScraper
+from ..models.resume import Resume
 from ..utils import validate_job_search_params, validate_keyword_expansion, validate_company_search
 from ..utils.errors import ValidationError, ScrapingError, ResourceNotFoundError
 
@@ -286,9 +290,12 @@ def search_jobs():
                         job[key] = [v.value if hasattr(v, 'value') else str(v) for v in value]
         
         # Add AI match scores if user has resume
+        current_app.logger.info(f"User authenticated: {current_user.is_authenticated}")
         if current_user.is_authenticated:
+            current_app.logger.info(f"Checking resume for user {current_user.id}")
             resume = Resume.query.filter_by(user_id=current_user.id).first()
             if resume:
+                current_app.logger.info(f"Resume found! Skills: {len(resume.skills or [])} skills")
                 matcher = JobMatcher()
                 resume_data = {
                     'skills': resume.skills or [],

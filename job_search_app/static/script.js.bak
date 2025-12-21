@@ -425,7 +425,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <div class="job-company">${job.company || 'Company Not Listed'}</div>
                 </div>
                 <div style="display: flex; gap: 8px; align-items: center;">
-                    ${matchBadge}
+                    ${relevanceBadge}
                     <span class="job-site">${(job.site || 'unknown').replace('_', ' ')}</span>
                 </div>
             </div>

@@ -107,6 +107,14 @@ class KeywordExpander:
                 'Vue.js Developer',
                 'Angular Developer',
             ],
+            'dotnet': [
+                '.NET Developer',
+                'C# Developer',
+                'ASP.NET Developer',
+                '.NET Core Developer',
+                'ASP.NET MVC Developer',
+                'C# Engineer',
+            ],
             'mobile developer': [
                 'Mobile Developer',
                 'iOS Developer',
@@ -191,7 +199,13 @@ class KeywordExpander:
     
     def normalize_keyword(self, keyword: str) -> str:
         """Normalize keyword for matching"""
-        return keyword.lower().strip()
+        keyword_lower = keyword.lower().strip()
+        
+        # Special case: .NET variations should map to common terms
+        if keyword_lower in ['.net', 'net', 'dotnet']:
+            return 'dotnet'
+        
+        return keyword_lower
     
     def generate_smart_variations(self, keyword: str) -> List[str]:
         """Generate intelligent variations for ANY job title"""

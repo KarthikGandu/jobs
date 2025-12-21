@@ -27,8 +27,8 @@ def create_app(config_name='default'):
     """
     app = Flask(
         __name__,
-        static_folder=str(Path(__file__).parent.parent / 'static'),
-        template_folder=str(Path(__file__).parent.parent / 'templates')
+        static_folder=str(Path(__file__).parent / 'static'),
+        template_folder=str(Path(__file__).parent / 'templates')
     )
     
     # Load configuration
