@@ -1,7 +1,7 @@
-[2025-12-20 23:37:08,251] INFO in logger: Job Search Application logger initialized
-[2025-12-20 23:37:08,251] INFO in logger: Job Search Application logger initialized
-[2025-12-20 23:37:08,281] INFO in app: Application initialized in development mode
-[2025-12-20 23:37:08,281] INFO in app: Application initialized in development mode
+[2025-12-21 23:20:41,749] INFO in logger: Job Search Application logger initialized
+[2025-12-21 23:20:41,749] INFO in logger: Job Search Application logger initialized
+[2025-12-21 23:20:41,822] INFO in app: Application initialized in development mode
+[2025-12-21 23:20:41,822] INFO in app: Application initialized in development mode
 
 ======================================================================
 🚀 Job Search Application Starting...
@@ -13,141 +13,108 @@ Press Ctrl+C to stop the server
 
  * Serving Flask app 'job_search_app.app'
  * Debug mode: on
-[2025-12-20 23:38:40,252] INFO in resume: Resume uploaded for user 1: 1_20251220_233840_Harsha_Resume_SDE.pdf
-[2025-12-20 23:38:40,252] INFO in resume: Resume uploaded for user 1: 1_20251220_233840_Harsha_Resume_SDE.pdf
-[2025-12-20 23:38:46,601] INFO in api: Expanding keywords: ['java']
-[2025-12-20 23:38:46,601] INFO in api: Expanding keywords: ['java']
-[2025-12-20 23:38:58,964] INFO in api: Job search request: ['Java Developer', 'Java Engineer', 'java', 'Spring Boot Developer'] in New York, NY, USA
-[2025-12-20 23:38:58,964] INFO in api: Job search request: ['Java Developer', 'Java Engineer', 'java', 'Spring Boot Developer'] in New York, NY, USA
-[2025-12-20 23:38:58,964] INFO in api: Searching for: Java Developer
-[2025-12-20 23:38:58,964] INFO in api: Searching for: Java Developer
-2025-12-20 23:38:58,965 - INFO - JobSpy:indeed - search page: 1 / 1
-2025-12-20 23:38:58,967 - INFO - JobSpy:linkedin - search page: 1 / 2
-2025-12-20 23:39:00,765 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
-2025-12-20 23:39:04,310 - INFO - JobSpy:linkedin - search page: 2 / 2
-2025-12-20 23:39:04,823 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
-[2025-12-20 23:39:04,860] INFO in api: Searching for: Java Engineer
-[2025-12-20 23:39:04,860] INFO in api: Searching for: Java Engineer
-2025-12-20 23:39:04,860 - INFO - JobSpy:indeed - search page: 1 / 1
-2025-12-20 23:39:04,860 - INFO - JobSpy:linkedin - search page: 1 / 2
-2025-12-20 23:39:05,844 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
-2025-12-20 23:39:09,357 - INFO - JobSpy:linkedin - search page: 2 / 2
-2025-12-20 23:39:09,841 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
-[2025-12-20 23:39:09,878] INFO in api: Searching for: java
-[2025-12-20 23:39:09,878] INFO in api: Searching for: java
-2025-12-20 23:39:09,878 - INFO - JobSpy:indeed - search page: 1 / 1
-2025-12-20 23:39:09,878 - INFO - JobSpy:linkedin - search page: 1 / 2
-2025-12-20 23:39:11,056 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
-2025-12-20 23:39:17,552 - INFO - JobSpy:linkedin - search page: 2 / 2
-2025-12-20 23:39:18,339 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
-[2025-12-20 23:39:18,371] INFO in api: Searching for: Spring Boot Developer
-[2025-12-20 23:39:18,371] INFO in api: Searching for: Spring Boot Developer
-2025-12-20 23:39:18,371 - INFO - JobSpy:indeed - search page: 1 / 1
-2025-12-20 23:39:18,371 - INFO - JobSpy:linkedin - search page: 1 / 2
-2025-12-20 23:39:19,147 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
-2025-12-20 23:39:22,158 - INFO - JobSpy:linkedin - search page: 2 / 2
-2025-12-20 23:39:22,629 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
-[2025-12-20 23:39:22,683] ERROR in api: Error during job search: name 'current_user' is not defined
-[2025-12-20 23:39:22,683] ERROR in api: Error during job search: name 'current_user' is not defined
-[2025-12-20 23:39:48,085] INFO in api: Job search request: ['Java Developer', 'Java Engineer', 'java', 'Spring Boot Developer'] in New York, NY, USA
-[2025-12-20 23:39:48,085] INFO in api: Job search request: ['Java Developer', 'Java Engineer', 'java', 'Spring Boot Developer'] in New York, NY, USA
-[2025-12-20 23:39:48,086] INFO in api: Searching for: Java Developer
-[2025-12-20 23:39:48,086] INFO in api: Job search request: ['java'] in New York, NY, USA
-[2025-12-20 23:39:48,086] INFO in api: Searching for: Java Developer
-[2025-12-20 23:39:48,086] INFO in api: Job search request: ['java'] in New York, NY, USA
-[2025-12-20 23:39:48,087] INFO in api: Searching for: java
-2025-12-20 23:39:48,087 - INFO - JobSpy:indeed - search page: 1 / 1
-2025-12-20 23:39:48,087 - INFO - JobSpy:linkedin - search page: 1 / 2
-[2025-12-20 23:39:48,087] INFO in api: Searching for: java
-2025-12-20 23:39:48,088 - INFO - JobSpy:indeed - search page: 1 / 1
-2025-12-20 23:39:48,089 - INFO - JobSpy:linkedin - search page: 1 / 2
-2025-12-20 23:39:48,988 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
-2025-12-20 23:39:49,142 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
-2025-12-20 23:39:52,486 - INFO - JobSpy:linkedin - search page: 2 / 2
-2025-12-20 23:39:55,591 - INFO - JobSpy:linkedin - search page: 2 / 2
-2025-12-20 23:39:56,039 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
-[2025-12-20 23:39:56,075] INFO in api: Searching for: Java Engineer
-[2025-12-20 23:39:56,075] INFO in api: Searching for: Java Engineer
-2025-12-20 23:39:56,076 - INFO - JobSpy:indeed - search page: 1 / 1
-2025-12-20 23:39:56,076 - INFO - JobSpy:linkedin - search page: 1 / 2
-2025-12-20 23:39:56,809 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
-2025-12-20 23:39:59,796 - INFO - JobSpy:linkedin - search page: 3 / 2
-2025-12-20 23:40:00,437 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
-[2025-12-20 23:40:00,485] ERROR in api: Error during job search: name 'current_user' is not defined
-[2025-12-20 23:40:00,485] ERROR in api: Error during job search: name 'current_user' is not defined
-2025-12-20 23:40:01,812 - INFO - JobSpy:linkedin - search page: 2 / 2
+[2025-12-21 23:21:21,088] INFO in api: Expanding keywords: ['.net']
+[2025-12-21 23:21:21,088] INFO in api: Expanding keywords: ['.net']
+[2025-12-21 23:21:32,018] INFO in api: Expanding keywords: ['control engineer']
+[2025-12-21 23:21:32,018] INFO in api: Expanding keywords: ['control engineer']
+[2025-12-21 23:21:39,544] INFO in api: Job search request: ['Backend control engineer', 'control Architect', 'control engineer', 'control Specialist', 'control Developer'] in USA
+[2025-12-21 23:21:39,544] INFO in api: Job search request: ['Backend control engineer', 'control Architect', 'control engineer', 'control Specialist', 'control Developer'] in USA
+[2025-12-21 23:21:39,545] INFO in api: Searching for: Backend control engineer
+[2025-12-21 23:21:39,545] INFO in api: Searching for: Backend control engineer
+2025-12-21 23:21:39,548 - INFO - JobSpy:indeed - search page: 1 / 1
+2025-12-21 23:21:39,550 - INFO - JobSpy:linkedin - search page: 1 / 2
+2025-12-21 23:21:40,757 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
+2025-12-21 23:21:43,826 - INFO - JobSpy:linkedin - search page: 2 / 2
+2025-12-21 23:21:44,370 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
+[2025-12-21 23:21:44,425] INFO in api: Searching for: control Architect
+[2025-12-21 23:21:44,425] INFO in api: Searching for: control Architect
+2025-12-21 23:21:44,425 - INFO - JobSpy:indeed - search page: 1 / 1
+2025-12-21 23:21:44,426 - INFO - JobSpy:linkedin - search page: 1 / 2
+2025-12-21 23:21:45,411 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
+2025-12-21 23:21:49,704 - INFO - JobSpy:linkedin - search page: 2 / 2
+2025-12-21 23:21:50,347 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
+[2025-12-21 23:21:50,395] INFO in api: Searching for: control engineer
+[2025-12-21 23:21:50,395] INFO in api: Searching for: control engineer
+2025-12-21 23:21:50,395 - INFO - JobSpy:indeed - search page: 1 / 1
+2025-12-21 23:21:50,395 - INFO - JobSpy:linkedin - search page: 1 / 2
+2025-12-21 23:21:51,421 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
+2025-12-21 23:21:56,647 - INFO - JobSpy:linkedin - search page: 2 / 2
+2025-12-21 23:21:57,410 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
+[2025-12-21 23:21:57,486] INFO in api: Searching for: control Specialist
+[2025-12-21 23:21:57,486] INFO in api: Searching for: control Specialist
+2025-12-21 23:21:57,486 - INFO - JobSpy:indeed - search page: 1 / 1
+2025-12-21 23:21:57,486 - INFO - JobSpy:linkedin - search page: 1 / 2
+2025-12-21 23:21:58,470 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
+2025-12-21 23:22:01,263 - INFO - JobSpy:linkedin - search page: 2 / 2
+2025-12-21 23:22:01,859 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
+[2025-12-21 23:22:01,902] INFO in api: Searching for: control Developer
+[2025-12-21 23:22:01,902] INFO in api: Searching for: control Developer
+2025-12-21 23:22:01,902 - INFO - JobSpy:indeed - search page: 1 / 1
+2025-12-21 23:22:01,902 - INFO - JobSpy:linkedin - search page: 1 / 2
+2025-12-21 23:22:02,849 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
+2025-12-21 23:22:07,883 - INFO - JobSpy:linkedin - search page: 2 / 2
+2025-12-21 23:22:08,463 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
+[2025-12-21 23:22:08,511] INFO in api: User authenticated: True
+[2025-12-21 23:22:08,511] INFO in api: User authenticated: True
+[2025-12-21 23:22:08,512] INFO in api: Checking resume for user 1
+[2025-12-21 23:22:08,512] INFO in api: Checking resume for user 1
+[2025-12-21 23:22:08,514] INFO in api: Resume found! Skills: 26 skills
+[2025-12-21 23:22:08,514] INFO in api: Resume found! Skills: 26 skills
+[2025-12-21 23:23:31,195] INFO in api: Job search request: ['Backend control engineer', 'control Architect', 'control engineer', 'control Specialist', 'control Developer'] in USA
+[2025-12-21 23:23:31,195] INFO in api: Job search request: ['Backend control engineer', 'control Architect', 'control engineer', 'control Specialist', 'control Developer'] in USA
+[2025-12-21 23:23:31,195] INFO in api: Searching for: Backend control engineer
+[2025-12-21 23:23:31,195] INFO in api: Searching for: Backend control engineer
+2025-12-21 23:23:31,196 - INFO - JobSpy:indeed - search page: 1 / 1
+2025-12-21 23:23:31,196 - INFO - JobSpy:linkedin - search page: 1 / 2
+2025-12-21 23:23:32,256 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
+2025-12-21 23:23:36,233 - INFO - JobSpy:linkedin - search page: 2 / 2
+2025-12-21 23:23:36,743 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
+[2025-12-21 23:23:36,819] INFO in api: Searching for: control Architect
+[2025-12-21 23:23:36,819] INFO in api: Searching for: control Architect
+2025-12-21 23:23:36,819 - INFO - JobSpy:indeed - search page: 1 / 1
+2025-12-21 23:23:36,819 - INFO - JobSpy:linkedin - search page: 1 / 2
+2025-12-21 23:23:37,875 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
+2025-12-21 23:23:41,080 - INFO - JobSpy:linkedin - search page: 2 / 2
+2025-12-21 23:23:41,621 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
+[2025-12-21 23:23:41,668] INFO in api: Searching for: control engineer
+[2025-12-21 23:23:41,668] INFO in api: Searching for: control engineer
+2025-12-21 23:23:41,668 - INFO - JobSpy:indeed - search page: 1 / 1
+2025-12-21 23:23:41,668 - INFO - JobSpy:linkedin - search page: 1 / 2
+2025-12-21 23:23:42,713 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
+2025-12-21 23:23:48,448 - INFO - JobSpy:linkedin - search page: 2 / 2
+2025-12-21 23:23:49,132 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
+[2025-12-21 23:23:49,181] INFO in api: Searching for: control Specialist
+[2025-12-21 23:23:49,181] INFO in api: Searching for: control Specialist
+2025-12-21 23:23:49,181 - INFO - JobSpy:indeed - search page: 1 / 1
+2025-12-21 23:23:49,181 - INFO - JobSpy:linkedin - search page: 1 / 2
+2025-12-21 23:23:50,060 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
+2025-12-21 23:23:53,458 - INFO - JobSpy:linkedin - search page: 2 / 2
+2025-12-21 23:23:54,029 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
+[2025-12-21 23:23:54,105] INFO in api: Searching for: control Developer
+[2025-12-21 23:23:54,105] INFO in api: Searching for: control Developer
+2025-12-21 23:23:54,105 - INFO - JobSpy:indeed - search page: 1 / 1
+2025-12-21 23:23:54,106 - INFO - JobSpy:linkedin - search page: 1 / 2
+2025-12-21 23:23:55,067 - INFO - JobSpy:indeed - Indeed scrape processing completed by scrape_site wrapper.
+2025-12-21 23:24:01,000 - INFO - JobSpy:linkedin - search page: 2 / 2
+2025-12-21 23:24:01,727 - INFO - JobSpy:linkedin - Linkedin scrape processing completed by scrape_site wrapper.
+[2025-12-21 23:24:01,779] INFO in api: User authenticated: True
+[2025-12-21 23:24:01,779] INFO in api: User authenticated: True
+[2025-12-21 23:24:01,780] INFO in api: Checking resume for user 1
+[2025-12-21 23:24:01,780] INFO in api: Checking resume for user 1
+[2025-12-21 23:24:01,780] INFO in api: Resume found! Skills: 26 skills
+[2025-12-21 23:24:01,780] INFO in api: Resume found! Skills: 26 skills
 /Users/karthikg/opt/miniconda3/envs/jobs/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
   warnings.warn('resource_tracker: There appear to be %d '
-[2025-12-20 23:40:04,699] INFO in logger: Job Search Application logger initialized
-[2025-12-20 23:40:04,731] INFO in app: Application initialized in development mode
-[2025-12-20 23:40:22,205] INFO in api: Job search request: ['python'] in New York
-[2025-12-20 23:40:22,205] INFO in api: Searching for: python
-[2025-12-20 23:40:25,774] INFO in logger: Job Search Application logger initialized
-[2025-12-20 23:40:25,804] INFO in app: Application initialized in development mode
-[2025-12-20 23:40:42,060] INFO in logger: Job Search Application logger initialized
-[2025-12-20 23:40:42,092] INFO in app: Application initialized in development mode
-[2025-12-20 23:42:15,166] INFO in api: Job search request: ['java'] in New York, NY, USA
-[2025-12-20 23:42:15,167] INFO in api: Searching for: java
-[2025-12-20 23:42:20,202] ERROR in api: Error during job search: 'JobMatcher' object has no attribute 'calculate_overall_match'
-[2025-12-20 23:43:28,266] INFO in api: Job search request: ['java'] in New York, NY, USA
-[2025-12-20 23:43:28,268] INFO in api: Searching for: java
-[2025-12-20 23:43:28,268] INFO in api: Job search request: ['java'] in New York, NY, USA
-[2025-12-20 23:43:28,271] INFO in api: Searching for: java
-[2025-12-20 23:43:36,561] ERROR in api: Error during job search: 'JobMatcher' object has no attribute 'calculate_overall_match'
-[2025-12-20 23:43:40,551] ERROR in api: Error during job search: 'JobMatcher' object has no attribute 'calculate_overall_match'
-[2025-12-20 23:43:57,951] INFO in logger: Job Search Application logger initialized
-[2025-12-20 23:43:57,980] INFO in app: Application initialized in development mode
-[2025-12-20 23:46:22,858] INFO in api: Job search request: ['java'] in New York, NY, USA
-[2025-12-20 23:46:22,859] INFO in api: Searching for: java
-[2025-12-20 23:47:36,250] INFO in logger: Job Search Application logger initialized
-[2025-12-20 23:47:36,312] INFO in app: Application initialized in development mode
-[2025-12-20 23:49:06,896] INFO in api: Expanding keywords: ['data']
-[2025-12-20 23:49:26,878] INFO in api: Job search request: ['data', 'Applied Scientist', 'ML Engineer', 'Research Scientist', 'Data Scientist', 'Machine Learning Engineer'] in USA
-[2025-12-20 23:49:26,879] INFO in api: Searching for: data
-[2025-12-20 23:49:27,893] INFO in api: Searching for: Applied Scientist
-[2025-12-20 23:49:28,607] INFO in api: Searching for: ML Engineer
-[2025-12-20 23:49:29,427] INFO in api: Searching for: Research Scientist
-[2025-12-20 23:49:30,228] INFO in api: Searching for: Data Scientist
-[2025-12-20 23:49:31,173] INFO in api: Searching for: Machine Learning Engineer
-[2025-12-20 23:50:52,183] INFO in logger: Job Search Application logger initialized
-[2025-12-20 23:50:52,229] INFO in app: Application initialized in development mode
-[2025-12-20 23:54:01,230] INFO in api: Expanding keywords: ['java']
-[2025-12-20 23:54:08,769] INFO in api: Expanding keywords: ['.net']
-[2025-12-20 23:54:57,220] INFO in api: Job search request: ['.net'] in Dallas, TX, USA
-[2025-12-20 23:54:57,220] INFO in api: Searching for: .net
-[2025-12-20 23:55:03,208] INFO in api: User authenticated: True
-[2025-12-20 23:55:03,208] INFO in api: Checking resume for user 1
-[2025-12-20 23:55:03,210] INFO in api: Resume found! Skills: 26 skills
-[2025-12-20 23:55:20,177] INFO in logger: Job Search Application logger initialized
-[2025-12-20 23:55:20,220] INFO in app: Application initialized in development mode
-[2025-12-20 23:56:42,315] INFO in logger: Job Search Application logger initialized
-[2025-12-20 23:56:42,363] INFO in app: Application initialized in development mode
-[2025-12-20 23:59:54,766] INFO in api: Expanding keywords: ['java']
-[2025-12-20 23:59:58,205] INFO in api: Job search request: ['java', 'Spring Boot Developer', 'Java Developer', 'Java Engineer'] in New York, NY, USA
-[2025-12-20 23:59:58,205] INFO in api: Searching for: java
-[2025-12-21 00:00:04,194] INFO in api: Searching for: Spring Boot Developer
-[2025-12-21 00:00:10,722] INFO in api: Searching for: Java Developer
-[2025-12-21 00:00:17,219] INFO in api: Searching for: Java Engineer
-[2025-12-21 00:00:22,824] INFO in api: User authenticated: True
-[2025-12-21 00:00:22,824] INFO in api: Checking resume for user 1
-[2025-12-21 00:00:22,825] INFO in api: Resume found! Skills: 26 skills
-[2025-12-21 00:01:48,370] INFO in logger: Job Search Application logger initialized
-[2025-12-21 00:01:48,416] INFO in app: Application initialized in development mode
-[2025-12-21 00:03:36,090] INFO in logger: Job Search Application logger initialized
-[2025-12-21 00:03:36,121] INFO in app: Application initialized in development mode
-[2025-12-21 00:23:28,166] INFO in api: Job search request: ['java'] in New York, NY, USA
-[2025-12-21 00:23:28,167] INFO in api: Searching for: java
-[2025-12-21 00:23:33,263] INFO in api: User authenticated: True
-[2025-12-21 00:23:33,263] INFO in api: Checking resume for user 1
-[2025-12-21 00:23:33,265] INFO in api: Resume found! Skills: 26 skills
-[2025-12-21 00:23:59,279] INFO in logger: Job Search Application logger initialized
-[2025-12-21 00:23:59,323] INFO in app: Application initialized in development mode
-[2025-12-21 00:26:00,399] INFO in api: Expanding keywords: ['java']
-[2025-12-21 00:26:05,166] INFO in api: Job search request: ['Java Developer', 'Spring Boot Developer', 'java', 'Java Engineer'] in New York, NY, USA
-[2025-12-21 00:26:05,166] INFO in api: Searching for: Java Developer
-[2025-12-21 00:26:12,217] INFO in api: Searching for: Spring Boot Developer
-[2025-12-21 00:26:19,498] INFO in api: Searching for: java
-[2025-12-21 00:26:30,711] INFO in api: Searching for: Java Engineer
-[2025-12-21 00:26:35,367] INFO in api: User authenticated: True
-[2025-12-21 00:26:35,368] INFO in api: Checking resume for user 1
-[2025-12-21 00:26:35,369] INFO in api: Resume found! Skills: 26 skills
+[2025-12-22 13:15:21,891] INFO in logger: Job Search Application logger initialized
+[2025-12-22 13:15:21,962] INFO in app: Application initialized in development mode
+[2025-12-22 13:15:59,379] INFO in api: Expanding keywords: ['software']
+[2025-12-22 13:16:28,512] INFO in api: Job search request: ['Frontend Engineer', 'Full Stack Engineer', 'Software Developer', 'Software Engineer', 'software', 'Backend Engineer'] in USA
+[2025-12-22 13:16:28,513] INFO in api: Searching for: Frontend Engineer
+[2025-12-22 13:16:37,088] INFO in api: Searching for: Full Stack Engineer
+[2025-12-22 13:16:45,170] INFO in api: Searching for: Software Developer
+[2025-12-22 13:16:53,649] INFO in api: Searching for: Software Engineer
+[2025-12-22 13:17:00,364] INFO in api: Searching for: software
+[2025-12-22 13:17:07,509] INFO in api: Searching for: Backend Engineer
+[2025-12-22 13:17:14,682] INFO in api: User authenticated: True
+[2025-12-22 13:17:14,682] INFO in api: Checking resume for user 1
+[2025-12-22 13:17:14,684] INFO in api: Resume found! Skills: 26 skills
